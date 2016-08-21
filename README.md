@@ -1,6 +1,7 @@
 # 圣地亚哥服务器喵
 # change log
 
+#=======2016.08.21========
 禁用EnderZoo的direslime
 
-(DONE!)禁用thirst mod
+禁用thirst mod
