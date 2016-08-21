@@ -3,4 +3,4 @@
 
 禁用EnderZoo的direslime
 
-禁用thirst mod
+(DONE!)禁用thirst mod
