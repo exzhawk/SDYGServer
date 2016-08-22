@@ -5,3 +5,7 @@
 > 禁用EnderZoo的direslime
 >
 > 禁用thirst mod
+
+大幅降低难度
+
+删除GOG
