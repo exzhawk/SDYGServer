@@ -9,3 +9,7 @@
 大幅降低难度
 
 删除GOG
+
+重新加入GOG
+
+禁止special mobs的angry pigman, dom witcher生成
