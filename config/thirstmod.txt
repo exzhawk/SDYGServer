@@ -1,0 +1,41 @@
+# Configuration file
+
+##########################################################################################################
+# exhaustion rates
+#--------------------------------------------------------------------------------------------------------#
+# Yes the values may be a little long. Don't worry it's fine.
+##########################################################################################################
+
+"exhaustion rates" {
+    # How fast the player is exhausted in the desert biome. 2 is 2x times faster.
+    D:Desert=2.0
+
+    # How fast the player is exhausted when jumping. Sprint Jump is this multiplied by 2
+    D:Jumping=0.029999999329447746
+
+    # How fast the player is exhausted at night. 1 is daytime speed.
+    D:Night=0.8999999761581421
+
+    # How fast the player is exhausted when sprinting.
+    D:Running=0.09999999403953552
+
+    # How fast the player is exhausted when walking.
+    D:Walking=0.009999999776482582
+
+    # How fast the player is exhausted when swimming.
+    D:Water=0.029999999329447746
+}
+
+
+general {
+    # Moves the ThirstBar to be above the health bar.
+    B:"Meter on leftside"=false
+
+    # Allows the thirst bar to dehydrate on peaceful mode.
+    B:"Peaceful On"=false
+
+    # Allows you to turn the poison off or on.
+    B:"Poisoning On"=true
+}
+
+

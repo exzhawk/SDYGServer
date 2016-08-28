@@ -1,0 +1,60 @@
+//FIX LP MODULE
+recipes.remove(<LogisticsPipes:item.itemModule:0>);
+
+recipes.addShaped(<LogisticsPipes:item.itemModule:0>,[
+					[null,<ore:tofuAnnin>,null],
+					[<ore:dustRedstone>,<ore:tofuAnnin>,<ore:dustRedstone>],
+					[null,<ore:tofuDiamondNugget>,null]]);
+
+//FIX LP MACHINES
+//SOLDERING STATION
+recipes.remove(<LogisticsPipes:logisticsSolidBlock:0>);
+recipes.addShaped(<LogisticsPipes:logisticsSolidBlock:0>,[
+					[<ore:plateSteel>,<ore:crafterWood>,<ore:plateSteel>],
+					[<ore:plateSteel>,<ore:craftingCompressor>,<ore:plateSteel>],
+					[<ore:plateSteel>,<ore:tfCircuitBoard>,<ore:plateSteel>]]);
+
+//POWER JUNCTION
+recipes.remove(<LogisticsPipes:logisticsSolidBlock:1>);
+recipes.addShaped(<LogisticsPipes:logisticsSolidBlock:1>,[
+					[<ore:plateSteel>,<ore:plateSteel>,<ore:plateSteel>],
+					[<ore:dustRedstone>,<DCsAppleMilk:defeatedcrow.gelBatContainer>.anyDamage(),<ore:dustRedstone>],
+					[<ore:plateSteel>,<ore:plateSteel>,<ore:plateSteel>]]);
+
+//SECURITY STATION
+recipes.remove(<LogisticsPipes:logisticsSolidBlock:2>);
+recipes.addShaped(<LogisticsPipes:logisticsSolidBlock:2>,[
+					[<ore:plateSteel>,<ore:gearDiamond>,<ore:plateSteel>],
+					[<ore:dustRedstone>,<LogisticsPipes:item.PipeItemsBasicLogistics:0>,<ore:dustRedstone>],
+					[<ore:plateSteel>,<ore:plateSteel>,<ore:plateSteel>]]);
+					
+recipes.addShaped(<LogisticsPipes:logisticsSolidBlock:2>,[
+					[<ore:plateSteel>,<BuildCraft|Silicon:redstoneChipset:3>,<ore:plateSteel>],
+					[<ore:dustRedstone>,<LogisticsPipes:item.PipeItemsBasicLogistics:0>,<ore:dustRedstone>],
+					[<ore:plateSteel>,<ore:plateSteel>,<ore:plateSteel>]]);
+					
+//CRAFTING TABLE
+recipes.remove(<LogisticsPipes:logisticsSolidBlock:3>);
+recipes.addShaped(<LogisticsPipes:logisticsSolidBlock:3>,[
+					[<ore:plankWood>,<ore:crafterWood>,<ore:plankWood>],
+					[<ore:gearMithrilTofu>,<ore:blockTfMachineCase>,<ore:gearMithrilTofu>],
+					[<ore:plankWood>,<ore:chestWood>,<ore:plankWood>]]);
+					
+//STATISTICS TABLE
+recipes.remove(<LogisticsPipes:logisticsSolidBlock:5>);
+recipes.addShaped(<LogisticsPipes:logisticsSolidBlock:5>,[
+					[<ore:plateSteel>,<ore:gearGold>,<ore:plateSteel>],
+					[<ore:dustRedstone>,<LogisticsPipes:item.PipeItemsBasicLogistics:0>,<ore:dustRedstone>],
+					[<ore:plateSteel>,<ore:plateSteel>,<ore:plateSteel>]]);
+	
+recipes.addShaped(<LogisticsPipes:logisticsSolidBlock:5>,[
+					[<ore:plateSteel>,<BuildCraft|Silicon:redstoneChipset:2>,<ore:plateSteel>],
+					[<ore:dustRedstone>,<LogisticsPipes:item.PipeItemsBasicLogistics:0>,<ore:dustRedstone>],
+					[<ore:plateSteel>,<ore:plateSteel>,<ore:plateSteel>]]);	
+					
+//RF POWER PROVIDER
+recipes.remove(<LogisticsPipes:logisticsSolidBlock:11>);
+recipes.addShaped(<LogisticsPipes:logisticsSolidBlock:11>,[
+					[<ore:plateSteel>,<TofuCraft:tfAntennaU>,<ore:plateSteel>],
+					[<BuildCraft|Silicon:redstoneChipset:2>,<DCsAppleMilk:defeatedcrow.gelBatContainer>,<BuildCraft|Silicon:redstoneChipset:2>],
+					[<ore:plateSteel>,<BuildCraft|Silicon:redstoneChipset:1>,<ore:plateSteel>]]);	
