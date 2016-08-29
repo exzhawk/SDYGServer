@@ -6,12 +6,12 @@
 
 
 #### =======2016.08.27========
-大幅降低难度
+> 大幅降低难度
 
-~~删除GOG~~
+> ~~删除GOG~~
 ~~重新加入GOG~~
 
-~~禁止special mobs的angry pigman, dom witcher生成~~
+> ~~禁止special mobs的angry pigman, dom witcher生成~~
 
 #### =======2016.08.21========
 > 禁用EnderZoo的direslime
