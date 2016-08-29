@@ -2,6 +2,10 @@ import mods.pneumaticcraft.Assembly;
 import mods.pneumaticcraft.Pressure;
 import mods.bloodmagic.Alchemy;
 
+//REMOVE GOLD COIN OREDICT
+val gcoin = <ore:nuggetGold>;
+gcoin.remove(<Thaumcraft:ItemResource:18>);
+
 
 //TECH FIRST
 
