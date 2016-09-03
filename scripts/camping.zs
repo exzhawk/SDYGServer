@@ -16,3 +16,6 @@ recipes.addShaped(<camping:knife>,[[null,<ore:ingotMithrilTofu>,<ore:slimeball>]
 									
 recipes.addShapeless(<camping:knife>,[<ore:itemRubstone>,<camping:knife:*>.onlyDamaged().noReturn()]);
 
+//IE COMPAT
+recipes.addShapeless(<camping:parts:1>,[<ore:stickIron>]);
+
