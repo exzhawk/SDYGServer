@@ -7,7 +7,7 @@ import mods.immersiveengineering.BottlingMachine;
 
 
 //FIX VARIOUS IRON RODS
-recipes.addShapeless(<ImmersiveEngineering:material:14> * 2 ,[<ore:stickIron>,<ore:stickIron>,null]);
+recipes.addShapeless(<ImmersiveEngineering:material:14> * 2 ,[<ore:stickIron>,<ore:stickIron>]);
 
 
 
