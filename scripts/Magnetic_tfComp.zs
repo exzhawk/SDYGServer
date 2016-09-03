@@ -51,3 +51,7 @@ mods.thaumcraft.Arcane.addShaped("ASPECTS", <Magneticraft:item.magnet>, "terra 2
 																				 
 //OIL																				 
 mods.magneticraft.Refinery.addRecipe(<TofuCraft:bucketSoymilkHell>.liquid*4000, <liquid:naturalgas>*500, <liquid:lightoil>*300, <liquid:heavyoil>*200);
+
+//REMOVE IRON STICK
+recipes.remove(<Magneticraft:item.stick_iron>);
+
