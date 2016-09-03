@@ -3,7 +3,9 @@
 
 #### =======2016.09.03========
 > Steel Scaffolding(IE) 合成修正
+>
 > 修改了ThermalFoundation的所有mob的刷怪姿势
+>
 > ExU发电机现在开放和成o(*￣▽￣*)o
 
 
