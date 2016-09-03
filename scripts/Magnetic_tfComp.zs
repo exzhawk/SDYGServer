@@ -4,6 +4,9 @@ import mods.thaumcraft.Arcane;
 
 import mods.magneticraft.Refinery;
 
+import mods.immersiveengineering.ArcFurnace;
+
+
 val salt = <ore:dustSalt>;
 salt.add(<Mariculture:materials:12>);
 salt.add(<TofuCraft:salt>);
@@ -55,3 +58,7 @@ mods.magneticraft.Refinery.addRecipe(<TofuCraft:bucketSoymilkHell>.liquid*4000, 
 //REMOVE IRON STICK
 recipes.remove(<Magneticraft:item.stick_iron>);
 
+
+//NUCLEAR
+mods.immersiveengineering.ArcFurnace.addRecipe(<Magneticraft:item.dust:8>*16, <appliedenergistics2:item.ItemMultiMaterial:45>, null, 6000, 256,[<ore:dustSignalum>,<ore:dustLumium>], "Alloying");
+mods.immersiveengineering.ArcFurnace.addRecipe(<Magneticraft:item.dust:7>*16, <appliedenergistics2:item.ItemMultiMaterial:45>, null, 4000, 512,[<ore:dustEnderium>,<ore:dustLumium>], "Alloying");

@@ -1,3 +1,5 @@
+import mods.buildcraft.AssemblyTable;
+
 //ADD FIVESEVEN AND P90
 recipes.remove(<FN5728:SS190>);
 recipes.remove(<FN5728:P90:*>);
@@ -14,3 +16,6 @@ recipes.remove(<ImmersiveEngineering:bullet:1> * 3);
 recipes.remove(<ImmersiveEngineering:bullet> * 3);
 recipes.addShaped(<ImmersiveEngineering:bullet:1>, [[<ore:dyeRed>, null, <ore:dyeRed>], [<ore:dyeRed>, null, <ore:dyeRed>], [<ore:plateCopper>, <ore:plateCopper>, <ore:plateCopper>]]);
 recipes.addShaped(<ImmersiveEngineering:bullet>, [[<ore:plateCopper>, null, <ore:plateCopper>], [<ore:plateCopper>, null, <ore:plateCopper>], [null, <ore:plateCopper>, null]]);
+
+mods.buildcraft.AssemblyTable.addRecipe(<FN5728:SS190>*64,10000,[<ore:dustMagnite>,<ore:dustGunpowder>,<ore:plateCopper>]);	
+

@@ -188,7 +188,7 @@ mods.immersiveengineering.ArcFurnace.addRecipe(<EnderIO:blockFusedQuartz:3>, <mi
 mods.immersiveengineering.ArcFurnace.addRecipe(<EnderIO:blockFusedQuartz:4>, <ore:dustCoal>, null, 100, 80,[<ore:blockGlassHardened>], "Alloying");
 mods.immersiveengineering.ArcFurnace.addRecipe(<EnderIO:blockFusedQuartz:5>, <ore:dustCoal>, null, 100, 80,[<ore:blockGlass>], "Alloying");
 
-mods.immersiveengineering.ArcFurnace.addRecipe(<EnderIO:itemAlloy:3>*2, <ore:itemSilicon>, null, 100, 512,[<ore:dustRedstone>], "Alloying");
-mods.immersiveengineering.ArcFurnace.addRecipe(<EnderIO:itemAlloy:7>, <ore:ingotGold>, null, 100, 1024,[<ore:soulSand>], "Alloying");
+mods.immersiveengineering.ArcFurnace.addRecipe(<EnderIO:itemAlloy:3>*2, <ore:itemSilicon>, null, 100, 1024,[<ore:dustRedstone>], "Alloying");
+mods.immersiveengineering.ArcFurnace.addRecipe(<EnderIO:itemAlloy:7>, <ore:ingotGold>, null, 100, 2048,[<ore:soulSand>], "Alloying");
 //BOTTLES UP!!
 mods.immersiveengineering.BottlingMachine.addRecipe(<minecraft:packed_ice>, <minecraft:ice>, <liquid:water> * 1000);

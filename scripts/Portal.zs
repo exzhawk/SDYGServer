@@ -38,4 +38,10 @@ recipes.addShaped(<PortalGun:PortalTurret>,[[<PneumaticCraft:minigun:*>,<ore:pla
 recipes.remove(<Sync:Sync_ItemPlaceholder>);
 mods.thaumcraft.Infusion.addRecipe("INFUSION", <TConstruct:strangeFood>, [<minecraft:redstone_block>,<minecraft:daylight_detector>,<minecraft:quartz>,<minecraft:quartz>,<minecraft:emerald>,<minecraft:emerald>,<minecraft:daylight_detector>], "spiritus 16, vacuos 8, tofu 32", <Sync:Sync_ItemPlaceholder>, 1);
 
+//I AM A POTATO
+recipes.remove(<PortalGun:PortalPotato>);
+recipes.addShaped(<PortalGun:PortalPotato>,[[<ore:chipsetRed>,<minecraft:repeater>,<ore:dyeYellow>],
+											[<minecraft:repeater>,<ore:oc:cpu1>,<ore:torchRedstoneActive>],
+											[<minecraft:stone_button>,<ore:torchRedstoneActive>,<simplyjetpacks:mysteriousPotato>]]);
 											
+recipes.addShapeless(<simplyjetpacks:mysteriousPotato>,[<PortalGun:PortalPotato>]);											
