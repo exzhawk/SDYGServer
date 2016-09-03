@@ -5,6 +5,12 @@ import mods.immersiveengineering.Squeezer;
 import mods.immersiveengineering.Fermenter;
 import mods.immersiveengineering.BottlingMachine;
 
+
+//FIX VARIOUS IRON RODS
+recipes.addShapeless(<ImmersiveEngineering:material:14> * 2 ,[<ore:stickIron>,<ore:stickIron>,null]);
+
+
+
 //FIX TF STEEL RECIPES
 mods.immersiveengineering.ArcFurnace.removeRecipe(<TofuFactory:tofuIngot:0>);
 mods.immersiveengineering.BlastFurnace.addRecipe(<TofuFactory:tofuIngot:0>,<TofuFactory:tofuDust:0>,2560);
