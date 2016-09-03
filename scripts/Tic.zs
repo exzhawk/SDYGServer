@@ -1,5 +1,17 @@
 import mods.tconstruct.Smeltery;
 
+//STEEL RODS
+val steelrod = <ore:stickSteel>;
+steelrod.add(<ExtraTiC:toolrod:171>);
+steelrod.add(<ExtraTiC:toolrod:101>);
+steelrod.add(<ExtraTiC:toolrod:115>);
+steelrod.add(<ExtraTiC:toolrod:121>);
+steelrod.add(<ExtraTiC:toolrod:145>);
+steelrod.add(<ExtraTiC:toolrod:146>);
+steelrod.add(<TConstruct:toolRod:16>);
+
+
+
 //GREEN HEART CANISTER!! 20HP BONUS!!
 recipes.addShaped(<TConstruct:heartCanister:6>, [[<TConstruct:materials:8>, <witchery:ingredient:64>, <TConstruct:materials:8>], [<Natura:Natura.netherfood>, <TConstruct:heartCanister:5>, <Natura:Natura.netherfood>], [<TConstruct:materials:8>, <TConstruct:heartCanister:4>, <TConstruct:materials:8>]]);
 recipes.addShapeless(<TConstruct:heartCanister:3>, [<TConstruct:heartCanister:5>]);
