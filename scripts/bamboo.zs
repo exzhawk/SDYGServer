@@ -8,7 +8,7 @@ bamboo_stick.add(<BiomesOPlenty:bamboo>);
 
 
 //NOOOOOO, WE WANT BAMBOOSHOTS!!!
-recipes.addShapeless(<BambooMod:blockbambooshoot>,[<ore:cropBambooshoot>,<ore:cropBambooshoot>]);
+recipes.addShapeless(<BambooMod:blockbambooshoot>*2,[<ore:cropBambooshoot>,<ore:cropBambooshoot>]);
 
 
 //SAKURA EITHER
