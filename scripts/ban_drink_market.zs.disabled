@@ -1,0 +1,2 @@
+//REMOVE DRINKS STORE TO PREVENT CHEATS
+recipes.remove(<thirstmod:tile.drinks_store>);

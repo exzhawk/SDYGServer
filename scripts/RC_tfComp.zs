@@ -33,13 +33,13 @@ recipes.addShaped(<Railcraft:part.circuit:2>*2,[
 					
 //BLAST FURNACE RECIPES FOR TOFU STEEL
 furnace.remove(<TofuFactory:tofuIngot:0>);
-mods.railcraft.BlastFurnace.addRecipe(<TofuFactory:tofuDust:0>,false,false,2560,<TofuFactory:tofuIngot:0>);
+mods.railcraft.BlastFurnace.addRecipe(<TofuFactory:tofuDust:0>,true,true,2560,<TofuFactory:tofuIngot:0>);
 
 furnace.remove(<TofuFactory:tofuIngot:2>);
-mods.railcraft.BlastFurnace.addRecipe(<TofuFactory:tofuDust:2>,false,false,1280,<TofuFactory:tofuIngot:2>);
+mods.railcraft.BlastFurnace.addRecipe(<TofuFactory:tofuDust:2>,true,true,1280,<TofuFactory:tofuIngot:2>);
 
 furnace.remove(<TofuFactory:tofuIngot:3>);
-mods.railcraft.BlastFurnace.addRecipe(<TofuFactory:tofuDust:3>,false,false,5120,<TofuFactory:tofuIngot:3>);
+mods.railcraft.BlastFurnace.addRecipe(<TofuFactory:tofuDust:3>,true,true,5120,<TofuFactory:tofuIngot:3>);
 
 //RAILS CAN BE MADE BY TOFU
 recipes.remove(<Railcraft:part.rail:2>);
