@@ -1,0 +1,32 @@
+uuid: 7eee4142-37af-3eb7-b4b9-ed1eb9290900
+timestamps:
+  login: 1479105022458
+  lastteleport: 1479104142793
+  logout: 1479096681999
+  kits:
+    tools: 1471787182298
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 228.99988236960834
+  y: 91.0
+  z: 568.6999999880791
+  yaw: 207.05377
+  pitch: 35.548542
+logoutlocation:
+  world: world
+  x: 210.4925253999416
+  y: 115.0
+  z: 769.4315855138184
+  yaw: -325.53223
+  pitch: 39.507996
+afk: false
+homes:
+  home:
+    world: world
+    x: 520.0490013847558
+    y: 100.0
+    z: 706.1855627868443
+    yaw: 221.2115
+    pitch: 22.788439
+nickname: Epix

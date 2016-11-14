@@ -1,0 +1,32 @@
+uuid: e90b13f2-6900-3898-8ca4-3dae1a530f4f
+timestamps:
+  login: 1423748011791
+  logout: 1423753050365
+  lastteleport: 1423751610734
+  kits:
+    tools: 1423748071328
+ipAddress: 124.127.207.133
+lastlocation:
+  world: SDYG6th
+  x: 369.36329457407567
+  y: 27.0
+  z: 1171.022170129205
+  yaw: 320.844
+  pitch: 21.787262
+logoutlocation:
+  world: SDYG6th
+  x: 295.1785659634439
+  y: 147.0
+  z: 1249.256972943035
+  yaw: 29.57788
+  pitch: 26.999033
+homes:
+  home:
+    world: SDYG6th
+    x: 1462.1431948831892
+    y: 171.0
+    z: 893.9370464036717
+    yaw: 185.45346
+    pitch: 35.946507
+ban:
+  timeout: 0
