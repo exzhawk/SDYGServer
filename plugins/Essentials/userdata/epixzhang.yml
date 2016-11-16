@@ -1,25 +1,25 @@
 uuid: 7eee4142-37af-3eb7-b4b9-ed1eb9290900
 timestamps:
-  login: 1479105022458
-  lastteleport: 1479104142793
-  logout: 1479096681999
+  login: 1479289051848
+  lastteleport: 1479294619114
+  logout: 1479300717533
   kits:
     tools: 1471787182298
 ipAddress: 127.0.0.1
 lastlocation:
   world: world
-  x: 228.99988236960834
-  y: 91.0
-  z: 568.6999999880791
-  yaw: 207.05377
-  pitch: 35.548542
+  x: 233.69999998807907
+  y: 101.0
+  z: 776.471802217466
+  yaw: -73.555115
+  pitch: 21.571064
 logoutlocation:
   world: world
-  x: 210.4925253999416
-  y: 115.0
-  z: 769.4315855138184
-  yaw: -325.53223
-  pitch: 39.507996
+  x: 229.03393383054544
+  y: 100.0
+  z: 573.0800949763288
+  yaw: -5.1275024
+  pitch: 47.049057
 afk: false
 homes:
   home:
