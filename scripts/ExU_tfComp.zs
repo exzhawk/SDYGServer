@@ -86,7 +86,7 @@ recipes.addShaped(<ExtraUtilities:drum:1>,[[<ExtraUtilities:bedrockiumIngot>,<Bo
 //										[<ore:blockGold>,<GrimoireOfGaia:item.GrimoireOfGaia.BoxGold>,<ore:blockGold>],
 //										[<ore:blockWool>,<ore:blockGold>,<ore:blockWool>]]);											
 
-recipes.remove(<ExtraUtilities:filing>);		
+//recipes.remove(<ExtraUtilities:filing>);		
 recipes.remove(<ExtraUtilities:conveyor>);	
 
 
