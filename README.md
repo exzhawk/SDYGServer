@@ -1,7 +1,7 @@
 # 圣地亚哥十周目喵
 ## change log
 
-#### =======2016.11.1========
+#### =======2016.11.17========
 > 增加mod： TMA，tcinventoryscan, thaumicenergistics.
 > 客户端更新.
 
