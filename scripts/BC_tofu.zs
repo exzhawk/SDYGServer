@@ -47,10 +47,12 @@ mods.buildcraft.Fuels.addCombustionEngineCoolant(<TofuCraft:bucketSoymilk>.liqui
 mods.buildcraft.Fuels.addCombustionEngineCoolant(<TofuCraft:bucketSoySauce>.liquid, 20);
 mods.buildcraft.Fuels.addCombustionEngineCoolant(<liquid:ice>, 10);
 
-//FUEL
+
+//Combustion Engine
+//InputFluid, OutputRF per Cycle, BurningTime in Ticks
 mods.buildcraft.Fuels.addCombustionEngineFuel(<liquid:lava>, 20, 200);
-mods.buildcraft.Fuels.addCombustionEngineFuel(<liquid:biodiesel>, 64, 200);
-mods.buildcraft.Fuels.addCombustionEngineFuel(<TofuCraft:bucketSoymilkHell>.liquid,128,400);
+mods.buildcraft.Fuels.addCombustionEngineFuel(<liquid:biodiesel>, 64, 100);
+mods.buildcraft.Fuels.addCombustionEngineFuel(<TofuCraft:bucketSoymilkHell>.liquid,1024,100);
 
 
 
