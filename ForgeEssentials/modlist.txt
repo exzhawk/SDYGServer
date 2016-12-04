@@ -1,0 +1,128 @@
+# --- ModList ---
+# Generated: 27-10-2016 (Server time)
+# Change the location of this file in main.cfg
+
+Minecraft Coder Pack;9.05;http://mcp.ocean-labs.de/
+Forge Mod Loader;7.10.99.99;https://github.com/MinecraftForge/FML/wiki
+Minecraft Forge;10.13.4.1558;http://MinecraftForge.net/forum/index.php/topic,5.0.html
+TFC[coremod];0.79.29;www.terrafirmacraft.com
+Aroma1997Core;1.0.2.16;http://www.minecraftforum.net/topic/1679684-
+CodeChicken Core;1.0.7.47;http://www.minecraftforum.net/topic/909223
+InputFix;1.7.10-v5;https://github.com/zlainsama/inputfix/releases
+ItemPhysic;1.1.5;
+IvToolkit;1.2.1;http://www.minecraftforum.net/topic/563257-172
+Not Enough Items;1.0.5.120;http://www.minecraftforum.net/topic/909223
+OpenComputers (Core);1.6.0.7-rc.1;http://oc.cil.li/
+Player API;1.4;http://www.minecraftforum.net/topic/738498-
+Smart Core;1.0.3;http://www.minecraftforum.net/topic/738498-
+OpenModsCore;0.9.1;http://openmods.info/
+CoFH ASM;000;
+Ships Mod Core;1.7.10-1.0.3;http://www.cuchazinteractive.com/ships
+FastCraft;1.23;http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820
+TerraFirmaCraft;0.79.29;http://terrafirmacraft.com/download.html
+Decorations;1.0.20;
+Leather Water Sac;3.9.B79;
+Merchants;1.1.3;
+Merchants Containers;1.0.1;
+TerraFirmaPumpkins;1.2;
+TerraFirmaStuff;0.1.3;https://github.com/Bunsan/TerraFirmaStuff
+TerraMisc;0.12.1;http://terrafirmacraft.com/f/topic/8401-tfc-07920035terramisc-weapons-update/
+AutomatedBellowsAddon;1.1b;
+CellarsAddon;1.010;
+TFC Scales;1.0;
+TFC Udary Mod;0.2.31;�9wiki in development!�r
+AromaBackup;0.1.0.0;http://www.minecraftforum.net/topic/1679684-
+AromaBackup Recovery;1.0;
+Dynmap;2.3-163;http://www.minecraftforum.net/topic/1543523-dynmap-dynmap-web-maps-for-minecraft/
+Forge Essentials;1.4.4;https://github.com/ForgeEssentials/ForgeEssentials
+Morpheus;1.7.10-1.6.21;http://www.curse.com/mc-mods/Minecraft/morpheus
+WorldEdit;6.1.1-SNAPSHOT;
+AnimalCrate;0.01;
+AnimationAPI;1.2.4;http://www.minecraftforum.net/topic/1850860-/
+Antique Atlas;1.7.10-4.2.10;http://www.minecraftforum.net/topic/2045745-164forge-antique-atlas-v10
+Aroma1997Core|Helper;1.0.2.16;http://www.minecraftforum.net/topic/1679684-
+AutoSapling;1.0;
+Avaritia;1.11;
+WanionLib;1.7.10-1.5;http://minecraft.curseforge.com/projects/wanionlib
+Avaritiaddons;1.2d;http://minecraft.curseforge.com/projects/avaritiaddons
+Better Foliage;2.0.14;
+BetterStorage;0.13.1.131-TFC;http://copy.mcft.net/mc/BetterStorage/
+BiblioCraft;1.11.5;http://www.bibliocraftmod.com
+BiblioWoodsTFC;1.2;http://www.bibliocraftmod.com
+CoFH Core;1.7.10R3.1.3;http://www.teamcofh.com
+Thermal Foundation;1.7.10R1.2.5;http://www.teamcofh.com
+Thermal Expansion;1.7.10R4.1.4;http://www.teamcofh.com
+Big Reactors;0.4.3A;http://www.big-reactors.com
+Carpenter's Blocks;3.3.8.1;www.carpentersblocks.com
+CreativeCore;1.3.14;
+Meta Mod: Custom Items;1.0.9b;https://github.com/0tho/CustomItems
+EnderStorage;1.4.7.38;http://www.minecraftforum.net/topic/909223
+EnderTech;1.7.10-0.3.2.405;https://github.com/carrotengineer/EnderTech
+Forge Multipart;1.2.0.347;https://github.com/Chicken-Bones/ForgeMultipart
+Extra Utilities;1.2.12;
+Farseek;1.0.11;
+Hardcore Darkness;1.7;
+iChunUtil;4.2.2;http://www.ichun.us/
+Railcraft;9.12.2.0;http://www.railcraft.info/releases/
+Immersive Engineering;0.7.7;
+Immersive Integration;0.6.8;https://github.com/UnwrittenFun/ImmersiveIntegration
+Infernal Mobs;1.6.0;http://www.minecraftforum.net/topic/991952-
+Inventory Tweaks;1.59-dev-152-cf6e263;https://github.com/Kobata/inventory-tweaks
+Waila;1.5.10;
+JABBA;1.2.2;http://mobiusstrip.eu/wiki/Jabba
+Mekanism;9.1.0;
+MekanismGenerators;9.1.0;
+MekanismTools;9.1.0;
+MineTweaker 3;3.0.10;http://minetweaker3.powerofbytes.com
+Mod Tweaker 2;0.9.5;
+NEI Addons;1.12.14.40;bdew.net/neiaddons
+NEI Addons: Developer Tools;1.12.14.40;
+NEI Addons: Applied Energistics 2;1.12.14.40;
+NEI Addons: Botany;1.12.14.40;
+NEI Addons: Forestry;1.12.14.40;http://bdew.net/neiaddons/
+NEI Addons: Crafting Tables;1.12.14.40;http://bdew.net/neiaddons/
+NEI Addons: Ex Nihilo;1.12.14.40;http://bdew.net/neiaddons/
+NEI Integration;1.1.2;
+No Mob Spawning on Trees;1.1.4-mc1.7.10;www.mmyzd.com
+OpenMods;0.9.1;http://openmods.info/
+OpenBlocks;1.5.1;http://www.openperipheral.info
+MrTJPCore;1.1.0.33;...
+ProjectRed Core;4.7.0pre12.95;http://projectredwiki.com
+ProjectRed Transmission;4.7.0pre12.95;
+OpenComputers;1.6.0.7-rc.1;http://oc.cil.li/
+Open Modular Turrets;2.2.4-225;
+OpenPeripheralCore;1.3;http://www.openmods.info
+OpenPeripheralAddons;0.5.1;http://www.openperipheral.info
+OpenPeripheralIntegration;0.5;http://www.openmods.info
+Plant Mega Pack;4.33;http://10paksmods.net
+PortalGun;4.0.0-beta-6;
+ProjectRed Transportation;4.7.0pre12.95;
+ProjectRed Compatibility;4.7.0pre12.95;
+ProjectRed Integration;4.7.0pre12.95;
+ProjectRed Fabrication;4.7.0pre12.95;
+ProjectRed Illumination;4.7.0pre12.95;
+ProjectRed Expansion;4.7.0pre12.95;
+Cuchaz Interactive;1.7.10-1.0;http://www.cuchazinteractive.com
+Ships Mod;1.7.10-1.0.3;http://www.cuchazinteractive.com/ships
+SkinPort;1.7.10-v8c;https://github.com/zlainsama/skinport
+Smart Moving;15.6;http://www.minecraftforum.net/topic/361430-
+Steve's Factory Manager;A93;
+Streams;0.2;
+TerraFirmaCraftNEIplugin;1.5.3.25;https://github.com/dries007/TerraFirmaCraftNEIplugin
+TFC Engineer;1.1;http://terrafirmacraft.com/f/topic/9563-tfc-07929-tfc-engineer/
+TFC Tweaker;1.1.4.0;
+Thermal Dynamics;1.7.10R1.2.0;http://www.teamcofh.com
+ttCore;MC1.7.10-0.1.0-67;http://ci.tterrag.com/job/ttCore
+Waila Harvestability;1.1.6;
+WAILA Plugins;MC1.7.10-0.0.1-14;http://ci.tterrag.com/job/WAILAPlugins/
+WR-CBE Core;1.4.1.9;http://www.minecraftforum.net/topic/909223
+WR-CBE Addons;1.4.1.9;http://www.minecraftforum.net/topic/909223
+WR-CBE Logic;1.4.1.9;http://www.minecraftforum.net/topic/909223
+Ye Gamol Chattels;1.1.2;http://www.minecraftforum.net/topic/563257-152
+Zipline;1.0;
+bspkrsCore;6.16;http://www.minecraftforum.net/topic/1114612-/
+Forge Microblocks;1.2.0.347;https://github.com/Chicken-Bones/ForgeMultipart
+Minecraft Multipart Plugin;1.2.0.347;https://github.com/Chicken-Bones/ForgeMultipart
+ForgeRelocation;0.0.1.4;...
+MCFrames;1.0;
+RelocationFMP;0.0.1.2;...

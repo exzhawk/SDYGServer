@@ -1,0 +1,139 @@
+# Script methods
+
+## checktimeout
+`checkTimeout <id> [error msg...]`  
+Check, if a timeout finished. Use %s in error message to print the remaining time.
+
+## confirm
+Send confirmation message to the player
+
+## confirmall
+Send confirmation message to all players
+
+## echo
+Send message without any special formatting to the player
+
+## echoall
+Send message without any special formatting to all players
+
+## error
+Send error message to the player
+
+## errorall
+Send error message to all players
+
+## expadd
+`expAdd <expLevel>`  
+This method will add the specified signed value to the command sender's expLevel.
+
+## expcheck
+`expCheck <expLevel> [operator -- LT, LTE, GT, GTE, or EQ -- case insensitive]`  
+This method will check the expLevel of a player and compare it to a given value, where LT refers to the player expLevel being less than the inputed value.
+If no operator is specified, equals (EQ) will be used as default.
+You can also use ==,<,<=,>,>= in place of EQ,LT,LTE,GT,GTE.
+
+## expset
+`expSet <expLevel>`  
+This method will set the command sender's expLevel to the specified value.
+
+## fail
+Send error message to the player and fail script execution
+
+## failall
+Send error message to all players and fail script execution
+
+## gmcheck
+`gmCheck <gamemode>`  
+This method will check if the gamemode of the player is equal to the given value.
+
+## gmset
+`gmSet <gamemode>`  
+This method will set the command sender's gamemode to the specified value.
+
+## healthadd
+`healthAdd <health>`  
+This method will add the specified signed value to the command sender's health.
+
+## healthcheck
+`healthCheck <health> [operator -- LT, LTE, GT, GTE, or EQ -- case insensitive]`  
+This method will check the health of a player and compare it to a given value, where LT refers to the player health being less than the inputed value.
+If no operator is specified, equals (EQ) will be used as default.
+You can also use ==,<,<=,>,>= in place of EQ,LT,LTE,GT,GTE.
+
+## healthset
+`healthSet <health>`  
+This method will set the command sender's health to the specified value.
+
+## hungeradd
+`hungerAdd <hunger>`  
+This method will add the specified signed value to the command sender's hunger.
+
+## hungercheck
+`hungerCheck <hunger> [operator -- LT, LTE, GT, GTE, or EQ -- case insensitive]`  
+This method will check the hunger of a player and compare it to a given value, where LT refers to the player hunger being less than the inputed value.
+If no operator is specified, equals (EQ) will be used as default.
+You can also use ==,<,<=,>,>= in place of EQ,LT,LTE,GT,GTE.
+
+## hungerset
+`hungerSet <hunger>`  
+This method will set the command sender's hunger to the specified value.
+
+## notify
+Send notification message to the player
+
+## notifyall
+Send notification message to all players
+
+## pay
+`pay <amount> [to-player]`  
+Make the player pay some amount of money and fail, if he can't afford it
+
+## permcheck
+`permcheck <perm> [value] [error message...]`  
+Permission check (with error message). Use `true` or `false` as value for normal permission checks (default value is `true`).Other values will cause a permission-property check.
+
+## permchecksilent
+`permchecksilent <perm> [value] [error message...]`  
+Permission check (without error message). Use `true` or `false` as value for normal permission checks (default value is `true`).Other values will cause a permission-property check.
+
+## permset
+Modify permissions (like /p command)
+
+## random
+`random <success-chance-in-percent>`  
+This method will randomly success or fail.  
+If it fails, the rest of the script will not be executed any more.
+
+## saturationadd
+`saturationAdd <saturation>`  
+This method will add the specified signed value to the command sender's saturation.
+
+## saturationcheck
+`saturationCheck <saturation> [operator -- LT, LTE, GT, GTE, or EQ -- case insensitive]`  
+This method will check the saturation of a player and compare it to a given value, where LT refers to the player saturation being less than the inputed value.
+If no operator is specified, equals (EQ) will be used as default.
+You can also use ==,<,<=,>,>= in place of EQ,LT,LTE,GT,GTE.
+
+## saturationset
+`saturationSet <saturation>`  
+This method will set the command sender's saturation to the specified value.
+
+## starttimeout
+`startTimeout <id> <t>`  
+Start a timeout
+
+## teleport
+`teleport <player> <to-player>`  
+`teleport <player> <x> <y> <z> [dim]`
+
+## timeout
+`timeout <delay> <command...>`  
+Make another command run after a delay (in ms).  
+Can be used with pattern commands to make more complex timed scripts.
+
+## warn
+Send warning message to the player
+
+## warnall
+Send warning message to all players
+

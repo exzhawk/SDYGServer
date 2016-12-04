@@ -1,0 +1,5189 @@
+# --- Block/Item List ---
+# Generated: 27-10-2016 (Server time)
+
+tile.stone
+tile.grass
+tile.dirt
+tile.stonebrick
+tile.wood
+tile.sapling
+tile.bedrock
+tile.water
+tile.water
+tile.lava
+tile.lava
+tile.sand
+tile.gravel
+tile.oreGold
+tile.oreIron
+tile.oreCoal
+tile.log
+tile.leaves
+tile.sponge
+tile.glass
+tile.oreLapis
+tile.blockLapis
+tile.dispenser
+tile.sandStone
+tile.musicBlock
+tile.goldenRail
+tile.detectorRail
+tile.pistonStickyBase
+tile.web
+tile.tallgrass
+tile.deadbush
+tile.pistonBase
+tile.cloth
+tile.flower1
+tile.flower2
+tile.mushroom
+tile.mushroom
+tile.blockGold
+tile.blockIron
+tile.stoneSlab
+tile.stoneSlab
+tile.brick
+tile.tnt
+tile.bookshelf
+tile.stoneMoss
+tile.obsidian
+tile.torch
+tile.fire
+tile.mobSpawner
+tile.stairsWood
+tile.chest
+tile.oreDiamond
+tile.blockDiamond
+tile.workbench
+tile.farmland
+tile.furnace
+tile.furnace
+tile.ladder
+tile.rail
+tile.stairsStone
+tile.lever
+tile.pressurePlate
+tile.pressurePlate
+tile.oreRedstone
+tile.notGate
+tile.button
+tile.snow
+tile.ice
+tile.snow
+tile.cactus
+tile.clay
+tile.jukebox
+tile.fence
+tile.pumpkin
+tile.hellrock
+tile.hellsand
+tile.lightgem
+tile.portal
+tile.litpumpkin
+tile.stainedGlass
+tile.trapdoor
+tile.monsterStoneEgg
+tile.stonebricksmooth
+tile.mushroom
+tile.mushroom
+tile.fenceIron
+tile.thinGlass
+tile.melon
+tile.vine
+tile.fenceGate
+tile.stairsBrick
+tile.stairsStoneBrickSmooth
+tile.mycel
+tile.waterlily
+tile.netherBrick
+tile.netherFence
+tile.stairsNetherBrick
+tile.enchantmentTable
+tile.null
+tile.endPortalFrame
+tile.whiteStone
+tile.dragonEgg
+tile.redstoneLight
+tile.woodSlab
+tile.woodSlab
+tile.cocoa
+tile.stairsSandStone
+tile.oreEmerald
+tile.enderChest
+tile.tripWireSource
+tile.blockEmerald
+tile.stairsWoodSpruce
+tile.stairsWoodBirch
+tile.stairsWoodJungle
+tile.commandBlock
+tile.beacon
+tile.cobbleWall
+tile.carrots
+tile.potatoes
+tile.button
+tile.anvil
+tile.chestTrap
+tile.weightedPlate_light
+tile.weightedPlate_heavy
+tile.daylightDetector
+tile.blockRedstone
+tile.netherquartz
+tile.hopper
+tile.quartzBlock
+tile.stairsQuartz
+tile.activatorRail
+tile.dropper
+tile.clayHardenedStained
+tile.thinStainedGlass
+tile.leaves
+tile.log
+tile.stairsWoodAcacia
+tile.stairsWoodDarkOak
+tile.Ore
+tile.Ore
+tile.Ore
+tile.IgInRock
+tile.IgExRock
+tile.hayBlock
+tile.woolCarpet
+tile.clayHardened
+tile.blockCoal
+tile.icePacked
+tile.doublePlant
+tile.SedRock
+tile.MMRock
+tile.IgInRockCobble
+tile.IgExRockCobble
+tile.SedRockCobble
+tile.MMRockCobble
+tile.IgInRockSmooth
+tile.IgExRockSmooth
+tile.SedRockSmooth
+tile.MMRockSmooth
+tile.IgInRockBrick
+tile.IgExRockBrick
+tile.SedRockBrick
+tile.MMRockBrick
+tile.dirt
+tile.dirt
+tile.sand
+tile.sand
+tile.clay
+tile.clay
+tile.Grass
+tile.Grass
+tile.ClayGrass
+tile.ClayGrass
+tile.PeatGrass
+tile.Peat
+tile.DryGrass
+tile.DryGrass
+tile.TallGrass
+tile.LooseRock
+tile.LogPile
+tile.Charcoal
+tile.StoneDetailed
+tile.tilledSoil
+tile.tilledSoil
+tile.WoodSupportV
+tile.WoodSupportH
+tile.WoodSupportV2
+tile.WoodSupportH2
+tile.Sulfur
+tile.log
+tile.log2
+tile.leaves
+tile.leaves2
+tile.sapling
+tile.sapling2
+tile.wood
+tile.wood2
+tile.Firepit
+tile.Bellows
+tile.Anvil
+tile.Anvil2
+tile.Forge
+tile.Molten
+tile.BlastFurnace
+tile.EarlyBloomery
+tile.Sluice
+tile.Bloom
+tile.fruitTreeWood
+tile.fruitTreeLeaves
+tile.fruitTreeLeaves2
+tile.stoneStairs
+tile.stoneSlabs
+tile.stoneStalac
+tile.WoodConstruct
+tile.WoodVert
+tile.WoodVert2
+tile.WoodHoriz
+tile.WoodHoriz2
+tile.WoodHoriz3
+tile.WoodHoriz4
+tile.Toolrack
+tile.SpawnMeter
+tile.FoodPrep
+tile.Quern
+tile.WallCobble
+tile.WallCobble
+tile.WallCobble
+tile.WallCobble
+tile.WallRaw
+item.shovelIron
+item.pickaxeIron
+item.hatchetIron
+item.flintAndSteel
+item.apple
+item.bow
+item.arrow
+item.coal
+item.diamond
+item.ingotIron
+item.ingotGold
+item.swordIron
+item.swordWood
+item.shovelWood
+item.pickaxeWood
+item.hatchetWood
+item.swordStone
+item.shovelStone
+item.pickaxeStone
+item.hatchetStone
+item.swordDiamond
+item.shovelDiamond
+item.pickaxeDiamond
+item.hatchetDiamond
+item.stick
+item.bowl
+item.mushroomStew
+item.swordGold
+item.shovelGold
+item.pickaxeGold
+item.hatchetGold
+item.string
+item.feather
+item.sulphur
+item.hoeWood
+item.hoeStone
+item.hoeIron
+item.hoeDiamond
+item.hoeGold
+item.seeds
+item.wheat
+item.bread
+item.helmetCloth
+item.chestplateCloth
+item.leggingsCloth
+item.bootsCloth
+item.helmetChain
+item.chestplateChain
+item.leggingsChain
+item.bootsChain
+item.helmetIron
+item.chestplateIron
+item.leggingsIron
+item.bootsIron
+item.helmetDiamond
+item.chestplateDiamond
+item.leggingsDiamond
+item.bootsDiamond
+item.helmetGold
+item.chestplateGold
+item.leggingsGold
+item.bootsGold
+item.flint
+item.porkchopRaw
+item.porkchopCooked
+item.painting
+item.appleGold
+item.sign
+item.doorWood
+item.bucket
+item.bucketWater
+item.bucketLava
+item.minecart
+item.saddle
+item.doorIron
+item.redstone
+item.snowball
+item.boat
+item.leather
+item.milk
+item.brick
+item.clay
+item.reeds
+item.paper
+item.book
+item.slimeball
+item.minecartChest
+item.minecartFurnace
+item.egg
+item.compass
+item.fishingRod
+item.clock
+item.yellowDust
+item.fish
+item.fish
+item.dyePowder
+item.bone
+item.sugar
+item.cake
+item.bed
+item.diode
+item.cookie
+item.map
+item.shears
+item.melon
+item.seeds_pumpkin
+item.seeds_melon
+item.beefRaw
+item.beefCooked
+item.chickenRaw
+item.chickenCooked
+item.rottenFlesh
+item.enderPearl
+item.blazeRod
+item.ghastTear
+item.goldNugget
+item.netherStalkSeeds
+item.potion
+item.glassBottle
+item.spiderEye
+item.fermentedSpiderEye
+item.blazePowder
+item.magmaCream
+item.brewingStand
+item.cauldron
+item.eyeOfEnder
+item.speckledMelon
+item.monsterPlacer
+item.expBottle
+item.fireball
+item.writingBook
+item.writtenBook
+item.emerald
+item.frame
+item.flowerPot
+item.carrots
+item.potato
+item.potatoBaked
+item.potatoPoisonous
+item.emptyMap
+item.carrotGolden
+item.skull
+item.carrotOnAStick
+item.netherStar
+item.pumpkinPie
+item.fireworks
+item.fireworksCharge
+item.enchantedBook
+item.comparator
+item.netherbrick
+item.netherquartz
+item.minecartTnt
+item.minecartHopper
+tile.WallRaw
+tile.WallRaw
+tile.WallRaw
+tile.WallBrick
+tile.WallBrick
+tile.WallBrick
+tile.WallBrick
+tile.WallSmooth
+item.horsearmormetal
+item.horsearmorgold
+item.horsearmordiamond
+item.leash
+item.nameTag
+item.minecartCommandBlock
+tile.WallSmooth
+tile.WallSmooth
+tile.WallSmooth
+tile.SaltWater
+tile.SaltWaterStationary
+tile.FreshWater
+tile.FreshWaterStationary
+tile.HotWater
+tile.HotWaterStationary
+tile.Lava
+tile.LavaStationary
+tile.Ice
+tile.SeaGrassStill
+tile.FireBrick
+tile.MetalSheet
+tile.Door Oak
+tile.Door Aspen
+tile.Door Birch
+tile.Door Chestnut
+tile.Door Douglas Fir
+tile.Door Hickory
+tile.Door Maple
+tile.Door Ash
+tile.Door Pine
+tile.Door Sequoia
+tile.Door Spruce
+tile.Door Sycamore
+tile.Door White Cedar
+tile.Door White Elm
+tile.Door Willow
+tile.Door Kapok
+tile.Door Acacia
+tile.ingotpile
+tile.Barrel
+tile.Loom
+tile.Moss
+tile.Flora
+tile.Pottery
+tile.Thatch
+tile.Crucible
+tile.NestBox
+tile.FenceTFC
+tile.FenceTFC
+tile.FenceGateTFC
+tile.FenceGateTFC
+tile.StrawHideBed
+tile.ArmourStand
+tile.ArmourStand
+tile.BerryBush
+tile.crops
+tile.LilyPad
+tile.Flowers
+tile.Flowers2
+tile.Fungi
+tile.Bookshelf
+tile.Torch
+tile.TorchOff
+tile.Chest
+tile.Workbench
+tile.Cactus
+tile.Reeds
+tile.Pumpkin
+tile.LitPumpkin
+tile.ButtonWood
+tile.Vine
+tile.LeatherRack
+tile.gravel
+tile.gravel
+tile.Grill
+tile.MetalTrapDoor
+tile.Vessel
+tile.Smoke
+tile.SmokeRack
+tile.snow
+tile.OilLamp
+tile.Hopper
+tile.FlowerPot
+tile.Lantern.Copper
+tile.Lantern.Bronze
+tile.Lantern.BismuthBronze
+tile.Lantern.BlackBronze
+tile.Lantern.Brass
+tile.Lantern.Lead
+tile.Lantern.Gold
+tile.Lantern.RoseGold
+tile.Lantern.Silver
+tile.Lantern.SterlingSilver
+tile.Lantern.Platinum
+tile.Lantern.WroughtIron
+tile.Gem.Chipped
+tile.Gem.Flawed
+tile.Gem.Normal
+tile.Gem.Flawless
+tile.Gem.Exquisite
+tile.Alabaster
+tile.MudBrickRaw.Granite
+tile.MudBrickRaw.Diorite
+tile.MudBrickRaw.Gabbro
+tile.MudBrickRaw.Shale
+tile.MudBrickRaw.Claystone
+tile.MudBrickRaw.RockSalt
+tile.MudBrickRaw.Limestone
+tile.MudBrickRaw.Conglomerate
+tile.MudBrickRaw.Dolomite
+tile.MudBrickRaw.Chert
+tile.MudBrickRaw.Chalk
+tile.MudBrickRaw.Rhyolite
+tile.MudBrickRaw.Basalt
+tile.MudBrickRaw.Andesite
+tile.MudBrickRaw.Dacite
+tile.MudBrickRaw.Quartzite
+tile.MudBrickRaw.Slate
+tile.MudBrickRaw.Phyllite
+tile.MudBrickRaw.Schist
+tile.MudBrickRaw.Gneiss
+tile.MudBrickRaw.Marble
+tile.MudBricks
+tile.MudBricks2
+tile.Stall
+tile.Stall.Aspen
+tile.Stall.Birch
+tile.Stall.Chestnut
+tile.Stall.Douglas Fir
+tile.Stall.Hickory
+tile.Stall.Maple
+tile.Stall.Ash
+tile.Stall.Pine
+tile.Stall.Sequoia
+tile.Stall.Spruce
+tile.Stall.Sycamore
+tile.Stall.White Cedar
+tile.Stall.White Elm
+tile.Stall.Willow
+tile.Stall.Kapok
+tile.Stall.Acacia
+tile.Warehouse
+tile.Warehouse2
+tile.StorageRack
+tile.StorageRack2
+tile.AnvilDie.Copper
+tile.AnvilDie.Copper2
+tile.AnvilDie.Bronze
+tile.AnvilDie.Bronze2
+tile.AnvilDie.BismuthBronze
+tile.AnvilDie.BismuthBronze2
+tile.AnvilDie.BlackBronze
+tile.AnvilDie.BlackBronze2
+tile.AnvilDie.Brass
+tile.AnvilDie.Brass2
+tile.AnvilDie.Lead
+tile.AnvilDie.Lead2
+tile.AnvilDie.Gold
+tile.AnvilDie.Gold2
+tile.AnvilDie.RoseGold
+tile.AnvilDie.RoseGold2
+tile.AnvilDie.Silver
+tile.AnvilDie.Silver2
+tile.AnvilDie.SterlingSilver
+tile.AnvilDie.SterlingSilver2
+tile.AnvilDie.Platinum
+tile.AnvilDie.Platinum2
+tile.AnvilDie.WroughtIron
+tile.AnvilDie.WroughtIron2
+tile.AnvilDie.Nickel
+tile.AnvilDie.Nickel2
+tile.AnvilDie.Steel
+tile.AnvilDie.Steel2
+tile.AnvilDie.BlackSteel
+tile.AnvilDie.BlackSteel2
+tile.AnvilDie.BlueSteel
+tile.AnvilDie.BlueSteel2
+tile.AnvilDie.RedSteel
+tile.AnvilDie.RedSteel2
+tile.RawClay
+tile.StainedClay
+tile.StainedClay2
+tile.StainedClayPaver
+tile.StainedClayPaver2
+tile.StainedClayTile
+tile.StainedClayTile2
+tile.StainedClayBrick
+tile.StainedClayBrick2
+tile.StainedClayCircle
+tile.StainedClayCircle2
+tile.StainedClayChiseled
+tile.StainedClayChiseled2
+tile.StainedClayChiseled3
+tile.StainedClayChiseled4
+tile.StainedClayChiseled5
+tile.StainedClayPillar
+tile.StainedClayPillar2
+tile.StainedClayPillar3
+tile.StainedClayPillar4
+tile.StainedClayPillar5
+tile.blockTallowCandle
+tile.blockTallowCandleOff
+tile.blockRoadIgEx
+tile.blockRoadIgIn
+tile.blockRoadMM
+tile.blockRoadSed
+tile.blockFruitPress
+tile.Scale
+tile.empty
+tile.Alloy Calculator
+tile.Anodising Vessel
+tile.Drying Mat
+tile.Evaporator Pan
+tile.Ore Cooker
+tile.compressed_workbench
+tile.very_compressed_workbench
+tile.dire_crafting
+tile.block_crystal_matrix
+tile.avaritia_resource
+tile.neutron_collector
+tile.neutronium_compressor
+tile.CompressedChest
+tile.InfinityChest
+tile.ExtremeAutoCrafter
+tile.betterstorage.crate
+tile.betterstorage.reinforcedChest
+tile.betterstorage.locker
+tile.betterstorage.armorStand
+tile.betterstorage.cardboardBox
+tile.betterstorage.reinforcedLocker
+tile.betterstorage.craftingStation
+tile.betterstorage.flintBlock
+tile.betterstorage.lockableDoor
+tile.betterstorage.present
+tile.BiblioFramedChest
+tile.BiblioPaneler
+tile.BiblioClipboard
+tile.BiblioTypewriter
+tile.BiblioClock
+tile.BiblioFlatPainting
+tile.BiblioSimplePainting
+tile.BiblioMiddlePainting
+tile.BiblioFancyPainting
+tile.BiblioBorderlessPainting
+tile.BiblioPaintPress
+tile.BiblioSwordPedestal
+tile.BiblioFancySign
+tile.BiblioWorkbench
+tile.BiblioBell
+tile.BiblioBookcase
+tile.BookcaseFilled
+tile.BiblioPotionShelf
+tile.BiblioShelf
+tile.BiblioRack
+tile.BiblioCase
+tile.BiblioLabel
+tile.BiblioDesk
+tile.BiblioTable
+tile.BiblioArmorStand
+tile.BiblioType
+tile.BiblioPress
+tile.BiblioLantern
+tile.BiblioIronLantern
+tile.BiblioLamp
+tile.BiblioIronLamp
+tile.BiblioStuffs
+tile.BiblioMapFrames
+tile.BiblioSeats
+tile.BiblioBrassLantern
+tile.BiblioBronzeLantern
+tile.BiblioBlackBronzeLantern
+tile.BiblioBismuthBronzeLantern
+tile.BiblioBlackSteelLantern
+tile.BiblioBlueSteelLantern
+tile.BiblioRedSteelLantern
+tile.BiblioBrassLamp
+tile.BiblioBronzeLamp
+tile.BiblioBlackBronzeLamp
+tile.BiblioBismuthBronzeLamp
+tile.BiblioBlackSteelLamp
+tile.BiblioBlueSteelLamp
+tile.BiblioRedSteelLamp
+tile.BiblioWoodBookcase
+tile.BiblioWoodpotshelf
+tile.BiblioWoodshelf
+tile.BiblioWoodrack
+tile.BiblioWoodcase
+tile.BiblioWoodlabel
+tile.BiblioWooddesk
+tile.BiblioWoodtable
+tile.BiblioWoodSeat
+tile.BiblioWoodMapFrame
+tile.BiblioWoodFancySign
+tile.BiblioWoodFancyWorkbench
+tile.BiblioWoodFurniturePaneler
+tile.BiblioWoodClock
+tile.BiblioWoodPaintingT0
+tile.BiblioWoodPaintingT1
+tile.BiblioWoodPaintingT2
+tile.BiblioWoodPaintingT3
+tile.BiblioWoodPaintingT4
+tile.thermalfoundation.ore
+tile.thermalfoundation.storage
+tile.thermalfoundation.fluid.redstone
+tile.thermalfoundation.fluid.glowstone
+tile.thermalfoundation.fluid.ender
+tile.thermalfoundation.fluid.pyrotheum
+tile.thermalfoundation.fluid.cryotheum
+tile.thermalfoundation.fluid.aerotheum
+tile.thermalfoundation.fluid.petrotheum
+tile.thermalfoundation.fluid.mana
+tile.thermalfoundation.fluid.steam
+tile.thermalfoundation.fluid.coal
+tile.brOre.0
+tile.brMetal.0
+tile.yelloriumFuelRod
+tile.blockReactorPart.0
+tile.brMultiblockGlass.0
+tile.blockReactorRedstonePort
+tile.blockTurbinePart.0
+tile.blockTurbineRotorPart.0
+tile.blockBRDevice.0
+tile.fluid.yellorium.still
+tile.fluid.cyanite.still
+tile.blockMBCreativePart.0
+tile.blockCarpentersBlock
+tile.blockCarpentersBarrier
+tile.blockCarpentersBed
+tile.blockCarpentersButton
+tile.blockCarpentersCollapsibleBlock
+tile.blockCarpentersDaylightSensor
+tile.blockCarpentersDoor
+tile.blockCarpentersFlowerPot
+tile.blockCarpentersGarageDoor
+tile.blockCarpentersGate
+tile.blockCarpentersHatch
+tile.blockCarpentersLadder
+tile.blockCarpentersLever
+tile.blockCarpentersPressurePlate
+tile.blockCarpentersSafe
+tile.blockCarpentersSlope
+tile.blockCarpentersStairs
+tile.blockCarpentersTorch
+tile.customitems:circle_andesite
+tile.customitems:circle_basalt
+tile.customitems:circle_chalk
+tile.customitems:circle_chert
+tile.customitems:circle_claystone
+tile.customitems:circle_conglomerate
+tile.customitems:circle_dacite
+tile.customitems:circle_diorite
+tile.customitems:circle_dolomite
+tile.customitems:circle_gabbro
+tile.customitems:circle_gneiss
+tile.customitems:circle_granite
+tile.customitems:circle_limestone
+tile.customitems:circle_marble
+tile.customitems:circle_phyllite
+tile.customitems:circle_quartzite
+tile.customitems:circle_rhyolite
+tile.customitems:circle_rock_salt
+tile.customitems:circle_schist
+tile.customitems:circle_shale
+tile.customitems:circle_slate
+tile.customitems:circle_jet
+tile.customitems:circle_serpentine
+tile.customitems:andesite_tile
+tile.customitems:basalt_tile
+tile.customitems:chalk_tile
+tile.customitems:chert_tile
+tile.customitems:claystone_tile
+tile.customitems:conglomerate_tile
+tile.customitems:dacite_tile
+tile.customitems:diorite_tile
+tile.customitems:dolomite_tile
+tile.customitems:gabbro_tile
+tile.customitems:gneiss_tile
+tile.customitems:granite_tile
+tile.customitems:limestone_tile
+tile.customitems:marble_tile
+tile.customitems:phyllite_tile
+tile.customitems:quartzite_tile
+tile.customitems:rhyolite_tile
+tile.customitems:rock_salt_tile
+tile.customitems:schist_tile
+tile.customitems:shale_tile
+tile.customitems:slate_tile
+tile.customitems:jet_tile
+tile.customitems:serpentine_tile
+tile.customitems:andesite_pillar
+tile.customitems:basalt_pillar
+tile.customitems:chalk_pillar
+tile.customitems:chert_pillar
+tile.customitems:claystone_pillar
+tile.customitems:conglomerate_pillar
+tile.customitems:dacite_pillar
+tile.customitems:diorite_pillar
+tile.customitems:dolomite_pillar
+tile.customitems:gabbro_pillar
+tile.customitems:gneiss_pillar
+tile.customitems:granite_pillar
+tile.customitems:limestone_pillar
+tile.customitems:marble_pillar
+tile.customitems:phyllite_pillar
+tile.customitems:rhyolite_pillar
+tile.customitems:quartzite_pillar
+tile.customitems:rock_salt_pillar
+tile.customitems:shale_pillar
+tile.customitems:schist_pillar
+tile.customitems:slate_pillar
+tile.customitems:serpentine_pillar
+tile.customitems:jet_pillar
+tile.customitems:diorite
+tile.customitems:polished_diorite
+tile.customitems:andesite
+tile.customitems:polished_andesite
+tile.customitems:granite
+tile.customitems:polished_granite
+tile.customitems:coarse_dirt
+tile.customitems:red_sandstone
+tile.customitems:chiseled_red_sandstone
+tile.customitems:smooth_red_sandstone
+tile.customitems:red_sandstone_slab
+tile.customitems:double_red_sandstone_slab
+tile.customitems:red_sandstone_stairs
+tile.customitems:prismarine
+tile.customitems:prismarine_bricks
+tile.customitems:dark_prismarine
+tile.customitems:sea_lantern
+tile.customitems:spruce_fence
+tile.customitems:birch_fence
+tile.customitems:jungle_fence
+tile.customitems:dark_oak_fence
+tile.customitems:acacia_fence
+tile.customitems:acacia_plank_fence
+tile.customitems:ash_plank_fence
+tile.customitems:aspen_plank_fence
+tile.customitems:birch_plank_fence
+tile.customitems:chestnut_plank_fence
+tile.customitems:douglas_fir_plank_fence
+tile.customitems:hickory_plank_fence
+tile.customitems:kapok_plank_fence
+tile.customitems:maple_plank_fence
+tile.customitems:oak_plank_fence
+tile.customitems:pine_plank_fence
+tile.customitems:sequoia_plank_fence
+tile.customitems:spruce_plank_fence
+tile.customitems:sycamore_plank_fence
+tile.customitems:white_cedar_plank_fence
+tile.customitems:white_elm_plank_fence
+tile.customitems:willow_plank_fence
+tile.customitems:red_sand
+tile.customitems:pink_sand
+tile.customitems:green_sand
+tile.customitems:blue_sand
+tile.customitems:dark_quartz_pillar
+tile.customitems:dark_quartz
+tile.customitems:chiseled_dark_quartz
+tile.customitems:serpentine_cobblestone
+tile.customitems:smooth_serpentine
+tile.customitems:serpentine_bricks
+tile.customitems:jet_cobblestone
+tile.customitems:smooth_jet
+tile.customitems:jet_bricks
+tile.customitems:andesite_fancy_tile
+tile.customitems:basalt_fancy_tile
+tile.customitems:chalk_fancy_tile
+tile.customitems:chert_fancy_tile
+tile.customitems:claystone_fancy_tile
+tile.customitems:conglomerate_fancy_tile
+tile.customitems:dacite_fancy_tile
+tile.customitems:diorite_fancy_tile
+tile.customitems:dolomite_fancy_tile
+tile.customitems:gabbro_fancy_tile
+tile.customitems:gneiss_fancy_tile
+tile.customitems:granite_fancy_tile
+tile.customitems:limestone_fancy_tile
+tile.customitems:marble_fancy_tile
+tile.customitems:phyllite_fancy_tile
+tile.customitems:quartzite_fancy_tile
+tile.customitems:rhyolite_fancy_tile
+tile.customitems:rock_salt_fancy_tile
+tile.customitems:schist_fancy_tile
+tile.customitems:shale_fancy_tile
+tile.customitems:slate_fancy_tile
+tile.customitems:jet_fancy_tile
+tile.customitems:serpentine_fancy_tile
+tile.customitems:single_item_chest
+tile.customitems:Greeni
+tile.customitems:tower
+tile.customitems:Nova_water
+tile.customitems:Nova Lava
+tile.customitems:custom_glass
+tile.customitems:custom_glass_pane
+tile.customitems:custom_glass_stairs
+tile.customitems:custom_glass_slab
+tile.customitems:double_custom_glass_slab
+tile.customitems:custom_glass_fence
+tile.customitems:custom_glass_wall
+tile.enderTankPart.0
+tile.enderTankMultiblockGlass.0
+tile.enderTankController.0
+tile.chargePad.0
+tile.healthPad.0
+tile.extrautils:chestMini
+tile.extrautils:chestFull
+tile.extrautils:enderCollector
+tile.extrautils:endConstructor
+tile.extrautils:endMarker
+tile.extrautils:curtains
+tile.extrautils:angelBlock
+tile.extrautils:budoff
+tile.extrautils:chandelier
+tile.extrautils:decorativeBlock1
+tile.extrautils:decorativeBlock2
+tile.extrautils:pureLove
+tile.extrautils:block_bedrockium
+tile.extrautils:datablock
+tile.extrautils:colorStoneBrick
+tile.extrautils:colorWoodPlanks
+tile.extrautils:color_lightgem
+tile.extrautils:color_stone
+tile.extrautils:color_quartzBlock
+tile.extrautils:color_hellsand
+tile.extrautils:color_redstoneLight
+tile.extrautils:color_brick
+tile.extrautils:color_stonebrick
+tile.extrautils:color_blockLapis
+tile.extrautils:color_obsidian
+tile.extrautils:color_blockRedstone
+tile.extrautils:color_blockCoal
+tile.extrautils:cobblestone_compressed
+tile.extrautils:conveyor
+tile.extrautils:filing
+tile.extrautils:greenscreen
+tile.extrautils:peaceful_table_top
+tile.extrautils:trading_post
+tile.extrautils:sound_muffler
+tile.extrautils:extractor_base
+tile.extrautils:extractor_base_remote
+tile.extrautils:pipes
+tile.extrautils:pipes.1
+tile.extrautils:cursedearthside
+tile.extrautils:trashcan
+tile.extrautils:spike_base
+tile.extrautils:spike_base_diamond
+tile.extrautils:spike_base_gold
+tile.extrautils:spike_base_wood
+tile.extrautils:enderThermicPump
+tile.extrautils:enderQuarry
+tile.extrautils:enderQuarryUpgrade
+tile.extrautils:plant/ender_lilly
+tile.extrautils:timer
+tile.extrautils:magnumTorch
+tile.extrautils:drum
+tile.extrautils:generator
+tile.extrautils:generator.8
+tile.extrautils:generator.64
+tile.extrautils:dark_portal
+tile.extrautils:etherealglass
+tile.railcraft.fluid.creosote
+tile.railcraft.fluid.steam
+tile.railcraft.cube
+tile.railcraft.machine.alpha
+tile.railcraft.track
+tile.railcraft.track.elevator
+tile.railcraft.signal
+tile.railcraft.stair
+tile.railcraft.slab
+tile.railcraft.lantern.stone
+tile.railcraft.lantern.metal
+tile.railcraft.brick.abyssal
+tile.railcraft.brick.bleachedbone
+tile.railcraft.brick.bloodstained
+tile.railcraft.brick.frostbound
+tile.railcraft.brick.infernal
+tile.railcraft.brick.quarried
+tile.railcraft.brick.sandy
+tile.railcraft.brick.nether
+tile.railcraft.post
+tile.railcraft.post.metal
+tile.railcraft.post.metal.platform
+tile.railcraft.wall.alpha
+tile.railcraft.wall.beta
+tile.railcraft.glass
+tile.railcraft.detector
+tile.railcraft.machine.gamma
+tile.railcraft.machine.beta
+tile.railcraft.machine.epsilon
+tile.railcraft.ore
+tile.railcraft.worldlogic
+tile.railcraft.firestone.recharge
+tile.railcraft.frame
+tile.railcraft.machine.delta
+tile.ImmersiveEngineering.ore
+tile.ImmersiveEngineering.storage
+tile.ImmersiveEngineering.storageSlab
+tile.ImmersiveEngineering.stoneSlab
+tile.ImmersiveEngineering.metalDevice
+tile.ImmersiveEngineering.metalDevice2
+tile.ImmersiveEngineering.metalDecoration
+tile.ImmersiveEngineering.metalDecoration2
+tile.ImmersiveEngineering.metalMultiblock
+tile.ImmersiveEngineering.woodenDevice
+tile.ImmersiveEngineering.woodenDecoration
+tile.ImmersiveEngineering.treatedWood
+tile.ImmersiveEngineering.woodenStairs
+tile.ImmersiveEngineering.woodenStairs1
+tile.ImmersiveEngineering.woodenStairs2
+tile.ImmersiveEngineering.stoneDevice
+tile.ImmersiveEngineering.stoneDecoration
+tile.ImmersiveEngineering.concreteStairs
+tile.ImmersiveEngineering.concreteTileStairs
+tile.ImmersiveEngineering.hemp
+tile.ImmersiveEngineering.fakeLight
+tile.ImmersiveEngineering.clothDevice
+tile.immersiveintegration:extendablePost
+tile.immersiveintegration:steelTrapdoor
+tile.immersiveintegration:steelDecoration
+tile.immersiveintegration:extendedPost
+tile.immersiveintegration:industrialCokeOven
+tile.immersiveintegration:itemRobin
+tile.immersiveintegration:inductionCharger
+tile.immersiveintegration:redstoneWireConnector
+tile.blockbarrel
+tile.BasicBlock
+tile.BasicBlock2
+tile.MachineBlock
+tile.MachineBlock2
+tile.MachineBlock3
+tile.OreBlock
+tile.EnergyCube
+tile.ObsidianTNT
+tile.BoundingBlock
+tile.GasTank
+tile.CardboardBox
+tile.PlasticBlock
+tile.SlickPlasticBlock
+tile.GlowPlasticBlock
+tile.ReinforcedPlasticBlock
+tile.RoadPlasticBlock
+tile.PlasticFence
+tile.SaltBlock
+tile.Generator
+tile.Reactor
+tile.ReactorGlass
+tile.openblocks.ladder
+tile.openblocks.guide
+tile.openblocks.builder_guide
+tile.openblocks.elevator
+tile.openblocks.elevator_rotating
+tile.openblocks.heal
+tile.openblocks.target
+tile.openblocks.grave
+tile.openblocks.flag
+tile.openblocks.tank
+tile.openblocks.trophy
+tile.openblocks.beartrap
+tile.openblocks.sprinkler
+tile.openblocks.cannon
+tile.openblocks.vacuumhopper
+tile.openblocks.sponge
+tile.openblocks.bigbutton
+item.openblocks.imaginary
+tile.openblocks.fan
+tile.openblocks.xpbottler
+tile.openblocks.village_highlighter
+tile.openblocks.path
+tile.openblocks.autoanvil
+tile.openblocks.autoenchantmenttable
+tile.openblocks.xpdrain
+tile.openblocks.blockbreaker
+tile.openblocks.blockPlacer
+tile.openblocks.itemDropper
+tile.openblocks.ropeladder
+tile.openblocks.donationStation
+tile.openblocks.paintmixer
+tile.openblocks.canvas
+tile.openblocks.paintcan
+tile.openblocks.canvasglass
+tile.openblocks.projector
+tile.openblocks.drawingtable
+tile.openblocks.sky.normal
+tile.openblocks.xpshower
+tile.openblocks.goldenegg
+tile.openblocks.scaffolding
+tile.oc.accessPoint
+tile.oc.adapter
+tile.oc.assembler
+tile.oc.cable
+tile.oc.capacitor
+tile.oc.case1
+tile.oc.case3
+tile.oc.case2
+tile.oc.charger
+tile.oc.disassembler
+tile.oc.diskDrive
+tile.oc.geolyzer
+tile.oc.hologram1
+tile.oc.hologram2
+tile.oc.keyboard
+tile.oc.motionSensor
+tile.oc.powerConverter
+tile.oc.powerDistributor
+tile.oc.raid
+tile.oc.redstone
+tile.oc.relay
+tile.oc.screen1
+tile.oc.screen3
+tile.oc.screen2
+tile.oc.rack
+tile.oc.switch
+tile.oc.caseCreative
+tile.oc.microcontroller
+tile.oc.robotAfterimage
+Robot
+tile.oc.print
+tile.oc.printer
+tile.oc.chameliumBlock
+tile.oc.waypoint
+tile.oc.endstone
+tile.oc.netSplitter
+tile.oc.transposer
+tile.openperipheral.ticketmachine
+tile.openperipheral.glassesbridge
+tile.openperipheral.playerinventory
+tile.openperipheral.sensor
+tile.openperipheral.selector
+tile.hangingFlowersMIX
+tile.hangingFlowersRED
+tile.hangingFlowersCOR
+tile.hangingFlowersORA
+tile.hangingFlowersYEL
+tile.hangingFlowersGRN
+tile.hangingFlowersCYA
+tile.hangingFlowersBLU
+tile.hangingFlowersROY
+tile.hangingFlowersPUR
+tile.hangingFlowersMAG
+tile.hangingFlowersPNK
+tile.hangingFlowersWHT
+tile.hangingBlueWheatgrass
+tile.hangingBrittlebush
+tile.hangingKrisPlant
+tile.hangingLavender
+tile.hangingPricklyPear
+tile.hangingScalyTree
+tile.hangingPhilodendron
+tile.hangingWildfire
+tile.hangingWolfWillow
+tile.hangingFoliageSMGRN
+tile.hangingFoliageMDGRN
+tile.hangingFoliageLGGRN
+tile.hangingFoliageLGYEL
+tile.hangingFoliageLGRED
+tile.hangingBambooAsper
+tile.hangingBambooFargesiaRobusta
+tile.hangingBambooGiantTimber
+tile.hangingBambooGolden
+tile.hangingBambooMoso
+tile.hangingBambooShortTassled
+tile.hangingBambooTimorBlack
+tile.hangingBambooTropicalBlue
+tile.hangingBambooWetForest
+tile.bambooAsper
+tile.bambooFargesiaRobusta
+tile.bambooGiantTimber
+tile.bambooGolden
+tile.bambooMoso
+tile.bambooShortTassled
+tile.bambooTimorBlack
+tile.bambooTropicalBlue
+tile.bambooWetForest
+tile.beachButtonSage
+tile.leafyDustyMiller
+tile.beachHighTideBush
+tile.beachPrideOfMadeira
+tile.beachSeaLavender
+tile.beachSeaLymeGrass
+tile.beachSeaSandwort
+tile.beachShowyAster
+tile.berrybushBeauty
+tile.berrybushBlack
+tile.berrybushBlue
+tile.berrybushElder
+tile.berrybushGoose
+tile.berrybushHuckle
+tile.berrybushOrange
+tile.berrybushSnow
+tile.berrybushStraw
+tile.cactusArmatocereusMatucanensis
+tile.cactusBaseballBat
+tile.cactusEchinocereusMetornii
+tile.cactusGoldenCereus
+tile.cactusGoldenSaguaro
+tile.cactusMatucanaAureiflora
+tile.cactusPricklyPear
+tile.cactusSnowPole
+tile.cactusToothpick
+tile.coralBlueStaghorn
+tile.coralElegance
+tile.coralFeatheredHydroid
+tile.coralPillar
+tile.waterPulsingXenia
+tile.waterPurpleSeaWhip
+tile.waterRedSeaFan
+tile.coralSunPolyps
+tile.waterBambooCoralYEL
+tile.cropCentella
+tile.cropLaksaLeaf
+tile.cropRice
+tile.cropSacredLotus
+tile.cropTaro
+tile.cropWasabi
+tile.cropWatercress
+tile.cropWaterSpinach
+tile.cropWildRice
+tile.cropBeet
+tile.cropBellPepperOrange
+tile.cropBellPepperRed
+tile.cropBellPepperYellow
+tile.cropBroccoli
+tile.cropCassava
+tile.cropCelery
+tile.cropCorn
+tile.cropCucumber
+tile.cropEggplant
+tile.cropGreenBeans
+tile.cropLeek
+tile.cropLettuce
+tile.cropOnion
+tile.cropPeanut
+tile.cropSorrel
+tile.cropSpinach
+tile.cropTomato
+tile.desertApachePlume
+tile.desertBrittlebush
+tile.desertBroadLeafGilia
+tile.desertBroomSnakeweed
+tile.desertKangarooPaw
+tile.desertOcotillo
+tile.desertPeninsulaOnion
+tile.desertSeepwood
+tile.desertWhiteSage
+tile.epiphyteApacheDwarf
+tile.epiphyteArtistsConk
+tile.epiphyteClimbingCactus
+tile.epiphyteCreepingMistletoe
+tile.epiphyteCrimsonCattleya
+tile.epiphyteCuthbertsDendrobium
+tile.epiphyteFishBoneCactus
+tile.epiphyteFragrantFern
+tile.epiphyteHarlequinMistletoe
+tile.epiphyteKingOrchid
+tile.epiphyteLargeFootDendrobium
+tile.epiphyteLanternForest
+tile.epiphyteMistletoe
+tile.epiphyteSulphurShelf
+tile.epiphyteTampaOrchid
+tile.epiphyteTillandsiaIonantha
+tile.epiphyteTurkeyTail
+tile.epiphyteWildfire
+tile.fernCretanBrake
+tile.fernDwarfPalmetto
+tile.fernHayScented
+tile.fernKangaroo
+tile.fernMaidenhairSpleenwort
+tile.fernOstrich
+tile.fernScalyTree
+tile.fernSword
+tile.fernWoodsia
+tile.floatingDuckweed
+tile.floatingRedRootFloater
+tile.floatingWaterChestnut
+tile.floatingWaterHyacinth
+tile.floatingWaterLettuce
+tile.floatingWaterLily
+tile.flowerAchillea
+tile.flowerAzalea
+tile.flowerBegonia
+tile.flowerBell
+tile.flowerCarnation
+tile.flowerCelosia
+tile.flowerColumbine
+tile.flowerDahlia
+tile.flowerDaisy
+tile.flowerDelphinium
+tile.flowerGeranium
+tile.flowerGladiolus
+tile.flowerHawkweed
+tile.flowerHydrangea
+tile.flowerLily
+tile.flowerLupine
+tile.flowerMarigold
+tile.flowerNemesia
+tile.flowerRose
+tile.flowerTulip
+tile.flowerAlpineThistle
+tile.flowerBirdofParadise
+tile.flowerBlueStar
+tile.flowerBurningLove
+tile.flowerCandelabraAloe
+tile.flowerDandelion
+tile.flowerDottedBlazingstar
+tile.flowerElephantEars
+tile.flowerFoamFlower
+tile.flowerFuchsia
+tile.flowerJacobsLadder
+tile.flowerLionsTail
+tile.flowerMediterraneanSeaHolly
+tile.flowerMezereon
+tile.flowerNewGuineaImpatiens
+tile.flowerParrotsBeak
+tile.flowerPurpleConeflower
+tile.flowerPeruvianLily
+tile.flowerQuinoa
+tile.flowerRoseCampion
+tile.flowerStreamsideBluebells
+tile.flowerTorchLily
+tile.flowerViolet
+tile.flowerWildCarrot
+tile.flowerWildDaffodil
+tile.flowerWoodlandPinkroot
+tile.flowerYellowToadflax
+tile.forestArcticGentian
+tile.forestAustralianBugle
+tile.forestBloodroot
+tile.forestBroadleafMeadowsweet
+tile.leafyColeus
+tile.forestDeadnettle
+tile.forestDeceivingTrillium
+tile.forestFairySlipper
+tile.forestGiantAngelica
+tile.forestHorseweed
+tile.forestKneelingAngelica
+tile.forestLilyoftheValley
+tile.forestLongBractedOrchid
+tile.forestNorthernPitcherPlant
+tile.forestMerrybells
+tile.forestPinesap
+tile.forestRedHelleborine
+tile.forestSalal
+tile.forestSpringVetchling
+tile.leafyStonecrop
+tile.forestVanillaLeaf
+tile.forestWesternWallflower
+tile.forestWildColumbine
+tile.forestWildMint
+tile.forestWolfsFootClubmoss
+tile.forestWoodlandKnotweed
+tile.forestYellowLadySlipper
+tile.riverAmazonSword
+tile.riverCanadianWaterweed
+tile.riverCoonsTail
+tile.waterCryptWendtii
+tile.waterDwarfHairGrass
+tile.riverEelgrass
+tile.waterMondoGrass
+tile.riverWaterWisteria
+tile.riverWrightsWaternymph
+tile.fungusBlackPowderpuff
+tile.fungusChanterelle
+tile.fungusDeathCap
+tile.fungusGiantClub
+tile.fungusParasol
+tile.fungusStinkhorn
+tile.fungusWeepingMilkCap
+tile.fungusWoodBlewit
+tile.fungusWoollyGomphus
+tile.grassBlueWheatgrass
+tile.grassCord
+tile.grassFountain
+tile.grassMaiden
+tile.grassMeadow
+tile.grassMeadowFoxtail
+tile.grassPrairie
+tile.grassSeaOats
+tile.grassSilverMoor
+tile.grassSwitch
+tile.groundcoverClover
+tile.groundcoverGrassGRNLT
+tile.groundcoverGrassGRNDK
+tile.groundcoverFlowers
+tile.groundcoverIvy
+tile.groundcoverLeavesBRN
+tile.groundcoverLeavesGRN
+tile.groundcoverMoss
+tile.groundcoverTwig
+tile.immersedArrowArum
+tile.immersedCommonReed
+tile.immersedDuckPotato
+tile.immersedEuropeanBurReed
+tile.immersedGreySedge
+tile.immersedSimplestemBurReed
+tile.immersedSoftstemBulrush
+tile.immersedWaterMannagrass
+tile.immersedYellowFlag
+tile.jungleConeHeadedGuzmania
+tile.jungleDevilsTongue
+tile.leafyEmeraldPhilodendron
+tile.jungleHoneySpurge
+tile.jungleJungleLantern
+tile.jungleLazarusBell
+tile.jungleLobsterClaws
+tile.jungleLollipopPlant
+tile.jungleMadagascarPalm
+tile.junglePalmLily
+tile.junglePanamaQueen
+tile.junglePorteaAlatisepala
+tile.jungleRacinaeaFraseri
+tile.jungleRicheaDracophylla
+tile.jungleShellflower
+tile.jungleSilverVase
+tile.jungleStaghornClubmoss
+tile.jungleTorchGinger
+tile.jungleVoodooLily
+tile.mountainAlpineArmeria
+tile.mountainAlpineBellflower
+tile.mountainBistort
+tile.mountainEdelweiss
+tile.mountainHouseleek
+tile.mountainIris
+tile.leafyKrisPlant
+tile.mountainNorthernWillowherb
+tile.mountainScarletTrumpet
+tile.mountainYellowBellflower
+tile.plainsPrairieBrome
+tile.plainsPrairieSage
+tile.leafyPricklyLettuce
+tile.plainsReedCanaryGrass
+tile.plainsShortrayFleabane
+tile.plainsSmallPasqueFlower
+tile.plainsSmoothAster
+tile.leafyStingingNettle
+tile.plainsThreeFloweredAvens
+tile.oceanCommonEelgrass
+tile.oceanCoralWeed
+tile.waterKelpGiantGRN
+tile.waterKelpGiantYEL
+tile.oceanMozuku
+tile.oceanRockweed
+tile.oceanSeaGrapes
+tile.oceanSeaLettuce
+tile.oceanTangle
+tile.savannaButterflyWeed
+tile.leafyDevilsShoestring
+tile.savannaHoaryVervain
+tile.savannaLeadplant
+tile.savannaMarcela
+tile.savannaNorthernBedstraw
+tile.leafyPaleYucca
+tile.savannaPiersonsMilkVetch
+tile.savannaPropellerPlant
+tile.savannaShonaCabbage
+tile.savannaTexasTickseed
+tile.shrubAlpineCurrant
+tile.shrubBarberry
+tile.shrubBoxwood
+tile.shrubButterfly
+tile.shrubCanyonCreekAbelia
+tile.shrubCapeJasmine
+tile.shrubCedarCylinder
+tile.shrubCedarGlobe
+tile.shrubCedarPyramid
+tile.shrubCypressGreen
+tile.shrubCypressYellow
+tile.shrubDaphne
+tile.shrubDwarfElder
+tile.shrubHolly
+tile.shrubHummingbirdBush
+tile.shrubJuniperSavin
+tile.shrubKerria
+tile.shrubLavender
+tile.shrubLindera
+tile.shrubMeadowsweet
+tile.shrubMottlecah
+tile.shrubNinebark
+tile.shrubSargentViburnum
+tile.shrubSpicebush
+tile.shrubWeepingForsythia
+tile.shrubWinterberry
+tile.shrubWolfWillow
+tile.vineFlowersBurgundy
+tile.vineFlowersRed
+tile.vineFlowersCoral
+tile.vineFlowersOrange
+tile.vineFlowersYellow
+tile.vineFlowersCyan
+tile.vineFlowersGreen
+tile.vineFlowersBlue
+tile.vineFlowersRoyal
+tile.vineFlowersPurple
+tile.vineFlowersMagenta
+tile.vineFlowersPink
+tile.vineFlowersWhite
+tile.vineJapaneseIvy
+tile.vineSilverveinCreeper
+tile.vineSpanishMoss
+tile.vineSwedishIvy
+tile.vineVariegatedPersianIvy
+tile.wetlandsCattails
+tile.wetlandsClubrush
+tile.wetlandsCommonRush
+tile.wetlandsFloweringRush
+tile.wetlandsPickerelweed
+tile.wetlandsReedMannagrass
+tile.wetlandsSwampMilkweed
+tile.wetlandsWaterHorsetail
+tile.wetlandsWhiteTurtlehead
+tile.bambooAsperPole
+tile.bambooFargesiaRobustaPole
+tile.bambooGiantTimberPole
+tile.bambooGoldenPole
+tile.bambooMosoPole
+tile.bambooShortTassledPole
+tile.bambooTimorBlackPole
+tile.bambooTropicalBluePole
+tile.bambooWetForestPole
+tile.bambooAsperBlock
+tile.bambooFargesiaRobustaBlock
+tile.bambooGiantTimberBlock
+tile.bambooGoldenBlock
+tile.bambooMosoBlock
+tile.bambooShortTassledBlock
+tile.bambooTimorBlackBlock
+tile.bambooTropicalBlueBlock
+tile.bambooWetForestBlock
+tile.bambooAsperStairs
+tile.bambooFargesiaRobustaStairs
+tile.bambooGiantTimberStairs
+tile.bambooGoldenStairs
+tile.bambooMosoStairs
+tile.bambooShortTassledStairs
+tile.bambooTimorBlackStairs
+tile.bambooTropicalBlueStairs
+tile.bambooWetForestStairs
+tile.bambooAsperSlab
+tile.bambooAsperSlabDouble
+tile.bambooFargesiaRobustaSlab
+tile.bambooFargesiaRobustaSlabDouble
+tile.bambooGiantTimberSlab
+tile.bambooGiantTimberSlabDouble
+tile.bambooGoldenSlab
+tile.bambooGoldenSlabDouble
+tile.bambooMosoSlab
+tile.bambooMosoSlabDouble
+tile.bambooShortTassledSlab
+tile.bambooShortTassledSlabDouble
+tile.bambooTimorBlackSlab
+tile.bambooTimorBlackSlabDouble
+tile.bambooTropicalBlueSlab
+tile.bambooTropicalBlueSlabDouble
+tile.bambooWetForestSlab
+tile.bambooWetForestSlabDouble
+tile.bambooAsperDoor
+tile.bambooFargesiaRobustaDoor
+tile.bambooGiantTimberDoor
+tile.bambooGoldenDoor
+tile.bambooMosoDoor
+tile.bambooShortTassledDoor
+tile.bambooTimorBlackDoor
+tile.bambooTropicalBlueDoor
+tile.bambooWetForestDoor
+tile.bambooAsperFence
+tile.bambooFargesiaRobustaFence
+tile.bambooGiantTimberFence
+tile.bambooGoldenFence
+tile.bambooMosoFence
+tile.bambooShortTassledFence
+tile.bambooTimorBlackFence
+tile.bambooTropicalBlueFence
+tile.bambooWetForestFence
+tile.bambooAsperGate
+tile.bambooFargesiaRobustaGate
+tile.bambooGiantTimberGate
+tile.bambooGoldenGate
+tile.bambooMosoGate
+tile.bambooShortTassledGate
+tile.bambooTimorBlackGate
+tile.bambooTropicalBlueGate
+tile.bambooWetForestGate
+tile.bambooAsperLadder
+tile.bambooFargesiaRobustaLadder
+tile.bambooGiantTimberLadder
+tile.bambooGoldenLadder
+tile.bambooMosoLadder
+tile.bambooShortTassledLadder
+tile.bambooTimorBlackLadder
+tile.bambooTropicalBlueLadder
+tile.bambooWetForestLadder
+tile.wallBracketBambooAsper
+tile.wallBracketBambooFargesiaRobusta
+tile.wallBracketBambooGiantTimber
+tile.wallBracketBambooGolden
+tile.wallBracketBambooMoso
+tile.wallBracketBambooShortTassled
+tile.wallBracketBambooTimorBlack
+tile.wallBracketBambooTropicalBlue
+tile.wallBracketBambooWetForest
+tile.wallBracketStone
+tile.wallBracketWoodAcacia
+tile.wallBracketWoodBirch
+tile.wallBracketWoodDarkOak
+tile.wallBracketWoodJungle
+tile.wallBracketWoodOak
+tile.wallBracketWoodSpruce
+tile.wallBracketIronCurl
+tile.wallBracketGoldCurl
+tile.sfm.BlockMachineManager
+tile.sfm.BlockCable
+tile.null
+tile.sfm.BlockCableOutput
+tile.sfm.BlockCableInput
+tile.sfm.BlockCableCreative
+tile.null
+tile.sfm.BlockCableBUD
+tile.sfm.BlockCableBreaker
+tile.null
+tile.null
+tile.sfm.BlockCableSign
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ElectricForge
+tile.InductionForge
+tile.Fridge
+tile.DeepFreezer
+tile.thermaldynamics.duct
+tile.thermaldynamics.duct
+tile.thermaldynamics.duct
+tile.thermaldynamics.duct
+tile.thermaldynamics.duct
+tile.tikiTorch
+tile.ygcStatue
+tile.treasurePile
+tile.grandfatherClock
+tile.weaponRack
+tile.grindstone
+tile.gong
+tile.pedestal
+tile.ygcItemShelf
+tile.ygcSnowGlobe
+tile.ygcSawBench
+tile.tablePress
+tile.ygcFlaxPlant
+tile.ygcMicroBlock
+tile.ygcLootChest
+tile.rope
+tile.ropebridge
+tile.clothsheet
+tile.leather
+tile.relocation.blockmovingrow
+tile.mcframes.motor
+tile.mcframes.frame
+tile.Melon
+tile.BellowsDriver
+tile.SteamBoiler
+tile.PotteryKiln
+tile.PotteryKilnChamber
+tile.WaterFilter
+tile.CellarWall
+tile.IceBunker
+tile.CellarShelf
+tile.CellarDoor
+tile.Ice
+tile.animalcrate:blockcrate
+tile.thermalexpansion.machine
+tile.thermalexpansion.device
+tile.thermalexpansion.dynamo
+tile.thermalexpansion.cell
+tile.thermalexpansion.tank
+tile.thermalexpansion.strongbox
+tile.thermalexpansion.cache
+tile.thermalexpansion.workbench
+tile.thermalexpansion.ender
+tile.thermalexpansion.plate
+tile.thermalexpansion.light
+tile.thermalexpansion.frame
+tile.thermalexpansion.glass
+tile.thermalexpansion.rockwool
+tile.thermalexpansion.sponge
+tile.enderchest
+tile.baseTierWood
+tile.baseTierOneBlock
+tile.baseTierTwoBlock
+tile.baseTierThreeBlock
+tile.baseTierFourBlock
+tile.expanderPowerTierOne
+tile.expanderPowerTierTwo
+tile.expanderPowerTierThree
+tile.expanderPowerTierFour
+tile.expanderPowerTierFive
+tile.expanderInvTierOne
+tile.expanderInvTierTwo
+tile.expanderInvTierThree
+tile.expanderInvTierFour
+tile.expanderInvTierFive
+tile.hardWallTierOne
+tile.hardWallTierTwo
+tile.hardWallTierThree
+tile.hardWallTierFour
+tile.hardWallTierFive
+tile.fenceTierOne
+tile.fenceTierTwo
+tile.fenceTierThree
+tile.fenceTierFour
+tile.fenceTierFive
+tile.disposeItemTurret
+tile.potatoCannonTurret
+tile.machineGunTurret
+tile.incendiaryTurret
+tile.grenadeTurret
+tile.relativisticTurret
+tile.rocketTurret
+tile.teleporterTurret
+tile.laserTurret
+tile.railGunTurret
+tile.leverBlock
+tile.PortalMod
+tile.PortalMultiBlock
+tile.projectred.integration.icblock
+tile.projectred.illumination.lamp
+tile.projectred.illumination.airousLight
+tile.projectred.expansion.machine1
+tile.projectred.expansion.machine2
+tile.cuchaz.ships.blockShip
+tile.cuchaz.ships.airWall
+tile.cuchaz.ships.helm
+tile.cuchaz.ships.berth
+tile.cuchaz.ships.airRoof
+tile.cuchaz.ships.shipProjector
+item.record
+item.record
+item.record
+item.record
+item.record
+item.record
+item.record
+item.record
+item.record
+item.record
+item.record
+item.record
+item.aroma1997core:hammer
+item.aroma1997core:wrenched
+item.GoldPan
+item.SluiceItem
+item.Bismuth Bronze ProPick
+item.Black Bronze ProPick
+item.Black Steel ProPick
+item.Blue Steel ProPick
+item.Bronze ProPick
+item.Copper ProPick
+item.Wrought Iron ProPick
+item.Red Steel ProPick
+item.Steel ProPick
+item.Bismuth Ingot
+item.Bismuth Bronze Ingot
+item.Black Bronze Ingot
+item.Black Steel Ingot
+item.Blue Steel Ingot
+item.Brass Ingot
+item.Bronze Ingot
+item.Copper Ingot
+item.Gold Ingot
+item.Wrought Iron Ingot
+item.Lead Ingot
+item.Nickel Ingot
+item.Pig Iron Ingot
+item.Platinum Ingot
+item.Red Steel Ingot
+item.Rose Gold Ingot
+item.Silver Ingot
+item.Steel Ingot
+item.Sterling Silver Ingot
+item.Tin Ingot
+item.Zinc Ingot
+item.Bismuth Double Ingot
+item.Bismuth Bronze Double Ingot
+item.Black Bronze Double Ingot
+item.Black Steel Double Ingot
+item.Blue Steel Double Ingot
+item.Brass Double Ingot
+item.Bronze Double Ingot
+item.Copper Double Ingot
+item.Gold Double Ingot
+item.Wrought Iron Double Ingot
+item.Lead Double Ingot
+item.Nickel Double Ingot
+item.Pig Iron Double Ingot
+item.Platinum Double Ingot
+item.Red Steel Double Ingot
+item.Rose Gold Double Ingot
+item.Silver Double Ingot
+item.Steel Double Ingot
+item.Sterling Silver Double Ingot
+item.Tin Double Ingot
+item.Zinc Double Ingot
+item.Ruby
+item.Sapphire
+item.Emerald
+item.Topaz
+item.Tourmaline
+item.Jade
+item.Beryl
+item.Agate
+item.Opal
+item.Garnet
+item.Jasper
+item.Amethyst
+item.Diamond
+item.IgIn Stone Shovel
+item.IgIn Stone Axe
+item.IgIn Stone Hoe
+item.Sed Stone Shovel
+item.Sed Stone Axe
+item.Sed Stone Hoe
+item.IgEx Stone Shovel
+item.IgEx Stone Axe
+item.IgEx Stone Hoe
+item.MM Stone Shovel
+item.MM Stone Axe
+item.MM Stone Hoe
+item.Bismuth Bronze Pick
+item.Bismuth Bronze Shovel
+item.Bismuth Bronze Axe
+item.Bismuth Bronze Hoe
+item.Black Bronze Pick
+item.Black Bronze Shovel
+item.Black Bronze Axe
+item.Black Bronze Hoe
+item.Black Steel Pick
+item.Black Steel Shovel
+item.Black Steel Axe
+item.Black Steel Hoe
+item.Blue Steel Pick
+item.Blue Steel Shovel
+item.Blue Steel Axe
+item.Blue Steel Hoe
+item.Bronze Pick
+item.Bronze Shovel
+item.Bronze Axe
+item.Bronze Hoe
+item.Copper Pick
+item.Copper Shovel
+item.Copper Axe
+item.Copper Hoe
+item.Wrought Iron Pick
+item.Wrought Iron Shovel
+item.Wrought Iron Axe
+item.Wrought Iron Hoe
+item.Red Steel Pick
+item.Red Steel Shovel
+item.Red Steel Axe
+item.Red Steel Hoe
+item.Steel Pick
+item.Steel Shovel
+item.Steel Axe
+item.Steel Hoe
+item.Bismuth Bronze Chisel
+item.Black Bronze Chisel
+item.Black Steel Chisel
+item.Blue Steel Chisel
+item.Bronze Chisel
+item.Copper Chisel
+item.Wrought Iron Chisel
+item.Red Steel Chisel
+item.Steel Chisel
+item.Bismuth Bronze Sword
+item.Black Bronze Sword
+item.Black Steel Sword
+item.Blue Steel Sword
+item.Bronze Sword
+item.Copper Sword
+item.Wrought Iron Sword
+item.Red Steel Sword
+item.Steel Sword
+item.Bismuth Bronze Mace
+item.Black Bronze Mace
+item.Black Steel Mace
+item.Blue Steel Mace
+item.Bronze Mace
+item.Copper Mace
+item.Wrought Iron Mace
+item.Red Steel Mace
+item.Steel Mace
+item.Bismuth Bronze Saw
+item.Black Bronze Saw
+item.Black Steel Saw
+item.Blue Steel Saw
+item.Bronze Saw
+item.Copper Saw
+item.Wrought Iron Saw
+item.Red Steel Saw
+item.Steel Saw
+item.HC Black Steel Ingot
+item.Weak Blue Steel Ingot
+item.Weak Red Steel Ingot
+item.Weak Steel Ingot
+item.HC Blue Steel Ingot
+item.HC Red Steel Ingot
+item.HC Steel Ingot
+item.Ore
+item.Small Ore
+item.Log
+item.IgIn Stone Javelin
+item.Sed Stone Javelin
+item.IgEx Stone Javelin
+item.MM Stone Javelin
+item.Copper Javelin
+item.Bismuth Bronze Javelin
+item.Bronze Javelin
+item.Black Bronze Javelin
+item.Wrought Iron Javelin
+item.Steel Javelin
+item.Black Steel Javelin
+item.Blue Steel Javelin
+item.Red Steel Javelin
+item.IgIn Stone Javelin Head
+item.Sed Stone Javelin Head
+item.IgEx Stone Javelin Head
+item.MM Stone Javelin Head
+item.Copper Javelin Head
+item.Bismuth Bronze Javelin Head
+item.Bronze Javelin Head
+item.Black Bronze Javelin Head
+item.Wrought Iron Javelin Head
+item.Steel Javelin Head
+item.Black Steel Javelin Head
+item.Blue Steel Javelin Head
+item.Red Steel Javelin Head
+item.Bismuth Unshaped
+item.Bismuth Bronze Unshaped
+item.Black Bronze Unshaped
+item.Black Steel Unshaped
+item.Blue Steel Unshaped
+item.Brass Unshaped
+item.Bronze Unshaped
+item.Copper Unshaped
+item.Gold Unshaped
+item.Wrought Iron Unshaped
+item.Lead Unshaped
+item.Nickel Unshaped
+item.Pig Iron Unshaped
+item.Platinum Unshaped
+item.Red Steel Unshaped
+item.Rose Gold Unshaped
+item.Silver Unshaped
+item.Steel Unshaped
+item.Sterling Silver Unshaped
+item.Tin Unshaped
+item.Zinc Unshaped
+item.Stone Hammer
+item.Bismuth Bronze Hammer
+item.Black Bronze Hammer
+item.Black Steel Hammer
+item.Blue Steel Hammer
+item.Bronze Hammer
+item.Copper Hammer
+item.Wrought Iron Hammer
+item.Red Steel Hammer
+item.Steel Hammer
+item.Ink
+item.Firestarter
+item.Bismuth Bronze Pick Head
+item.Black Bronze Pick Head
+item.Black Steel Pick Head
+item.Blue Steel Pick Head
+item.Bronze Pick Head
+item.Copper Pick Head
+item.Wrought Iron Pick Head
+item.Red Steel Pick Head
+item.Steel Pick Head
+item.Bismuth Bronze Shovel Head
+item.Black Bronze Shovel Head
+item.Black Steel Shovel Head
+item.Blue Steel Shovel Head
+item.Bronze Shovel Head
+item.Copper Shovel Head
+item.Wrought Iron Shovel Head
+item.Red Steel Shovel Head
+item.Steel Shovel Head
+item.Bismuth Bronze Hoe Head
+item.Black Bronze Hoe Head
+item.Black Steel Hoe Head
+item.Blue Steel Hoe Head
+item.Bronze Hoe Head
+item.Copper Hoe Head
+item.Wrought Iron Hoe Head
+item.Red Steel Hoe Head
+item.Steel Hoe Head
+item.Bismuth Bronze Axe Head
+item.Black Bronze Axe Head
+item.Black Steel Axe Head
+item.Blue Steel Axe Head
+item.Bronze Axe Head
+item.Copper Axe Head
+item.Wrought Iron Axe Head
+item.Red Steel Axe Head
+item.Steel Axe Head
+item.Bismuth Bronze Hammer Head
+item.Black Bronze Hammer Head
+item.Black Steel Hammer Head
+item.Blue Steel Hammer Head
+item.Bronze Hammer Head
+item.Copper Hammer Head
+item.Wrought Iron Hammer Head
+item.Red Steel Hammer Head
+item.Steel Hammer Head
+item.Bismuth Bronze Chisel Head
+item.Black Bronze Chisel Head
+item.Black Steel Chisel Head
+item.Blue Steel Chisel Head
+item.Bronze Chisel Head
+item.Copper Chisel Head
+item.Wrought Iron Chisel Head
+item.Red Steel Chisel Head
+item.Steel Chisel Head
+item.Bismuth Bronze Sword Blade
+item.Black Bronze Sword Blade
+item.Black Steel Sword Blade
+item.Blue Steel Sword Blade
+item.Bronze Sword Blade
+item.Copper Sword Blade
+item.Wrought Iron Sword Blade
+item.Red Steel Sword Blade
+item.Steel Sword Blade
+item.Bismuth Bronze Mace Head
+item.Black Bronze Mace Head
+item.Black Steel Mace Head
+item.Blue Steel Mace Head
+item.Bronze Mace Head
+item.Copper Mace Head
+item.Wrought Iron Mace Head
+item.Red Steel Mace Head
+item.Steel Mace Head
+item.Bismuth Bronze Saw Blade
+item.Black Bronze Saw Blade
+item.Black Steel Saw Blade
+item.Blue Steel Saw Blade
+item.Bronze Saw Blade
+item.Copper Saw Blade
+item.Wrought Iron Saw Blade
+item.Red Steel Saw Blade
+item.Steel Saw Blade
+item.HC Black Steel Unshaped
+item.Weak Blue Steel Unshaped
+item.HC Blue Steel Unshaped
+item.Weak Red Steel Unshaped
+item.HC Red Steel Unshaped
+item.Weak Steel Unshaped
+item.HC Steel Unshaped
+item.Bismuth Bronze ProPick Head
+item.Black Bronze ProPick Head
+item.Black Steel ProPick Head
+item.Blue Steel ProPick Head
+item.Bronze ProPick Head
+item.Copper ProPick Head
+item.Wrought Iron ProPick Head
+item.Red Steel ProPick Head
+item.Steel ProPick Head
+item.Bismuth Bronze Scythe
+item.Black Bronze Scythe
+item.Black Steel Scythe
+item.Blue Steel Scythe
+item.Bronze Scythe
+item.Copper Scythe
+item.Wrought Iron Scythe
+item.Red Steel Scythe
+item.Steel Scythe
+item.Bismuth Bronze Scythe Blade
+item.Black Bronze Scythe Blade
+item.Black Steel Scythe Blade
+item.Blue Steel Scythe Blade
+item.Bronze Scythe Blade
+item.Copper Scythe Blade
+item.Wrought Iron Scythe Blade
+item.Red Steel Scythe Blade
+item.Steel Scythe Blade
+item.Wooden Bucket Empty
+item.Wooden Bucket Water
+item.Wooden Bucket Salt Water
+item.Wooden Bucket Milk
+item.Bismuth Bronze Knife Blade
+item.Black Bronze Knife Blade
+item.Black Steel Knife Blade
+item.Blue Steel Knife Blade
+item.Bronze Knife Blade
+item.Copper Knife Blade
+item.Wrought Iron Knife Blade
+item.Red Steel Knife Blade
+item.Steel Knife Blade
+item.Bismuth Bronze Knife
+item.Black Bronze Knife
+item.Black Steel Knife
+item.Blue Steel Knife
+item.Bronze Knife
+item.Copper Knife
+item.Wrought Iron Knife
+item.Red Steel Knife
+item.Steel Knife
+item.FlatRock
+item.LooseRock
+item.IgIn Stone Shovel Head
+item.Sed Stone Shovel Head
+item.IgEx Stone Shovel Head
+item.MM Stone Shovel Head
+item.IgIn Stone Axe Head
+item.Sed Stone Axe Head
+item.IgEx Stone Axe Head
+item.MM Stone Axe Head
+item.IgIn Stone Hoe Head
+item.Sed Stone Hoe Head
+item.IgEx Stone Hoe Head
+item.MM Stone Hoe Head
+item.Stone Knife Blade
+item.Stone Hammer Head
+item.Stone Knife
+item.SinglePlank
+item.Red Steel Bucket Empty
+item.Red Steel Bucket Water
+item.Red Steel Bucket Salt Water
+item.Blue Steel Bucket Empty
+item.Blue Steel Bucket Lava
+item.Quern
+item.flintAndSteel
+item.Oak Door
+item.Aspen Door
+item.Birch Door
+item.Chestnut Door
+item.Douglas Fir Door
+item.Hickory Door
+item.Maple Door
+item.Ash Door
+item.Pine Door
+item.Sequoia Door
+item.Spruce Door
+item.Sycamore Door
+item.White Cedar Door
+item.White Elm Door
+item.Willow Door
+item.Kapok Door
+item.Acacia Door
+item.Glass Bottle
+item.Beer
+item.Cider
+item.Rum
+item.RyeWhiskey
+item.Sake
+item.Vodka
+item.Whiskey
+item.CornWhiskey
+item.Blueprint
+item.Nametag
+item.WoolYarn
+item.Wool
+item.WoolCloth
+item.SilkCloth
+item.BurlapCloth
+item.Spindle
+item.Spindle Head
+item.ItemStoneBrick
+item.Mortar
+item.Vinegar
+item.Hide
+item.Soaked Hide
+item.Scraped Hide
+item.Prep Hide
+item.Sheep Skin
+item.Flat Leather
+item.TFC Leather
+item.Straw
+item.Flat Clay
+item.Jug
+item.Small Vessel
+item.ClayBowl
+item.Mold
+item.Fire Brick
+item.Axe Mold
+item.Chisel Mold
+item.Hammer Mold
+item.Hoe Mold
+item.Knife Mold
+item.Mace Mold
+item.Pick Mold
+item.ProPick Mold
+item.Saw Mold
+item.Scythe Mold
+item.Shovel Mold
+item.Sword Mold
+item.Javelin Mold
+item.Copper Tuyere
+item.Bronze Tuyere
+item.Black Bronze Tuyere
+item.Bismuth Bronze Tuyere
+item.Wrought Iron Tuyere
+item.Steel Tuyere
+item.Black Steel Tuyere
+item.Red Steel Tuyere
+item.Blue Steel Tuyere
+item.Iron Bloom
+item.Raw Iron Bloom
+item.Unknown Ingot
+item.Unknown Unshaped
+item.Jute
+item.Jute Fibre
+item.Reeds
+item.fishingRod
+item.coal
+item.stick
+item.bow
+item.arrow
+item.dyePowder
+item.Rope
+item.Clay
+item.Powder
+item.Fertilizer
+item.FruitSapling
+item.Red Apple
+item.Banana
+item.Orange
+item.Green Apple
+item.Lemon
+item.Olive
+item.Cherry
+item.Peach
+item.Plum
+item.egg
+item.Egg Cooked
+item.Wheat Grain
+item.Barley Grain
+item.Oat Grain
+item.Rye Grain
+item.Rice Grain
+item.Maize Ear
+item.Tomato
+item.Potato
+item.Onion
+item.Cabbage
+item.Garlic
+item.Carrot
+item.Sugarcane
+item.Soybeans
+item.Greenbeans
+item.Green Bell Pepper
+item.Yellow Bell Pepper
+item.Red Bell Pepper
+item.Squash
+item.Cheese
+item.Wheat Whole
+item.Barley Whole
+item.Oat Whole
+item.Rye Whole
+item.Rice Whole
+item.Wheat Ground
+item.Barley Ground
+item.Oat Ground
+item.Rye Ground
+item.Rice Ground
+item.Cornmeal Ground
+item.Wheat Dough
+item.Barley Dough
+item.Oat Dough
+item.Rye Dough
+item.Rice Dough
+item.Cornmeal Dough
+item.Wheat Bread
+item.Barley Bread
+item.Oat Bread
+item.Rye Bread
+item.Rice Bread
+item.Corn Bread
+item.Calamari
+item.Seeds Wheat
+item.Seeds Barley
+item.Seeds Rye
+item.Seeds Oat
+item.Seeds Rice
+item.Seeds Maize
+item.Seeds Potato
+item.Seeds Onion
+item.Seeds Cabbage
+item.Seeds Garlic
+item.Seeds Carrot
+item.Seeds Sugarcane
+item.Seeds Tomato
+item.Seeds Yellow Bell Pepper
+item.Seeds Red Bell Pepper
+item.Seeds Soybean
+item.Seeds Greenbean
+item.Seeds Squash
+item.Seeds Jute
+item.Mutton
+item.Venison
+item.HorseMeat
+item.Porkchop
+item.Fish
+item.Beef
+item.Chicken
+item.Sea Weed
+item.Wintergreen Berry
+item.Blueberry
+item.Raspberry
+item.Strawberry
+item.Blackberry
+item.Bunchberry
+item.Cranberry
+item.Snowberry
+item.Elderberry
+item.Gooseberry
+item.Cloudberry
+item.Bismuth Sheet
+item.Bismuth Bronze Sheet
+item.Black Bronze Sheet
+item.Black Steel Sheet
+item.Blue Steel Sheet
+item.Bronze Sheet
+item.Copper Sheet
+item.Wrought Iron Sheet
+item.Red Steel Sheet
+item.Rose Gold Sheet
+item.Steel Sheet
+item.Tin Sheet
+item.Zinc Sheet
+item.Bismuth Double Sheet
+item.Bismuth Bronze Double Sheet
+item.Black Bronze Double Sheet
+item.Black Steel Double Sheet
+item.Blue Steel Double Sheet
+item.Bronze Double Sheet
+item.Copper Double Sheet
+item.Wrought Iron Double Sheet
+item.Red Steel Double Sheet
+item.Rose Gold Double Sheet
+item.Steel Double Sheet
+item.Tin Double Sheet
+item.Zinc Double Sheet
+item.Brass Sheet
+item.Gold Sheet
+item.Lead Sheet
+item.Nickel Sheet
+item.Pig Iron Sheet
+item.Platinum Sheet
+item.Silver Sheet
+item.Sterling Silver Sheet
+item.Brass Double Sheet
+item.Gold Double Sheet
+item.Lead Double Sheet
+item.Nickel Double Sheet
+item.Pig Iron Double Sheet
+item.Platinum Double Sheet
+item.Silver Double Sheet
+item.Sterling Silver Double Sheet
+item.Bismuth Bronze Unfinished Boots
+item.Black Bronze Unfinished Boots
+item.Black Steel Unfinished Boots
+item.Blue Steel Unfinished Boots
+item.Bronze Unfinished Boots
+item.Copper Unfinished Boots
+item.Wrought Iron Unfinished Boots
+item.Red Steel Unfinished Boots
+item.Steel Unfinished Boots
+item.Bismuth Bronze Boots
+item.Black Bronze Boots
+item.Black Steel Boots
+item.Blue Steel Boots
+item.Bronze Boots
+item.Copper Boots
+item.Wrought Iron Boots
+item.Red Steel Boots
+item.Steel Boots
+item.Bismuth Bronze Unfinished Greaves
+item.Black Bronze Unfinished Greaves
+item.Black Steel Unfinished Greaves
+item.Blue Steel Unfinished Greaves
+item.Bronze Unfinished Greaves
+item.Copper Unfinished Greaves
+item.Wrought Iron Unfinished Greaves
+item.Red Steel Unfinished Greaves
+item.Steel Unfinished Greaves
+item.Bismuth Bronze Greaves
+item.Black Bronze Greaves
+item.Black Steel Greaves
+item.Blue Steel Greaves
+item.Bronze Greaves
+item.Copper Greaves
+item.Wrought Iron Greaves
+item.Red Steel Greaves
+item.Steel Greaves
+item.Bismuth Bronze Unfinished Chestplate
+item.Black Bronze Unfinished Chestplate
+item.Black Steel Unfinished Chestplate
+item.Blue Steel Unfinished Chestplate
+item.Bronze Unfinished Chestplate
+item.Copper Unfinished Chestplate
+item.Wrought Iron Unfinished Chestplate
+item.Red Steel Unfinished Chestplate
+item.Steel Unfinished Chestplate
+item.Bismuth Bronze Chestplate
+item.Black Bronze Chestplate
+item.Black Steel Chestplate
+item.Blue Steel Chestplate
+item.Bronze Chestplate
+item.Copper Chestplate
+item.Wrought Iron Chestplate
+item.Red Steel Chestplate
+item.Steel Chestplate
+item.Bismuth Bronze Unfinished Helmet
+item.Black Bronze Unfinished Helmet
+item.Black Steel Unfinished Helmet
+item.Blue Steel Unfinished Helmet
+item.Bronze Unfinished Helmet
+item.Copper Unfinished Helmet
+item.Wrought Iron Unfinished Helmet
+item.Red Steel Unfinished Helmet
+item.Steel Unfinished Helmet
+item.Bismuth Bronze Helmet
+item.Black Bronze Helmet
+item.Black Steel Helmet
+item.Blue Steel Helmet
+item.Bronze Helmet
+item.Copper Helmet
+item.Wrought Iron Helmet
+item.Red Steel Helmet
+item.Steel Helmet
+item.helmetCloth
+item.chestplateCloth
+item.leggingsCloth
+item.bootsCloth
+item.Quiver
+item.Sandwich
+item.Salad
+item.Sugar
+item.shears
+item.LanternCore.Copper
+item.LanternCore.Bronze
+item.LanternCore.BismuthBronze
+item.LanternCore.BlackBronze
+item.LanternCore.Brass
+item.LanternCore.Lead
+item.LanternCore.Gold
+item.LanternCore.RoseGold
+item.LanternCore.Silver
+item.LanternCore.SterlingSilver
+item.LanternCore.Platinum
+item.LanternCore.WroughtIron
+item.Powders.Gypsum
+item.Plaster
+item.LiquidDye
+item.Brush
+item.LeatherWaterSac
+item.WaterSacLeather
+item.Bladder
+item.WarehouseBook
+item.Flan
+item.Coin
+item.Trussel
+item.AnvilDie
+item.CasingBrass
+item.CasingIron
+item.CasingRoseGold
+item.Gear
+item.CaseinGlue
+item.PistonBase
+item.Circuit
+item.DeerTendon
+item.SinewFiber
+item.SinewString
+item.SinewBowString
+item.BowLimb
+item.Suet
+item.BowlSuet
+item.BowlTallow
+item.BrownDye
+item.IronDust
+item.TallowDye
+item.LongBow
+item.CrossBow
+item.Halberd_BismuthBronze
+item.Halberd_BlackBronze
+item.Halberd_BlackSteel
+item.Halberd_BlueSteel
+item.Halberd_Bronze
+item.Halberd_Copper
+item.Halberd_WroughtIron
+item.Halberd_RedSteel
+item.Halberd_Steel
+item.Halberd_BismuthBronze_Head
+item.Halberd_BlackBronze_Head
+item.Halberd_BlackSteel_Head
+item.Halberd_BlueSteel_Head
+item.Halberd_Bronze_Head
+item.Halberd_Copper_Head
+item.Halberd_WroughtIron_Head
+item.Halberd_RedSteel_Head
+item.Halberd_Steel_Head
+item.WarHammer_BismuthBronze
+item.WarHammer_BlackBronze
+item.WarHammer_BlackSteel
+item.WarHammer_BlueSteel
+item.WarHammer_Bronze
+item.WarHammer_Copper
+item.WarHammer_WroughtIron
+item.WarHammer_RedSteel
+item.WarHammer_Steel
+item.WarHammer_BismuthBronze_Head
+item.WarHammer_BlackBronze_Head
+item.WarHammer_BlackSteel_Head
+item.WarHammer_BlueSteel_Head
+item.WarHammer_Bronze_Head
+item.WarHammer_Copper_Head
+item.WarHammer_WroughtIron_Head
+item.WarHammer_RedSteel_Head
+item.WarHammer_Steel_Head
+item.Poniard_BismuthBronze
+item.Poniard_BlackBronze
+item.Poniard_BlackSteel
+item.Poniard_BlueSteel
+item.Poniard_Bronze
+item.Poniard_Copper
+item.Poniard_WroughtIron
+item.Poniard_RedSteel
+item.Poniard_Steel
+item.Poniard_BismuthBronze_Head
+item.Poniard_BlackBronze_Head
+item.Poniard_BlackSteel_Head
+item.Poniard_BlueSteel_Head
+item.Poniard_Bronze_Head
+item.Poniard_Copper_Head
+item.Poniard_WroughtIron_Head
+item.Poniard_RedSteel_Head
+item.Poniard_Steel_Head
+item.Arrow_BismuthBronze
+item.Arrow_BlackBronze
+item.Arrow_BlackSteel
+item.Arrow_BlueSteel
+item.Arrow_Bronze
+item.Arrow_Copper
+item.Arrow_WroughtIron
+item.Arrow_RedSteel
+item.Arrow_Steel
+item.Arrow_BismuthBronze_Head
+item.Arrow_BlackBronze_Head
+item.Arrow_BlackSteel_Head
+item.Arrow_BlueSteel_Head
+item.Arrow_Bronze_Head
+item.Arrow_Copper_Head
+item.Arrow_WroughtIron_Head
+item.Arrow_RedSteel_Head
+item.Arrow_Steel_Head
+item.Bolt_BismuthBronze
+item.Bolt_BlackBronze
+item.Bolt_BlackSteel
+item.Bolt_BlueSteel
+item.Bolt_Bronze
+item.Bolt_Copper
+item.Bolt_WroughtIron
+item.Bolt_RedSteel
+item.Bolt_Steel
+item.Bolt_BismuthBronze_Head
+item.Bolt_BlackBronze_Head
+item.Bolt_BlackSteel_Head
+item.Bolt_BlueSteel_Head
+item.Bolt_Bronze_Head
+item.Bolt_Copper_Head
+item.Bolt_WroughtIron_Head
+item.Bolt_RedSteel_Head
+item.Bolt_Steel_Head
+item.itemHalberd_Mold
+item.itemWarHammer_Mold
+item.itemPoniard_Mold
+item.itemArrow_Mold
+item.itemBolt_Mold
+item.Coil_BismuthBronze
+item.Coil_BlackBronze
+item.Coil_BlackSteel
+item.Coil_BlueSteel
+item.Coil_Bronze
+item.Coil_Copper
+item.Coil_WroughtIron
+item.Coil_RedSteel
+item.Coil_Steel
+item.Link_BismuthBronze
+item.Link_BlackBronze
+item.Link_BlackSteel
+item.Link_BlueSteel
+item.Link_Bronze
+item.Link_Copper
+item.Link_WroughtIron
+item.Link_RedSteel
+item.Link_Steel
+item.Chain_Square_BismuthBronze
+item.Chain_Square_BlackBronze
+item.Chain_Square_BlackSteel
+item.Chain_Square_BlueSteel
+item.Chain_Square_Bronze
+item.Chain_Square_Copper
+item.Chain_Square_WroughtIron
+item.Chain_Square_RedSteel
+item.Chain_Square_Steel
+item.Chain_Sheet_BismuthBronze
+item.Chain_Sheet_BlackBronze
+item.Chain_Sheet_BlackSteel
+item.Chain_Sheet_BlueSteel
+item.Chain_Sheet_Bronze
+item.Chain_Sheet_Copper
+item.Chain_Sheet_WroughtIron
+item.Chain_Sheet_RedSteel
+item.Chain_Sheet_Steel
+item.BismuthBronze_Chain_Greaves
+item.BlackBronze_Chain_Greaves
+item.BlackSteel_Chain_Greaves
+item.BlueSteel_Chain_Greaves
+item.Bronze_Chain_Greaves
+item.Copper_Chain_Greaves
+item.WroughtIron_Chain_Greaves
+item.RedSteel_Chain_Greaves
+item.Steel_Chain_Greaves
+item.BismuthBronze_Chain_Chestplate
+item.BlackBronze_Chain_Chestplate
+item.BlackSteel_Chain_Chestplate
+item.BlueSteel_Chain_Chestplate
+item.Bronze_Chain_Chestplate
+item.Copper_Chain_Chestplate
+item.WroughtIron_Chain_Chestplate
+item.RedSteel_Chain_Chestplate
+item.Steel_Chain_Chestplate
+item.BismuthBronze_Chain_Helmet
+item.BlackBronze_Chain_Helmet
+item.BlackSteel_Chain_Helmet
+item.BlueSteel_Chain_Helmet
+item.Bronze_Chain_Helmet
+item.Copper_Chain_Helmet
+item.WroughtIron_Chain_Helmet
+item.RedSteel_Chain_Helmet
+item.Steel_Chain_Helmet
+item.BottleFruitJuice
+item.BottleFruitWine
+item.BottleSugar
+item.BottleJuiceApple
+item.BottleJuiceOrange
+item.BottleJuiceLemon
+item.BottleLemonade
+item.BottleSoyMilk
+item.BucketHotWater
+item.SoyPaste
+item.Quiver
+item.ScaleWeight
+item.empty
+item.Ceramic Battery
+item.Bottled Water
+item.Bottled Nitric Acid
+item.Blue Steel Bucket Nitric Acid
+item.Red Steel Bucket Nitric Acid
+item.Bottled Sulfuric Acid
+item.Blue Steel Bucket Sulfuric Acid
+item.Red Steel Bucket Sulfuric Acid
+item.Ceramic Bucket
+item.Ceramic Bucket Water
+item.Ceramic Bucket Salt Water
+item.Ceramic Bucket Hot Water
+item.Copper Wire
+item.Wrought Iron Buckle
+item.Silver Flake
+item.Cooked Limonite
+item.Nickel Flake
+item.Rod Mold
+item.Cooked Limonite Powder
+item.Carbon Rod
+item.Copper Rod
+item.Copper Rod Silver Coated
+item.Copper Rod Nickel Coated
+item.Tucker Bag
+item.Tucker Bag v2
+item.antiqueAtlas
+item.emptyAntiqueAtlas
+item.avaritia_resource
+item.avaritia_singularity
+item.infinity_pickaxe
+item.infinity_sword
+item.skullfire_sword
+item.avaritia_stew
+item.avaritia_meatballs
+item.avaritia_endest_pearl
+item.infinity_armor_0
+item.infinity_armor_1
+item.infinity_armor_2
+item.infinity_armor_3
+item.avaritia_mattercluster
+item.infinity_bow
+item.infinity_shovel
+item.infinity_axe
+item.betterstorage.key
+item.betterstorage.lock
+item.betterstorage.keyring
+item.betterstorage.cardboardSheet
+item.betterstorage.masterKey
+item.betterstorage.drinkingHelmet
+item.betterstorage.bucketSlime
+item.betterstorage.presentBook
+tile.betterstorage.backpack
+tile.betterstorage.enderBackpack
+item.betterstorage.cardboardHelmet
+item.betterstorage.cardboardChestplate
+item.betterstorage.cardboardLeggings
+item.betterstorage.cardboardBoots
+item.betterstorage.cardboardSword
+item.betterstorage.cardboardPickaxe
+item.betterstorage.cardboardShovel
+item.betterstorage.cardboardAxe
+item.betterstorage.cardboardHoe
+item.StockroomCatalog
+item.PlumbLine
+item.FramingSaw
+item.FramingBoard
+item.FramingSheet
+item.TesterItem
+item.AtlasBook
+item.AtlasPlate
+item.DeathCompass
+item.PaintingCanvas
+item.BigBook
+item.RecipeBook
+item.SlottedBook
+item.HandDrill
+item.tapeMeasure
+item.tape
+item.BiblioChase
+item.PrintPlate
+item.EnchantedPlate
+item.BiblioRedBook
+item.BiblioGlasses
+item.BiblioDrill
+item.BiblioCreativeLock
+item.BiblioClipboard
+item.seatBack
+item.seatBack
+item.seatBack
+item.seatBack
+item.seatBack
+item.BiblioMapTool
+item.BiblioWayPointCompass
+item.BiblioTFCItems
+item.seatBack
+item.seatBack
+item.seatBack
+item.seatBack
+item.seatBack
+item.thermalfoundation.tome
+item.thermalfoundation.bucket
+item.thermalfoundation.material
+item.thermalfoundation.tool.woodShears
+item.thermalfoundation.tool.woodSickle
+item.thermalfoundation.tool.stoneShears
+item.thermalfoundation.tool.stoneFishingRod
+item.thermalfoundation.tool.stoneSickle
+item.thermalfoundation.tool.stoneBow
+item.thermalfoundation.tool.ironFishingRod
+item.thermalfoundation.tool.ironSickle
+item.thermalfoundation.tool.ironBow
+item.thermalfoundation.tool.diamondShears
+item.thermalfoundation.tool.diamondFishingRod
+item.thermalfoundation.tool.diamondSickle
+item.thermalfoundation.tool.diamondBow
+item.thermalfoundation.tool.goldShears
+item.thermalfoundation.tool.goldFishingRod
+item.thermalfoundation.tool.goldSickle
+item.thermalfoundation.tool.goldBow
+item.thermalfoundation.armor.copperHelmet
+item.thermalfoundation.armor.copperPlate
+item.thermalfoundation.armor.copperLegs
+item.thermalfoundation.armor.copperBoots
+item.thermalfoundation.tool.copperSword
+item.thermalfoundation.tool.copperShovel
+item.thermalfoundation.tool.copperPickaxe
+item.thermalfoundation.tool.copperAxe
+item.thermalfoundation.tool.copperHoe
+item.thermalfoundation.tool.copperShears
+item.thermalfoundation.tool.copperFishingRod
+item.thermalfoundation.tool.copperSickle
+item.thermalfoundation.tool.copperBow
+item.thermalfoundation.armor.tinHelmet
+item.thermalfoundation.armor.tinPlate
+item.thermalfoundation.armor.tinLegs
+item.thermalfoundation.armor.tinBoots
+item.thermalfoundation.tool.tinSword
+item.thermalfoundation.tool.tinShovel
+item.thermalfoundation.tool.tinPickaxe
+item.thermalfoundation.tool.tinAxe
+item.thermalfoundation.tool.tinHoe
+item.thermalfoundation.tool.tinShears
+item.thermalfoundation.tool.tinFishingRod
+item.thermalfoundation.tool.tinSickle
+item.thermalfoundation.tool.tinBow
+item.thermalfoundation.armor.silverHelmet
+item.thermalfoundation.armor.silverPlate
+item.thermalfoundation.armor.silverLegs
+item.thermalfoundation.armor.silverBoots
+item.thermalfoundation.tool.silverSword
+item.thermalfoundation.tool.silverShovel
+item.thermalfoundation.tool.silverPickaxe
+item.thermalfoundation.tool.silverAxe
+item.thermalfoundation.tool.silverHoe
+item.thermalfoundation.tool.silverShears
+item.thermalfoundation.tool.silverFishingRod
+item.thermalfoundation.tool.silverSickle
+item.thermalfoundation.tool.silverBow
+item.thermalfoundation.armor.leadHelmet
+item.thermalfoundation.armor.leadPlate
+item.thermalfoundation.armor.leadLegs
+item.thermalfoundation.armor.leadBoots
+item.thermalfoundation.tool.leadSword
+item.thermalfoundation.tool.leadShovel
+item.thermalfoundation.tool.leadPickaxe
+item.thermalfoundation.tool.leadAxe
+item.thermalfoundation.tool.leadHoe
+item.thermalfoundation.tool.leadShears
+item.thermalfoundation.tool.leadFishingRod
+item.thermalfoundation.tool.leadSickle
+item.thermalfoundation.tool.leadBow
+item.thermalfoundation.armor.nickelHelmet
+item.thermalfoundation.armor.nickelPlate
+item.thermalfoundation.armor.nickelLegs
+item.thermalfoundation.armor.nickelBoots
+item.thermalfoundation.tool.nickelSword
+item.thermalfoundation.tool.nickelShovel
+item.thermalfoundation.tool.nickelPickaxe
+item.thermalfoundation.tool.nickelAxe
+item.thermalfoundation.tool.nickelHoe
+item.thermalfoundation.tool.nickelShears
+item.thermalfoundation.tool.nickelFishingRod
+item.thermalfoundation.tool.nickelSickle
+item.thermalfoundation.tool.nickelBow
+item.thermalfoundation.armor.electrumHelmet
+item.thermalfoundation.armor.electrumPlate
+item.thermalfoundation.armor.electrumLegs
+item.thermalfoundation.armor.electrumBoots
+item.thermalfoundation.tool.electrumSword
+item.thermalfoundation.tool.electrumShovel
+item.thermalfoundation.tool.electrumPickaxe
+item.thermalfoundation.tool.electrumAxe
+item.thermalfoundation.tool.electrumHoe
+item.thermalfoundation.tool.electrumShears
+item.thermalfoundation.tool.electrumFishingRod
+item.thermalfoundation.tool.electrumSickle
+item.thermalfoundation.tool.electrumBow
+item.thermalfoundation.armor.invarHelmet
+item.thermalfoundation.armor.invarPlate
+item.thermalfoundation.armor.invarLegs
+item.thermalfoundation.armor.invarBoots
+item.thermalfoundation.tool.invarSword
+item.thermalfoundation.tool.invarShovel
+item.thermalfoundation.tool.invarPickaxe
+item.thermalfoundation.tool.invarAxe
+item.thermalfoundation.tool.invarHoe
+item.thermalfoundation.tool.invarShears
+item.thermalfoundation.tool.invarFishingRod
+item.thermalfoundation.tool.invarSickle
+item.thermalfoundation.tool.invarBow
+item.thermalfoundation.armor.bronzeHelmet
+item.thermalfoundation.armor.bronzePlate
+item.thermalfoundation.armor.bronzeLegs
+item.thermalfoundation.armor.bronzeBoots
+item.thermalfoundation.tool.bronzeSword
+item.thermalfoundation.tool.bronzeShovel
+item.thermalfoundation.tool.bronzePickaxe
+item.thermalfoundation.tool.bronzeAxe
+item.thermalfoundation.tool.bronzeHoe
+item.thermalfoundation.tool.bronzeShears
+item.thermalfoundation.tool.bronzeFishingRod
+item.thermalfoundation.tool.bronzeSickle
+item.thermalfoundation.tool.bronzeBow
+item.thermalfoundation.armor.platinumHelmet
+item.thermalfoundation.armor.platinumPlate
+item.thermalfoundation.armor.platinumLegs
+item.thermalfoundation.armor.platinumBoots
+item.thermalfoundation.tool.platinumSword
+item.thermalfoundation.tool.platinumShovel
+item.thermalfoundation.tool.platinumPickaxe
+item.thermalfoundation.tool.platinumAxe
+item.thermalfoundation.tool.platinumHoe
+item.thermalfoundation.tool.platinumShears
+item.thermalfoundation.tool.platinumFishingRod
+item.thermalfoundation.tool.platinumSickle
+item.thermalfoundation.tool.platinumBow
+item.thermalexpansion.tool
+item.thermalexpansion.tool.battleWrench
+item.thermalexpansion.tool
+item.thermalexpansion.tool
+item.thermalexpansion.tool
+item.thermalexpansion.tool
+item.thermalexpansion.tool
+item.thermalexpansion.capacitor
+item.thermalexpansion.satchel
+item.thermalexpansion.diagram
+item.thermalexpansion.material
+item.thermalexpansion.augment
+item.thermalexpansion.florb
+item.ingot
+item.bucket.yellorium
+item.bucket.cyanite
+item.beefDebugTool
+item.itemCarpentersHammer
+item.itemCarpentersChisel
+item.itemCarpentersTile
+item.itemCarpentersDoor
+item.itemCarpentersBed
+item.customitems:fire_jumping_banana
+item.customitems:raw_mutton
+item.customitems:cooked_mutton
+item.customitems:coin
+item.customitems:jet_brick
+item.customitems:serpentine_brick
+item.customitems:prismarine_crystals
+item.customitems:prismarine_shard
+item.customitems:Greeni Bucket
+item.customitems:tower Bucket
+item.customitems:Nova_water Bucket
+item.customitems:Nova Lava Bucket
+item.customitems:god_sword
+item.endertech.exchanger
+item.extrautils:glove
+item.extrautils:heatingElement
+item.extrautils:mini-soul
+item.extrautils:angelRing
+item.extrautils:paintbrush
+item.extrautils:nodeUpgrade
+item.extrautils:lawSword
+item.extrautils:golden_lasso
+item.extrautils:divisionSigil
+item.extrautils:unstableingot
+item.extrautils:builderswand
+item.extrautils:shears
+item.extrautils:creativebuilderswand
+item.extrautils:ethericsword
+item.extrautils:erosionShovel
+item.extrautils:destructionpickaxe
+item.extrautils:defoliageAxe
+item.extrautils:temporalHoe
+item.extrautils:sonar_goggles
+item.extrautils:watering_can
+item.extrautils:scanner
+item.extrautils:golden_bag
+item.extrautils:bedrockiumIngot
+item.extrautils:microblocks
+item.railcraft.fluid.creosote.bucket
+item.railcraft.fluid.creosote.bottle
+item.railcraft.fluid.creosote.can
+item.railcraft.fluid.creosote.cell
+item.railcraft.fluid.creosote.wax
+item.railcraft.fluid.creosote.refactory
+item.railcraft.fluid.steam.bottle
+item.railcraft.tool.crowbar
+item.railcraft.tool.crowbar.reinforced
+item.railcraft.tool.magnifying.glass
+item.railcraft.armor.goggles
+item.railcraft.part.circuit
+item.railcraft.armor.overalls
+item.railcraft.nugget
+item.railcraft.ingot
+item.railcraft.part.railbed
+item.railcraft.part.tie
+item.railcraft.part.rebar
+item.railcraft.part.rail
+item.railcraft.fuel.coke
+item.railcraft.part.plate
+item.railcraft.dust
+item.railcraft.cart.work
+item.railcraft.tool.surveyor
+item.railcraft.tool.signal.tuner
+item.railcraft.tool.signal.label
+item.railcraft.part.signal.lamp
+item.railcraft.part.bleached.clay
+item.railcraft.cart.bore
+item.railcraft.borehead.diamond
+item.railcraft.borehead.steel
+item.railcraft.borehead.iron
+item.railcraft.cart.track.relayer
+item.railcraft.cart.undercutter
+item.railcraft.cart.track.layer
+item.railcraft.cart.track.remover
+item.railcraft.cart.tank
+item.railcraft.cart.cargo
+item.railcraft.part.gear
+item.railcraft.cart.pumpkin
+item.railcraft.cart.gift
+item.railcraft.tool.whistle.tuner
+item.railcraft.cart.loco.steam.solid
+item.railcraft.cart.loco.electric
+item.railcraft.cart.loco.creative
+item.railcraft.routing.table
+item.railcraft.routing.ticket.gold
+item.railcraft.routing.ticket
+item.railcraft.emblem
+item.railcraft.firestone.raw
+item.railcraft.firestone.cut
+item.railcraft.firestone.refined
+item.railcraft.firestone.cracked
+item.railcraft.tool.electric.meter
+item.railcraft.part.turbine.rotor
+item.railcraft.part.turbine.disk
+item.railcraft.part.turbine.blade
+item.railcraft.cart.redstone.flux
+item.ImmersiveEngineering.metal
+item.ImmersiveEngineering.material
+item.ImmersiveEngineering.seed
+item.ImmersiveEngineering.coil
+item.ImmersiveEngineering.tool
+item.ImmersiveEngineering.toolbox
+item.ImmersiveEngineering.revolver
+item.ImmersiveEngineering.bullet
+item.ImmersiveEngineering.fluidContainers
+item.ImmersiveEngineering.drill
+item.ImmersiveEngineering.drillhead
+item.ImmersiveEngineering.toolupgrade
+item.ImmersiveEngineering.skyhook
+item.ImmersiveEngineering.blueprint
+item.ImmersiveEngineering.graphiteElectrode
+item.ImmersiveEngineering.shader
+item.ImmersiveEngineering.shaderBag
+item.ImmersiveEngineering.fakeIcon
+item.ImmersiveEngineering.jerrycan
+item.ImmersiveEngineering.chemthrower
+item.ImmersiveEngineering.railgun
+item.ImmersiveEngineering.mold
+item.immersiveintegration:iiWireCoil
+item.immersiveintegration:capacitorBox
+item.item.upgrade.structural.generic
+item.upgrade.core.generic
+item.upgrade.side.generic
+item.dolly.normal.empty
+item.dolly.diamond.empty
+item.hammer
+item.fork
+item.MultipartTransmitter
+item.ElectricBow
+item.null
+item.null
+item.EnergyTablet
+item.SpeedUpgrade
+item.EnergyUpgrade
+item.FilterUpgrade
+item.MufflingUpgrade
+item.GasUpgrade
+item.Robit
+item.AtomicDisassembler
+item.EnrichedAlloy
+item.ReinforcedAlloy
+item.AtomicAlloy
+item.ItemProxy
+item.null
+item.EnrichedIron
+item.CompressedCarbon
+item.CompressedRedstone
+item.CompressedDiamond
+item.CompressedObsidian
+item.PortableTeleporter
+item.TeleportationCore
+item.null
+item.null
+item.Configurator
+item.NetworkReader
+item.WalkieTalkie
+item.Jetpack
+item.Dictionary
+item.GasMask
+item.ScubaTank
+item.Balloon
+item.null
+item.ElectrolyticCore
+item.Sawdust
+item.Salt
+item.BrineBucket
+item.LithiumBucket
+item.HeavyWaterBucket
+item.null
+item.FreeRunners
+item.ArmoredJetpack
+item.ConfigurationCard
+item.CraftingFormula
+item.SeismicReader
+item.Substrate
+item.HDPE
+item.BioFuel
+item.GlowPanel
+item.Flamethrower
+item.GaugeDropper
+item.FactoryInstaller
+item.null
+item.SolarPanel
+item.Hohlraum
+item.TurbineBlade
+item.WoodPaxel
+item.StonePaxel
+item.IronPaxel
+item.DiamondPaxel
+item.GoldPaxel
+item.ObsidianHelmet
+item.ObsidianChestplate
+item.ObsidianLeggings
+item.ObsidianBoots
+item.ObsidianPaxel
+item.ObsidianPickaxe
+item.ObsidianAxe
+item.ObsidianShovel
+item.ObsidianHoe
+item.ObsidianSword
+item.LazuliHelmet
+item.LazuliChestplate
+item.LazuliLeggings
+item.LazuliBoots
+item.LazuliPaxel
+item.LazuliPickaxe
+item.LazuliAxe
+item.LazuliShovel
+item.LazuliHoe
+item.LazuliSword
+item.OsmiumHelmet
+item.OsmiumChestplate
+item.OsmiumLeggings
+item.OsmiumBoots
+item.OsmiumPaxel
+item.OsmiumPickaxe
+item.OsmiumAxe
+item.OsmiumShovel
+item.OsmiumHoe
+item.OsmiumSword
+item.BronzeHelmet
+item.BronzeChestplate
+item.BronzeLeggings
+item.BronzeBoots
+item.BronzePaxel
+item.BronzePickaxe
+item.BronzeAxe
+item.BronzeShovel
+item.BronzeHoe
+item.BronzeSword
+item.GlowstonePaxel
+item.GlowstonePickaxe
+item.GlowstoneAxe
+item.GlowstoneShovel
+item.GlowstoneHoe
+item.GlowstoneSword
+item.GlowstoneHelmet
+item.GlowstoneChestplate
+item.GlowstoneLeggings
+item.GlowstoneBoots
+item.SteelPaxel
+item.SteelPickaxe
+item.SteelAxe
+item.SteelShovel
+item.SteelHoe
+item.SteelSword
+item.SteelHelmet
+item.SteelChestplate
+item.SteelLeggings
+item.SteelBoots
+item.openblocks.hangglider
+item.openblocks.generic
+item.openblocks.luggage
+item.openblocks.sonicglasses
+item.openblocks.glasses.pencil
+item.openblocks.glasses.crayon
+item.openblocks.glasses.technicolor
+item.openblocks.glasses.admin
+item.openblocks.crane_control
+item.openblocks.crane_backpack
+item.openblocks.slimalyzer
+item.openblocks.filledbucket
+item.openblocks.sleepingbag
+item.openblocks.paintbrush
+item.openblocks.stencil
+item.openblocks.squeegee
+item.openblocks.height_map
+item.openblocks.empty_map
+item.openblocks.cartographer
+item.openblocks.tasty_clay
+item.openblocks.golden_eye
+item.openblocks.genericUnstackable
+item.openblocks.cursor
+item.openblocks.info_book
+item.openblocks.devnull
+item.openblocks.spongeonastick
+item.openblocks.pedometer
+item.openblocks.epic_eraser
+item.openblocks.wrench
+item.oc.multi
+item.oc.eeprom
+item.oc.wrench
+item.oc.hoverBoots
+item.openperipheral.glasses
+item.openperipheral.keyboard
+item.openperipheral.generic
+item.seedBeet
+item.seedBellPepperOrange
+item.seedBellPepperRed
+item.seedBellPepperYellow
+item.seedBroccoli
+item.seedCassava
+item.seedCelery
+item.seedCorn
+item.seedCucumber
+item.seedEggplant
+item.seedGreenBean
+item.seedLeek
+item.seedLettuce
+item.seedOnion
+item.seedSorrel
+item.seedSpinach
+item.seedTomato
+item.berriesBeauty
+item.berriesBlack
+item.berriesBlue
+item.berriesElder
+item.berriesGoose
+item.berriesHarlequinMistletoe
+item.berriesHuckle
+item.berriesOrange
+item.berriesSnow
+item.berriesStraw
+item.foodBeet
+item.foodBellPepperOrange
+item.foodBellPepperRed
+item.foodBellPepperYellow
+item.foodBroccoli
+item.foodCassavaRoot
+item.foodCelery
+item.foodCentellaLeaves
+item.foodCorn
+item.foodCucumber
+item.foodEggplant
+item.foodGreenBeans
+item.foodLaksaLeaves
+item.foodLeek
+item.foodLettuce
+item.foodMozukuSeaweed
+item.foodOnion
+item.foodPeanuts
+item.foodPricklyPearFruit
+item.foodQuinoaSeeds
+item.foodRice
+item.foodSacredLotusRoot
+item.foodSorrel
+item.foodSpinach
+item.foodTomato
+item.foodTaroRoot
+item.foodWasabiStem
+item.foodWaterChestnut
+item.foodWatercress
+item.foodWildRice
+item.foodCookedRice
+item.foodCornFlour
+item.foodCornBread
+item.wrapCorn
+item.wrapSeaweed
+item.foodBeetSoup
+item.foodBerrybowl
+item.foodBroccoliSoup
+item.foodElderberrySorbet
+item.foodMozukuSoup
+item.foodSnowberryCustard
+item.foodQuinoaCereal
+item.foodTomatoSoup
+item.foodBeautyberryTurnover
+item.foodBlackberryDanish
+item.foodBlueberryMuffin
+item.foodGooseberryCobbler
+item.foodHuckleberryTart
+item.foodOrangeberrySquare
+item.foodCookiePeanutButter
+item.foodStrawberryDelight
+item.foodJelly
+item.foodPeanutButter
+item.foodStuffedPepperOrange
+item.foodStuffedPepperRed
+item.foodStuffedPepperYellow
+item.foodSandwichPBJ
+item.foodSandwichBeef
+item.foodSandwichChicken
+item.foodSandwichFish
+item.foodSandwichMutton
+item.foodSandwichPork
+item.foodBeautyberryBlazer
+item.foodBlackberryTumbler
+item.foodBlueberrySlushie
+item.foodElderberrySpritzer
+item.foodGooseberryShake
+item.foodHarlequinFizz
+item.foodHuckleberryBubbler
+item.foodOrangeberryWhip
+item.foodPricklyPearTwister
+item.foodSnowberryCooler
+item.foodStrawberrySmoothie
+item.foodWasabiQuencher
+item.wrapCornBeef
+item.wrapCornChicken
+item.wrapCornFish
+item.wrapCornPork
+item.wrapCornRice
+item.wrapBeef
+item.wrapChicken
+item.wrapFish
+item.wrapPork
+item.wrapRice
+item.foodStirFry
+item.coralFragmentBlueStaghorn
+item.coralFragmentElegance
+item.coralFragmentFeatheredHydroid
+item.coralFragmentPillar
+item.coralFragmentPulsingXenia
+item.coralFragmentPurpleSeaWhip
+item.coralFragmentRedSeaFan
+item.coralFragmentSunPolyps
+item.coralFragmentYellowBamboo
+item.powderAloe
+item.powderBerry
+item.powderCactus
+item.powderCoral
+item.powderFern
+item.powderLeaf
+item.powderMoss
+item.powderMushroom
+item.powderMushroomPoison
+item.powderConditioner
+item.powderDefoliant
+item.powderFertilizer
+item.salveFireResist
+item.salveHealth
+item.salveNightVision
+item.salveStrength
+item.salveSwiftness
+item.salveWaterBreathing
+item.flowerBlueStarItem
+item.flowerBroomSnakeweed
+item.flowerCattail
+item.flowerOcotillo
+item.flowerTorchGinger
+item.flowerYellowToadflaxItem
+item.leafAloe
+item.leafWildMint
+item.Lunchbox
+item.InsulationCloth
+item.thermaldynamics.servo
+item.thermaldynamics.filter
+item.thermaldynamics.cover
+item.thermaldynamics.retriever
+item.thermaldynamics.relay
+item.bannerSmall
+item.bannerLarge
+item.ygcEntityVita
+item.flagSmall
+item.flagLarge
+item.grindstoneStone
+item.mallet
+item.plank
+item.smoothPlank
+item.refinedPlank
+item.sandpaper
+item.ygcLinseedOil
+item.ygcSaw
+item.ygcFlaxSeeds
+item.ygcFlaxFiber
+item.ygcChiselIron_point
+item.ygcChiselIron
+item.ygcClubHammer
+item.ygcBlockFragment
+item.arrowrope
+item.handlebar
+item.microblock
+item.microblock:sawStone
+item.microblock:sawIron
+item.microblock:sawDiamond
+item.microblock:stoneRod
+item.Raw Pumpkin
+item.Melon
+item.Cooked Pumpkin
+item.Seeds Pumpkin
+item.Seeds Melon
+item.WroughtIronRoundShield
+item.CellarDoor
+item.BismuthBronzeIceSawBlade
+item.BlackBronzeIceSawBlade
+item.BlackSteelIceSawBlade
+item.BlueSteelIceSawBlade
+item.BronzeIceSawBlade
+item.CopperIceSawBlade
+item.WroughtIronIceSawBlade
+item.RedSteelIceSawBlade
+item.SteelIceSawBlade
+item.BismuthBronzeIceSaw
+item.BlackBronzeIceSaw
+item.BlackSteelIceSaw
+item.BlueSteelIceSaw
+item.BronzeIceSaw
+item.CopperIceSaw
+item.WroughtIronIceSaw
+item.RedSteelIceSaw
+item.SteelIceSaw
+item.enderpouch
+item.projectred.core.part
+item.projectred.core.drawplate
+item.projectred.core.screwdriver
+item.projectred.core.wiredebugger
+item.projectred.core.datacard
+item.projectred.transmission.wire
+item.projectred.transmission.framewire
+item.bulletThrowable
+item.grenadeThrowable
+item.upgAcc
+item.upgEff
+item.upgFire
+item.upgRan
+item.upgScatter
+item.addonReactor
+item.addonDam
+item.addonSolar
+item.addonRecycler
+item.addonConcealer
+item.addonSerialPort
+item.bulletCraftable
+item.blazingClayCraftable
+item.grenadeCraftable
+item.rocketCraftable
+item.ferroSlug
+item.sensorOne
+item.sensorTwo
+item.sensorThree
+item.sensorFour
+item.sensorFive
+item.barrelTierOne
+item.barrelTierTwo
+item.barrelTierThree
+item.barrelTierFour
+item.barrelTierFive
+item.chamberTierOne
+item.chamberTierTwo
+item.chamberTierThree
+item.chamberTierFour
+item.chamberTierFive
+item.ioBus
+item.PortalGunBlue
+item.PortalGunOrange
+item.PortalSpawner
+item.PortalDust
+item.PortalPotato
+item.PortalBlackHole
+item.PortalAPG
+item.PortalLFB
+item.PortalLFBs
+item.PortalMultiItem
+item.record
+item.record
+item.record
+item.PortalTurret
+item.PortalAFPItem
+item.projectred.transportation.pipe
+item.projectred.transportation.routingchip
+item.projectred.transportation.routerutil
+item.projectred.integration.gate
+item.projectred.fabrication.icblueprint
+item.projectred.fabrication.icchip
+item.projectred.illumination.lantern
+item.projectred.illumination.lantern.inv
+item.projectred.illumination.fixture
+item.projectred.illumination.fixture.inv
+item.projectred.illumination.cagelamp
+item.projectred.illumination.cagelamp.inv
+item.projectred.illumination.cagelamp2
+item.projectred.illumination.cagelamp2.inv
+item.projectred.illumination.lightbutton
+item.projectred.illumination.flightbutton
+item.projectred.expansion.solar_panel
+item.projectred.expansion.emptybattery
+item.projectred.expansion.battery
+item.projectred.expansion.jetpack
+item.projectred.expansion.electric_screwdriver
+item.projectred.expansion.infused_ender_pearl
+item.projectred.expansion.plan
+item.cuchaz.cuchazinteractive.token
+item.cuchaz.cuchazinteractive.listOfSupporters
+item.cuchaz.cuchazinteractive.supporterPlaque
+item.cuchaz.cuchazinteractive.shipPlaque
+item.cuchaz.ships.paddle
+item.cuchaz.ships.magicBucket
+item.cuchaz.ships.magicShipLevitator
+item.cuchaz.ships.shipClipboard
+item.cuchaz.ships.shipEraser
+item.cuchaz.ships.berth
+item.wrcbe_core:obsidianStick
+item.wrcbe_core:stoneBowl
+item.wrcbe_core:retherPearl
+item.wrcbe_core:wirelessTransceiver
+item.wrcbe_core:blazeTransceiver
+item.wrcbe_core:recieverDish
+item.wrcbe_core:blazeRecieverDish
+item.wrcbe_addons:triangulator
+item.wrcbe_addons:remote
+item.wrcbe_addons:sniffer
+item.wrcbe_addons:empty_map
+item.wrcbe_addons:map
+item.wrcbe_addons:tracker
+item.wrcbe_addons:rep
+item.wrcbe_addons:psniffer
+item.wrcbe_logic:wirelesspart
+tile.air
+tile.stone
+tile.grass
+tile.dirt
+tile.stonebrick
+tile.wood
+tile.sapling
+tile.bedrock
+tile.water
+tile.water
+tile.lava
+tile.lava
+tile.sand
+tile.gravel
+tile.oreGold
+tile.oreIron
+tile.oreCoal
+tile.log
+tile.leaves
+tile.sponge
+tile.glass
+tile.oreLapis
+tile.blockLapis
+tile.dispenser
+tile.sandStone
+tile.musicBlock
+tile.bed
+tile.goldenRail
+tile.detectorRail
+tile.pistonStickyBase
+tile.web
+tile.tallgrass
+tile.deadbush
+tile.pistonBase
+tile.null
+tile.cloth
+tile.null
+tile.flower1
+tile.flower2
+tile.mushroom
+tile.mushroom
+tile.blockGold
+tile.blockIron
+tile.stoneSlab
+tile.stoneSlab
+tile.brick
+tile.tnt
+tile.bookshelf
+tile.stoneMoss
+tile.obsidian
+tile.torch
+tile.fire
+tile.mobSpawner
+tile.stairsWood
+tile.chest
+tile.redstoneDust
+tile.oreDiamond
+tile.blockDiamond
+tile.workbench
+tile.crops
+tile.farmland
+tile.furnace
+tile.furnace
+tile.sign
+tile.doorWood
+tile.ladder
+tile.rail
+tile.stairsStone
+tile.sign
+tile.lever
+tile.pressurePlate
+tile.doorIron
+tile.pressurePlate
+tile.oreRedstone
+tile.oreRedstone
+tile.notGate
+tile.notGate
+tile.button
+tile.snow
+tile.ice
+tile.snow
+tile.cactus
+tile.clay
+tile.reeds
+tile.jukebox
+tile.fence
+tile.pumpkin
+tile.hellrock
+tile.hellsand
+tile.lightgem
+tile.portal
+tile.litpumpkin
+tile.cake
+tile.diode
+tile.diode
+tile.stainedGlass
+tile.trapdoor
+tile.monsterStoneEgg
+tile.stonebricksmooth
+tile.mushroom
+tile.mushroom
+tile.fenceIron
+tile.thinGlass
+tile.melon
+tile.pumpkinStem
+tile.pumpkinStem
+tile.vine
+tile.fenceGate
+tile.stairsBrick
+tile.stairsStoneBrickSmooth
+tile.mycel
+tile.waterlily
+tile.netherBrick
+tile.netherFence
+tile.stairsNetherBrick
+tile.netherStalk
+tile.enchantmentTable
+tile.brewingStand
+tile.cauldron
+tile.null
+tile.endPortalFrame
+tile.whiteStone
+tile.dragonEgg
+tile.redstoneLight
+tile.redstoneLight
+tile.woodSlab
+tile.woodSlab
+tile.cocoa
+tile.stairsSandStone
+tile.oreEmerald
+tile.enderChest
+tile.tripWireSource
+tile.tripWire
+tile.blockEmerald
+tile.stairsWoodSpruce
+tile.stairsWoodBirch
+tile.stairsWoodJungle
+tile.commandBlock
+tile.beacon
+tile.cobbleWall
+tile.flowerPot
+tile.carrots
+tile.potatoes
+tile.button
+tile.skull
+tile.anvil
+tile.chestTrap
+tile.weightedPlate_light
+tile.weightedPlate_heavy
+tile.comparator
+tile.comparator
+tile.daylightDetector
+tile.blockRedstone
+tile.netherquartz
+tile.hopper
+tile.quartzBlock
+tile.stairsQuartz
+tile.activatorRail
+tile.dropper
+tile.clayHardenedStained
+tile.thinStainedGlass
+tile.leaves
+tile.log
+tile.stairsWoodAcacia
+tile.stairsWoodDarkOak
+tile.Ore
+tile.Ore
+tile.Ore
+tile.IgInRock
+tile.IgExRock
+tile.hayBlock
+tile.woolCarpet
+tile.clayHardened
+tile.blockCoal
+tile.icePacked
+tile.doublePlant
+tile.SedRock
+tile.MMRock
+tile.IgInRockCobble
+tile.IgExRockCobble
+tile.SedRockCobble
+tile.MMRockCobble
+tile.IgInRockSmooth
+tile.IgExRockSmooth
+tile.SedRockSmooth
+tile.MMRockSmooth
+tile.IgInRockBrick
+tile.IgExRockBrick
+tile.SedRockBrick
+tile.MMRockBrick
+tile.dirt
+tile.dirt
+tile.sand
+tile.sand
+tile.clay
+tile.clay
+tile.Grass
+tile.Grass
+tile.ClayGrass
+tile.ClayGrass
+tile.PeatGrass
+tile.Peat
+tile.DryGrass
+tile.DryGrass
+tile.TallGrass
+tile.LooseRock
+tile.LogPile
+tile.Charcoal
+tile.StoneDetailed
+tile.tilledSoil
+tile.tilledSoil
+tile.WoodSupportV
+tile.WoodSupportH
+tile.WoodSupportV2
+tile.WoodSupportH2
+tile.Sulfur
+tile.log
+tile.log2
+tile.leaves
+tile.leaves2
+tile.sapling
+tile.sapling2
+tile.wood
+tile.wood2
+tile.Firepit
+tile.Bellows
+tile.Anvil
+tile.Anvil2
+tile.Forge
+tile.Molten
+tile.BlastFurnace
+tile.EarlyBloomery
+tile.Sluice
+tile.Bloom
+tile.fruitTreeWood
+tile.fruitTreeLeaves
+tile.fruitTreeLeaves2
+tile.stoneStairs
+tile.stoneSlabs
+tile.stoneStalac
+tile.WoodConstruct
+tile.WoodVert
+tile.WoodVert2
+tile.WoodHoriz
+tile.WoodHoriz2
+tile.WoodHoriz3
+tile.WoodHoriz4
+tile.Toolrack
+tile.SpawnMeter
+tile.FoodPrep
+tile.Quern
+tile.WallCobble
+tile.WallCobble
+tile.WallCobble
+tile.WallCobble
+tile.WallRaw
+tile.WallRaw
+tile.WallRaw
+tile.WallRaw
+tile.WallBrick
+tile.WallBrick
+tile.WallBrick
+tile.WallBrick
+tile.WallSmooth
+tile.WallSmooth
+tile.WallSmooth
+tile.WallSmooth
+tile.SaltWater
+tile.SaltWaterStationary
+tile.FreshWater
+tile.FreshWaterStationary
+tile.HotWater
+tile.HotWaterStationary
+tile.Lava
+tile.LavaStationary
+tile.Ice
+tile.SeaGrassStill
+tile.FireBrick
+tile.MetalSheet
+tile.Door Oak
+tile.Door Aspen
+tile.Door Birch
+tile.Door Chestnut
+tile.Door Douglas Fir
+tile.Door Hickory
+tile.Door Maple
+tile.Door Ash
+tile.Door Pine
+tile.Door Sequoia
+tile.Door Spruce
+tile.Door Sycamore
+tile.Door White Cedar
+tile.Door White Elm
+tile.Door Willow
+tile.Door Kapok
+tile.Door Acacia
+tile.ingotpile
+tile.Barrel
+tile.Loom
+tile.Moss
+tile.Flora
+tile.Pottery
+tile.Thatch
+tile.Crucible
+tile.NestBox
+tile.FenceTFC
+tile.FenceTFC
+tile.FenceGateTFC
+tile.FenceGateTFC
+tile.StrawHideBed
+tile.ArmourStand
+tile.ArmourStand
+tile.BerryBush
+tile.crops
+tile.LilyPad
+tile.Flowers
+tile.Flowers2
+tile.Fungi
+tile.Bookshelf
+tile.Torch
+tile.TorchOff
+tile.Chest
+tile.Workbench
+tile.Cactus
+tile.Reeds
+tile.Pumpkin
+tile.LitPumpkin
+tile.ButtonWood
+tile.Vine
+tile.LeatherRack
+tile.gravel
+tile.gravel
+tile.Grill
+tile.MetalTrapDoor
+tile.Vessel
+tile.Smoke
+tile.SmokeRack
+tile.snow
+tile.OilLamp
+tile.Hopper
+tile.FlowerPot
+tile.Lantern.Copper
+tile.Lantern.Bronze
+tile.Lantern.BismuthBronze
+tile.Lantern.BlackBronze
+tile.Lantern.Brass
+tile.Lantern.Lead
+tile.Lantern.Gold
+tile.Lantern.RoseGold
+tile.Lantern.Silver
+tile.Lantern.SterlingSilver
+tile.Lantern.Platinum
+tile.Lantern.WroughtIron
+tile.Gem.Chipped
+tile.Gem.Flawed
+tile.Gem.Normal
+tile.Gem.Flawless
+tile.Gem.Exquisite
+tile.Alabaster
+tile.MudBrickRaw.Granite
+tile.MudBrickRaw.Diorite
+tile.MudBrickRaw.Gabbro
+tile.MudBrickRaw.Shale
+tile.MudBrickRaw.Claystone
+tile.MudBrickRaw.RockSalt
+tile.MudBrickRaw.Limestone
+tile.MudBrickRaw.Conglomerate
+tile.MudBrickRaw.Dolomite
+tile.MudBrickRaw.Chert
+tile.MudBrickRaw.Chalk
+tile.MudBrickRaw.Rhyolite
+tile.MudBrickRaw.Basalt
+tile.MudBrickRaw.Andesite
+tile.MudBrickRaw.Dacite
+tile.MudBrickRaw.Quartzite
+tile.MudBrickRaw.Slate
+tile.MudBrickRaw.Phyllite
+tile.MudBrickRaw.Schist
+tile.MudBrickRaw.Gneiss
+tile.MudBrickRaw.Marble
+tile.MudBricks
+tile.MudBricks2
+tile.Stall
+tile.Stall.Aspen
+tile.Stall.Birch
+tile.Stall.Chestnut
+tile.Stall.Douglas Fir
+tile.Stall.Hickory
+tile.Stall.Maple
+tile.Stall.Ash
+tile.Stall.Pine
+tile.Stall.Sequoia
+tile.Stall.Spruce
+tile.Stall.Sycamore
+tile.Stall.White Cedar
+tile.Stall.White Elm
+tile.Stall.Willow
+tile.Stall.Kapok
+tile.Stall.Acacia
+tile.Warehouse
+tile.Warehouse2
+tile.StorageRack
+tile.StorageRack2
+tile.AnvilDie.Copper
+tile.AnvilDie.Copper2
+tile.AnvilDie.Bronze
+tile.AnvilDie.Bronze2
+tile.AnvilDie.BismuthBronze
+tile.AnvilDie.BismuthBronze2
+tile.AnvilDie.BlackBronze
+tile.AnvilDie.BlackBronze2
+tile.AnvilDie.Brass
+tile.AnvilDie.Brass2
+tile.AnvilDie.Lead
+tile.AnvilDie.Lead2
+tile.AnvilDie.Gold
+tile.AnvilDie.Gold2
+tile.AnvilDie.RoseGold
+tile.AnvilDie.RoseGold2
+tile.AnvilDie.Silver
+tile.AnvilDie.Silver2
+tile.AnvilDie.SterlingSilver
+tile.AnvilDie.SterlingSilver2
+tile.AnvilDie.Platinum
+tile.AnvilDie.Platinum2
+tile.AnvilDie.WroughtIron
+tile.AnvilDie.WroughtIron2
+tile.AnvilDie.Nickel
+tile.AnvilDie.Nickel2
+tile.AnvilDie.Steel
+tile.AnvilDie.Steel2
+tile.AnvilDie.BlackSteel
+tile.AnvilDie.BlackSteel2
+tile.AnvilDie.BlueSteel
+tile.AnvilDie.BlueSteel2
+tile.AnvilDie.RedSteel
+tile.AnvilDie.RedSteel2
+tile.RawClay
+tile.StainedClay
+tile.StainedClay2
+tile.StainedClayPaver
+tile.StainedClayPaver2
+tile.StainedClayTile
+tile.StainedClayTile2
+tile.StainedClayBrick
+tile.StainedClayBrick2
+tile.StainedClayCircle
+tile.StainedClayCircle2
+tile.StainedClayChiseled
+tile.StainedClayChiseled2
+tile.StainedClayChiseled3
+tile.StainedClayChiseled4
+tile.StainedClayChiseled5
+tile.StainedClayPillar
+tile.StainedClayPillar2
+tile.StainedClayPillar3
+tile.StainedClayPillar4
+tile.StainedClayPillar5
+tile.blockTallowCandle
+tile.blockTallowCandleOff
+tile.blockRoadIgEx
+tile.blockRoadIgIn
+tile.blockRoadMM
+tile.blockRoadSed
+tile.blockFruitPress
+tile.Scale
+tile.empty
+tile.Alloy Calculator
+tile.Anodising Vessel
+tile.Drying Mat
+tile.Evaporator Pan
+tile.Ore Cooker
+tile.compressed_workbench
+tile.very_compressed_workbench
+tile.dire_crafting
+tile.block_crystal_matrix
+tile.avaritia_resource
+tile.neutron_collector
+tile.neutronium_compressor
+tile.CompressedChest
+tile.InfinityChest
+tile.ExtremeAutoCrafter
+tile.betterstorage.crate
+tile.betterstorage.reinforcedChest
+tile.betterstorage.locker
+tile.betterstorage.armorStand
+tile.betterstorage.backpack
+tile.betterstorage.enderBackpack
+tile.betterstorage.cardboardBox
+tile.betterstorage.reinforcedLocker
+tile.betterstorage.craftingStation
+tile.betterstorage.flintBlock
+tile.betterstorage.lockableDoor
+tile.betterstorage.present
+tile.BiblioFramedChest
+tile.BiblioPaneler
+tile.BiblioClipboard
+tile.BiblioTypewriter
+tile.BiblioClock
+tile.BiblioFlatPainting
+tile.BiblioSimplePainting
+tile.BiblioMiddlePainting
+tile.BiblioFancyPainting
+tile.BiblioBorderlessPainting
+tile.BiblioPaintPress
+tile.BiblioSwordPedestal
+tile.BiblioFancySign
+tile.BiblioWorkbench
+tile.BiblioBell
+tile.BiblioBookcase
+tile.BookcaseFilled
+tile.BiblioPotionShelf
+tile.BiblioShelf
+tile.BiblioRack
+tile.BiblioCase
+tile.BiblioLabel
+tile.BiblioDesk
+tile.BiblioTable
+tile.BiblioArmorStand
+tile.BiblioType
+tile.BiblioPress
+tile.BiblioLantern
+tile.BiblioIronLantern
+tile.BiblioLamp
+tile.BiblioIronLamp
+tile.BiblioStuffs
+tile.BiblioMapFrames
+tile.BiblioSeats
+tile.BiblioBrassLantern
+tile.BiblioBronzeLantern
+tile.BiblioBlackBronzeLantern
+tile.BiblioBismuthBronzeLantern
+tile.BiblioBlackSteelLantern
+tile.BiblioBlueSteelLantern
+tile.BiblioRedSteelLantern
+tile.BiblioBrassLamp
+tile.BiblioBronzeLamp
+tile.BiblioBlackBronzeLamp
+tile.BiblioBismuthBronzeLamp
+tile.BiblioBlackSteelLamp
+tile.BiblioBlueSteelLamp
+tile.BiblioRedSteelLamp
+tile.BiblioWoodBookcase
+tile.BiblioWoodpotshelf
+tile.BiblioWoodshelf
+tile.BiblioWoodrack
+tile.BiblioWoodcase
+tile.BiblioWoodlabel
+tile.BiblioWooddesk
+tile.BiblioWoodtable
+tile.BiblioWoodSeat
+tile.BiblioWoodMapFrame
+tile.BiblioWoodFancySign
+tile.BiblioWoodFancyWorkbench
+tile.BiblioWoodFurniturePaneler
+tile.BiblioWoodClock
+tile.BiblioWoodPaintingT0
+tile.BiblioWoodPaintingT1
+tile.BiblioWoodPaintingT2
+tile.BiblioWoodPaintingT3
+tile.BiblioWoodPaintingT4
+tile.thermalfoundation.ore
+tile.thermalfoundation.storage
+tile.thermalfoundation.fluid.redstone
+tile.thermalfoundation.fluid.glowstone
+tile.thermalfoundation.fluid.ender
+tile.thermalfoundation.fluid.pyrotheum
+tile.thermalfoundation.fluid.cryotheum
+tile.thermalfoundation.fluid.aerotheum
+tile.thermalfoundation.fluid.petrotheum
+tile.thermalfoundation.fluid.mana
+tile.thermalfoundation.fluid.steam
+tile.thermalfoundation.fluid.coal
+tile.brOre
+tile.brMetal
+tile.yelloriumFuelRod
+tile.blockReactorPart
+tile.brMultiblockGlass
+tile.blockReactorRedstonePort
+tile.blockTurbinePart
+tile.blockTurbineRotorPart
+tile.blockBRDevice
+tile.fluid.yellorium.still
+tile.fluid.cyanite.still
+tile.blockMBCreativePart
+tile.blockCarpentersBlock
+tile.blockCarpentersBarrier
+tile.blockCarpentersBed
+tile.blockCarpentersButton
+tile.blockCarpentersCollapsibleBlock
+tile.blockCarpentersDaylightSensor
+tile.blockCarpentersDoor
+tile.blockCarpentersFlowerPot
+tile.blockCarpentersGarageDoor
+tile.blockCarpentersGate
+tile.blockCarpentersHatch
+tile.blockCarpentersLadder
+tile.blockCarpentersLever
+tile.blockCarpentersPressurePlate
+tile.blockCarpentersSafe
+tile.blockCarpentersSlope
+tile.blockCarpentersStairs
+tile.blockCarpentersTorch
+tile.customitems:circle_andesite
+tile.customitems:circle_basalt
+tile.customitems:circle_chalk
+tile.customitems:circle_chert
+tile.customitems:circle_claystone
+tile.customitems:circle_conglomerate
+tile.customitems:circle_dacite
+tile.customitems:circle_diorite
+tile.customitems:circle_dolomite
+tile.customitems:circle_gabbro
+tile.customitems:circle_gneiss
+tile.customitems:circle_granite
+tile.customitems:circle_limestone
+tile.customitems:circle_marble
+tile.customitems:circle_phyllite
+tile.customitems:circle_quartzite
+tile.customitems:circle_rhyolite
+tile.customitems:circle_rock_salt
+tile.customitems:circle_schist
+tile.customitems:circle_shale
+tile.customitems:circle_slate
+tile.customitems:circle_jet
+tile.customitems:circle_serpentine
+tile.customitems:andesite_tile
+tile.customitems:basalt_tile
+tile.customitems:chalk_tile
+tile.customitems:chert_tile
+tile.customitems:claystone_tile
+tile.customitems:conglomerate_tile
+tile.customitems:dacite_tile
+tile.customitems:diorite_tile
+tile.customitems:dolomite_tile
+tile.customitems:gabbro_tile
+tile.customitems:gneiss_tile
+tile.customitems:granite_tile
+tile.customitems:limestone_tile
+tile.customitems:marble_tile
+tile.customitems:phyllite_tile
+tile.customitems:quartzite_tile
+tile.customitems:rhyolite_tile
+tile.customitems:rock_salt_tile
+tile.customitems:schist_tile
+tile.customitems:shale_tile
+tile.customitems:slate_tile
+tile.customitems:jet_tile
+tile.customitems:serpentine_tile
+tile.customitems:andesite_pillar
+tile.customitems:basalt_pillar
+tile.customitems:chalk_pillar
+tile.customitems:chert_pillar
+tile.customitems:claystone_pillar
+tile.customitems:conglomerate_pillar
+tile.customitems:dacite_pillar
+tile.customitems:diorite_pillar
+tile.customitems:dolomite_pillar
+tile.customitems:gabbro_pillar
+tile.customitems:gneiss_pillar
+tile.customitems:granite_pillar
+tile.customitems:limestone_pillar
+tile.customitems:marble_pillar
+tile.customitems:phyllite_pillar
+tile.customitems:rhyolite_pillar
+tile.customitems:quartzite_pillar
+tile.customitems:rock_salt_pillar
+tile.customitems:shale_pillar
+tile.customitems:schist_pillar
+tile.customitems:slate_pillar
+tile.customitems:serpentine_pillar
+tile.customitems:jet_pillar
+tile.customitems:diorite
+tile.customitems:polished_diorite
+tile.customitems:andesite
+tile.customitems:polished_andesite
+tile.customitems:granite
+tile.customitems:polished_granite
+tile.customitems:coarse_dirt
+tile.customitems:red_sandstone
+tile.customitems:chiseled_red_sandstone
+tile.customitems:smooth_red_sandstone
+tile.customitems:red_sandstone_slab
+tile.customitems:double_red_sandstone_slab
+tile.customitems:red_sandstone_stairs
+tile.customitems:prismarine
+tile.customitems:prismarine_bricks
+tile.customitems:dark_prismarine
+tile.customitems:sea_lantern
+tile.customitems:spruce_fence
+tile.customitems:birch_fence
+tile.customitems:jungle_fence
+tile.customitems:dark_oak_fence
+tile.customitems:acacia_fence
+tile.customitems:acacia_plank_fence
+tile.customitems:ash_plank_fence
+tile.customitems:aspen_plank_fence
+tile.customitems:birch_plank_fence
+tile.customitems:chestnut_plank_fence
+tile.customitems:douglas_fir_plank_fence
+tile.customitems:hickory_plank_fence
+tile.customitems:kapok_plank_fence
+tile.customitems:maple_plank_fence
+tile.customitems:oak_plank_fence
+tile.customitems:pine_plank_fence
+tile.customitems:sequoia_plank_fence
+tile.customitems:spruce_plank_fence
+tile.customitems:sycamore_plank_fence
+tile.customitems:white_cedar_plank_fence
+tile.customitems:white_elm_plank_fence
+tile.customitems:willow_plank_fence
+tile.customitems:red_sand
+tile.customitems:pink_sand
+tile.customitems:green_sand
+tile.customitems:blue_sand
+tile.customitems:dark_quartz_pillar
+tile.customitems:dark_quartz
+tile.customitems:chiseled_dark_quartz
+tile.customitems:serpentine_cobblestone
+tile.customitems:smooth_serpentine
+tile.customitems:serpentine_bricks
+tile.customitems:jet_cobblestone
+tile.customitems:smooth_jet
+tile.customitems:jet_bricks
+tile.customitems:andesite_fancy_tile
+tile.customitems:basalt_fancy_tile
+tile.customitems:chalk_fancy_tile
+tile.customitems:chert_fancy_tile
+tile.customitems:claystone_fancy_tile
+tile.customitems:conglomerate_fancy_tile
+tile.customitems:dacite_fancy_tile
+tile.customitems:diorite_fancy_tile
+tile.customitems:dolomite_fancy_tile
+tile.customitems:gabbro_fancy_tile
+tile.customitems:gneiss_fancy_tile
+tile.customitems:granite_fancy_tile
+tile.customitems:limestone_fancy_tile
+tile.customitems:marble_fancy_tile
+tile.customitems:phyllite_fancy_tile
+tile.customitems:quartzite_fancy_tile
+tile.customitems:rhyolite_fancy_tile
+tile.customitems:rock_salt_fancy_tile
+tile.customitems:schist_fancy_tile
+tile.customitems:shale_fancy_tile
+tile.customitems:slate_fancy_tile
+tile.customitems:jet_fancy_tile
+tile.customitems:serpentine_fancy_tile
+tile.customitems:single_item_chest
+tile.customitems:Greeni
+tile.customitems:tower
+tile.customitems:Nova_water
+tile.customitems:Nova Lava
+tile.customitems:custom_glass
+tile.customitems:custom_glass_pane
+tile.customitems:custom_glass_stairs
+tile.customitems:custom_glass_slab
+tile.customitems:double_custom_glass_slab
+tile.customitems:custom_glass_fence
+tile.customitems:custom_glass_wall
+tile.enderTankPart
+tile.enderTankMultiblockGlass
+tile.enderTankController
+tile.chargePad
+tile.healthPad
+tile.multipart
+tile.extrautils:chestMini
+tile.extrautils:chestFull
+tile.extrautils:enderCollector
+tile.extrautils:endConstructor
+tile.extrautils:endMarker
+tile.extrautils:curtains
+tile.extrautils:angelBlock
+tile.extrautils:budoff
+tile.extrautils:chandelier
+tile.extrautils:decorativeBlock1
+tile.extrautils:decorativeBlock2
+tile.extrautils:pureLove
+tile.extrautils:block_bedrockium
+tile.extrautils:datablock
+tile.extrautils:colorStoneBrick
+tile.extrautils:colorWoodPlanks
+tile.extrautils:color_lightgem
+tile.extrautils:color_stone
+tile.extrautils:color_quartzBlock
+tile.extrautils:color_hellsand
+tile.extrautils:color_redstoneLight
+tile.extrautils:color_brick
+tile.extrautils:color_stonebrick
+tile.extrautils:color_blockLapis
+tile.extrautils:color_obsidian
+tile.extrautils:color_blockRedstone
+tile.extrautils:color_blockCoal
+tile.extrautils:cobblestone_compressed
+tile.extrautils:conveyor
+tile.extrautils:filing
+tile.extrautils:greenscreen
+tile.extrautils:peaceful_table_top
+tile.extrautils:trading_post
+tile.extrautils:sound_muffler
+tile.extrautils:extractor_base
+tile.extrautils:extractor_base_remote
+tile.extrautils:pipes
+tile.extrautils:pipes.1
+tile.extrautils:cursedearthside
+tile.extrautils:trashcan
+tile.extrautils:spike_base
+tile.extrautils:spike_base_diamond
+tile.extrautils:spike_base_gold
+tile.extrautils:spike_base_wood
+tile.extrautils:enderThermicPump
+tile.extrautils:enderQuarry
+tile.extrautils:enderQuarryUpgrade
+tile.extrautils:plant/ender_lilly
+tile.extrautils:timer
+tile.extrautils:magnumTorch
+tile.extrautils:drum
+tile.extrautils:generator
+tile.extrautils:generator.8
+tile.extrautils:generator.64
+tile.extrautils:dark_portal
+tile.extrautils:etherealglass
+tile.railcraft.fluid.creosote
+tile.railcraft.fluid.steam
+tile.railcraft.cube
+tile.railcraft.machine.alpha
+tile.railcraft.track
+tile.railcraft.track.elevator
+tile.railcraft.signal
+tile.railcraft.stair
+tile.railcraft.slab
+tile.railcraft.lantern.stone
+tile.railcraft.lantern.metal
+tile.railcraft.brick.abyssal
+tile.railcraft.brick.bleachedbone
+tile.railcraft.brick.bloodstained
+tile.railcraft.brick.frostbound
+tile.railcraft.brick.infernal
+tile.railcraft.brick.quarried
+tile.railcraft.brick.sandy
+tile.railcraft.brick.nether
+tile.railcraft.post
+tile.railcraft.post.metal
+tile.railcraft.post.metal.platform
+tile.railcraft.wall.alpha
+tile.railcraft.wall.beta
+tile.railcraft.glass
+tile.railcraft.detector
+tile.railcraft.machine.gamma
+tile.railcraft.machine.beta
+tile.railcraft.machine.epsilon
+tile.railcraft.ore
+tile.railcraft.worldlogic
+tile.railcraft.firestone.recharge
+tile.railcraft.frame
+tile.railcraft.machine.delta
+tile.ImmersiveEngineering.ore
+tile.ImmersiveEngineering.storage
+tile.ImmersiveEngineering.storageSlab
+tile.ImmersiveEngineering.stoneSlab
+tile.ImmersiveEngineering.metalDevice
+tile.ImmersiveEngineering.metalDevice2
+tile.ImmersiveEngineering.metalDecoration
+tile.ImmersiveEngineering.metalDecoration2
+tile.ImmersiveEngineering.metalMultiblock
+tile.ImmersiveEngineering.woodenDevice
+tile.ImmersiveEngineering.woodenDecoration
+tile.ImmersiveEngineering.treatedWood
+tile.ImmersiveEngineering.woodenStairs
+tile.ImmersiveEngineering.woodenStairs1
+tile.ImmersiveEngineering.woodenStairs2
+tile.ImmersiveEngineering.stoneDevice
+tile.ImmersiveEngineering.stoneDecoration
+tile.ImmersiveEngineering.concreteStairs
+tile.ImmersiveEngineering.concreteTileStairs
+tile.ImmersiveEngineering.hemp
+tile.ImmersiveEngineering.fakeLight
+tile.ImmersiveEngineering.clothDevice
+tile.immersiveintegration:extendablePost
+tile.immersiveintegration:steelTrapdoor
+tile.immersiveintegration:steelDecoration
+tile.immersiveintegration:extendedPost
+tile.immersiveintegration:industrialCokeOven
+tile.immersiveintegration:itemRobin
+tile.immersiveintegration:inductionCharger
+tile.immersiveintegration:redstoneWireConnector
+tile.blockbarrel
+tile.BasicBlock
+tile.BasicBlock2
+tile.MachineBlock
+tile.MachineBlock2
+tile.MachineBlock3
+tile.OreBlock
+tile.EnergyCube
+tile.ObsidianTNT
+tile.BoundingBlock
+tile.GasTank
+tile.CardboardBox
+tile.PlasticBlock
+tile.SlickPlasticBlock
+tile.GlowPlasticBlock
+tile.ReinforcedPlasticBlock
+tile.RoadPlasticBlock
+tile.PlasticFence
+tile.SaltBlock
+tile.Generator
+tile.Reactor
+tile.ReactorGlass
+tile.openblocks.ladder
+tile.openblocks.guide
+tile.openblocks.builder_guide
+tile.openblocks.elevator
+tile.openblocks.elevator_rotating
+tile.openblocks.heal
+tile.openblocks.target
+tile.openblocks.grave
+tile.openblocks.flag
+tile.openblocks.tank
+tile.openblocks.trophy
+tile.openblocks.beartrap
+tile.openblocks.sprinkler
+tile.openblocks.cannon
+tile.openblocks.vacuumhopper
+tile.openblocks.sponge
+tile.openblocks.bigbutton
+tile.openblocks.imaginary
+tile.openblocks.fan
+tile.openblocks.xpbottler
+tile.openblocks.village_highlighter
+tile.openblocks.path
+tile.openblocks.autoanvil
+tile.openblocks.autoenchantmenttable
+tile.openblocks.xpdrain
+tile.openblocks.blockbreaker
+tile.openblocks.blockPlacer
+tile.openblocks.itemDropper
+tile.openblocks.ropeladder
+tile.openblocks.donationStation
+tile.openblocks.paintmixer
+tile.openblocks.canvas
+tile.openblocks.paintcan
+tile.openblocks.canvasglass
+tile.openblocks.projector
+tile.openblocks.drawingtable
+tile.openblocks.sky.normal
+tile.openblocks.xpshower
+tile.openblocks.goldenegg
+tile.openblocks.scaffolding
+tile.oc.accessPoint
+tile.oc.adapter
+tile.oc.assembler
+tile.oc.cable
+tile.oc.capacitor
+tile.oc.case1
+tile.oc.case3
+tile.oc.case2
+tile.oc.charger
+tile.oc.disassembler
+tile.oc.diskDrive
+tile.oc.geolyzer
+tile.oc.hologram1
+tile.oc.hologram2
+tile.oc.keyboard
+tile.oc.motionSensor
+tile.oc.powerConverter
+tile.oc.powerDistributor
+tile.oc.raid
+tile.oc.redstone
+tile.oc.relay
+tile.oc.screen1
+tile.oc.screen3
+tile.oc.screen2
+tile.oc.rack
+tile.oc.switch
+tile.oc.caseCreative
+tile.oc.microcontroller
+tile.oc.robotAfterimage
+Robot
+tile.oc.print
+tile.oc.printer
+tile.oc.chameliumBlock
+tile.oc.waypoint
+tile.oc.endstone
+tile.oc.netSplitter
+tile.oc.transposer
+tile.openperipheral.ticketmachine
+tile.openperipheral.glassesbridge
+tile.openperipheral.playerinventory
+tile.openperipheral.sensor
+tile.openperipheral.selector
+tile.hangingFlowersMIX
+tile.hangingFlowersRED
+tile.hangingFlowersCOR
+tile.hangingFlowersORA
+tile.hangingFlowersYEL
+tile.hangingFlowersGRN
+tile.hangingFlowersCYA
+tile.hangingFlowersBLU
+tile.hangingFlowersROY
+tile.hangingFlowersPUR
+tile.hangingFlowersMAG
+tile.hangingFlowersPNK
+tile.hangingFlowersWHT
+tile.hangingBlueWheatgrass
+tile.hangingBrittlebush
+tile.hangingKrisPlant
+tile.hangingLavender
+tile.hangingPricklyPear
+tile.hangingScalyTree
+tile.hangingPhilodendron
+tile.hangingWildfire
+tile.hangingWolfWillow
+tile.hangingFoliageSMGRN
+tile.hangingFoliageMDGRN
+tile.hangingFoliageLGGRN
+tile.hangingFoliageLGYEL
+tile.hangingFoliageLGRED
+tile.hangingBambooAsper
+tile.hangingBambooFargesiaRobusta
+tile.hangingBambooGiantTimber
+tile.hangingBambooGolden
+tile.hangingBambooMoso
+tile.hangingBambooShortTassled
+tile.hangingBambooTimorBlack
+tile.hangingBambooTropicalBlue
+tile.hangingBambooWetForest
+tile.bambooAsper
+tile.bambooFargesiaRobusta
+tile.bambooGiantTimber
+tile.bambooGolden
+tile.bambooMoso
+tile.bambooShortTassled
+tile.bambooTimorBlack
+tile.bambooTropicalBlue
+tile.bambooWetForest
+tile.beachButtonSage
+tile.leafyDustyMiller
+tile.beachHighTideBush
+tile.beachPrideOfMadeira
+tile.beachSeaLavender
+tile.beachSeaLymeGrass
+tile.beachSeaSandwort
+tile.beachShowyAster
+tile.berrybushBeauty
+tile.berrybushBlack
+tile.berrybushBlue
+tile.berrybushElder
+tile.berrybushGoose
+tile.berrybushHuckle
+tile.berrybushOrange
+tile.berrybushSnow
+tile.berrybushStraw
+tile.cactusArmatocereusMatucanensis
+tile.cactusBaseballBat
+tile.cactusEchinocereusMetornii
+tile.cactusGoldenCereus
+tile.cactusGoldenSaguaro
+tile.cactusMatucanaAureiflora
+tile.cactusPricklyPear
+tile.cactusSnowPole
+tile.cactusToothpick
+tile.coralBlueStaghorn
+tile.coralElegance
+tile.coralFeatheredHydroid
+tile.coralPillar
+tile.waterPulsingXenia
+tile.waterPurpleSeaWhip
+tile.waterRedSeaFan
+tile.coralSunPolyps
+tile.waterBambooCoralYEL
+tile.cropCentella
+tile.cropLaksaLeaf
+tile.cropRice
+tile.cropSacredLotus
+tile.cropTaro
+tile.cropWasabi
+tile.cropWatercress
+tile.cropWaterSpinach
+tile.cropWildRice
+tile.cropBeet
+tile.cropBellPepperOrange
+tile.cropBellPepperRed
+tile.cropBellPepperYellow
+tile.cropBroccoli
+tile.cropCassava
+tile.cropCelery
+tile.cropCorn
+tile.cropCucumber
+tile.cropEggplant
+tile.cropGreenBeans
+tile.cropLeek
+tile.cropLettuce
+tile.cropOnion
+tile.cropPeanut
+tile.cropSorrel
+tile.cropSpinach
+tile.cropTomato
+tile.desertApachePlume
+tile.desertBrittlebush
+tile.desertBroadLeafGilia
+tile.desertBroomSnakeweed
+tile.desertKangarooPaw
+tile.desertOcotillo
+tile.desertPeninsulaOnion
+tile.desertSeepwood
+tile.desertWhiteSage
+tile.epiphyteApacheDwarf
+tile.epiphyteArtistsConk
+tile.epiphyteClimbingCactus
+tile.epiphyteCreepingMistletoe
+tile.epiphyteCrimsonCattleya
+tile.epiphyteCuthbertsDendrobium
+tile.epiphyteFishBoneCactus
+tile.epiphyteFragrantFern
+tile.epiphyteHarlequinMistletoe
+tile.epiphyteKingOrchid
+tile.epiphyteLargeFootDendrobium
+tile.epiphyteLanternForest
+tile.epiphyteMistletoe
+tile.epiphyteSulphurShelf
+tile.epiphyteTampaOrchid
+tile.epiphyteTillandsiaIonantha
+tile.epiphyteTurkeyTail
+tile.epiphyteWildfire
+tile.fernCretanBrake
+tile.fernDwarfPalmetto
+tile.fernHayScented
+tile.fernKangaroo
+tile.fernMaidenhairSpleenwort
+tile.fernOstrich
+tile.fernScalyTree
+tile.fernSword
+tile.fernWoodsia
+tile.floatingDuckweed
+tile.floatingRedRootFloater
+tile.floatingWaterChestnut
+tile.floatingWaterHyacinth
+tile.floatingWaterLettuce
+tile.floatingWaterLily
+tile.flowerAchillea
+tile.flowerAzalea
+tile.flowerBegonia
+tile.flowerBell
+tile.flowerCarnation
+tile.flowerCelosia
+tile.flowerColumbine
+tile.flowerDahlia
+tile.flowerDaisy
+tile.flowerDelphinium
+tile.flowerGeranium
+tile.flowerGladiolus
+tile.flowerHawkweed
+tile.flowerHydrangea
+tile.flowerLily
+tile.flowerLupine
+tile.flowerMarigold
+tile.flowerNemesia
+tile.flowerRose
+tile.flowerTulip
+tile.flowerAlpineThistle
+tile.flowerBirdofParadise
+tile.flowerBlueStar
+tile.flowerBurningLove
+tile.flowerCandelabraAloe
+tile.flowerDandelion
+tile.flowerDottedBlazingstar
+tile.flowerElephantEars
+tile.flowerFoamFlower
+tile.flowerFuchsia
+tile.flowerJacobsLadder
+tile.flowerLionsTail
+tile.flowerMediterraneanSeaHolly
+tile.flowerMezereon
+tile.flowerNewGuineaImpatiens
+tile.flowerParrotsBeak
+tile.flowerPurpleConeflower
+tile.flowerPeruvianLily
+tile.flowerQuinoa
+tile.flowerRoseCampion
+tile.flowerStreamsideBluebells
+tile.flowerTorchLily
+tile.flowerViolet
+tile.flowerWildCarrot
+tile.flowerWildDaffodil
+tile.flowerWoodlandPinkroot
+tile.flowerYellowToadflax
+tile.forestArcticGentian
+tile.forestAustralianBugle
+tile.forestBloodroot
+tile.forestBroadleafMeadowsweet
+tile.leafyColeus
+tile.forestDeadnettle
+tile.forestDeceivingTrillium
+tile.forestFairySlipper
+tile.forestGiantAngelica
+tile.forestHorseweed
+tile.forestKneelingAngelica
+tile.forestLilyoftheValley
+tile.forestLongBractedOrchid
+tile.forestNorthernPitcherPlant
+tile.forestMerrybells
+tile.forestPinesap
+tile.forestRedHelleborine
+tile.forestSalal
+tile.forestSpringVetchling
+tile.leafyStonecrop
+tile.forestVanillaLeaf
+tile.forestWesternWallflower
+tile.forestWildColumbine
+tile.forestWildMint
+tile.forestWolfsFootClubmoss
+tile.forestWoodlandKnotweed
+tile.forestYellowLadySlipper
+tile.riverAmazonSword
+tile.riverCanadianWaterweed
+tile.riverCoonsTail
+tile.waterCryptWendtii
+tile.waterDwarfHairGrass
+tile.riverEelgrass
+tile.waterMondoGrass
+tile.riverWaterWisteria
+tile.riverWrightsWaternymph
+tile.fungusBlackPowderpuff
+tile.fungusChanterelle
+tile.fungusDeathCap
+tile.fungusGiantClub
+tile.fungusParasol
+tile.fungusStinkhorn
+tile.fungusWeepingMilkCap
+tile.fungusWoodBlewit
+tile.fungusWoollyGomphus
+tile.grassBlueWheatgrass
+tile.grassCord
+tile.grassFountain
+tile.grassMaiden
+tile.grassMeadow
+tile.grassMeadowFoxtail
+tile.grassPrairie
+tile.grassSeaOats
+tile.grassSilverMoor
+tile.grassSwitch
+tile.groundcoverClover
+tile.groundcoverGrassGRNLT
+tile.groundcoverGrassGRNDK
+tile.groundcoverFlowers
+tile.groundcoverIvy
+tile.groundcoverLeavesBRN
+tile.groundcoverLeavesGRN
+tile.groundcoverMoss
+tile.groundcoverTwig
+tile.immersedArrowArum
+tile.immersedCommonReed
+tile.immersedDuckPotato
+tile.immersedEuropeanBurReed
+tile.immersedGreySedge
+tile.immersedSimplestemBurReed
+tile.immersedSoftstemBulrush
+tile.immersedWaterMannagrass
+tile.immersedYellowFlag
+tile.jungleConeHeadedGuzmania
+tile.jungleDevilsTongue
+tile.leafyEmeraldPhilodendron
+tile.jungleHoneySpurge
+tile.jungleJungleLantern
+tile.jungleLazarusBell
+tile.jungleLobsterClaws
+tile.jungleLollipopPlant
+tile.jungleMadagascarPalm
+tile.junglePalmLily
+tile.junglePanamaQueen
+tile.junglePorteaAlatisepala
+tile.jungleRacinaeaFraseri
+tile.jungleRicheaDracophylla
+tile.jungleShellflower
+tile.jungleSilverVase
+tile.jungleStaghornClubmoss
+tile.jungleTorchGinger
+tile.jungleVoodooLily
+tile.mountainAlpineArmeria
+tile.mountainAlpineBellflower
+tile.mountainBistort
+tile.mountainEdelweiss
+tile.mountainHouseleek
+tile.mountainIris
+tile.leafyKrisPlant
+tile.mountainNorthernWillowherb
+tile.mountainScarletTrumpet
+tile.mountainYellowBellflower
+tile.plainsPrairieBrome
+tile.plainsPrairieSage
+tile.leafyPricklyLettuce
+tile.plainsReedCanaryGrass
+tile.plainsShortrayFleabane
+tile.plainsSmallPasqueFlower
+tile.plainsSmoothAster
+tile.leafyStingingNettle
+tile.plainsThreeFloweredAvens
+tile.oceanCommonEelgrass
+tile.oceanCoralWeed
+tile.waterKelpGiantGRN
+tile.waterKelpGiantYEL
+tile.oceanMozuku
+tile.oceanRockweed
+tile.oceanSeaGrapes
+tile.oceanSeaLettuce
+tile.oceanTangle
+tile.savannaButterflyWeed
+tile.leafyDevilsShoestring
+tile.savannaHoaryVervain
+tile.savannaLeadplant
+tile.savannaMarcela
+tile.savannaNorthernBedstraw
+tile.leafyPaleYucca
+tile.savannaPiersonsMilkVetch
+tile.savannaPropellerPlant
+tile.savannaShonaCabbage
+tile.savannaTexasTickseed
+tile.shrubAlpineCurrant
+tile.shrubBarberry
+tile.shrubBoxwood
+tile.shrubButterfly
+tile.shrubCanyonCreekAbelia
+tile.shrubCapeJasmine
+tile.shrubCedarCylinder
+tile.shrubCedarGlobe
+tile.shrubCedarPyramid
+tile.shrubCypressGreen
+tile.shrubCypressYellow
+tile.shrubDaphne
+tile.shrubDwarfElder
+tile.shrubHolly
+tile.shrubHummingbirdBush
+tile.shrubJuniperSavin
+tile.shrubKerria
+tile.shrubLavender
+tile.shrubLindera
+tile.shrubMeadowsweet
+tile.shrubMottlecah
+tile.shrubNinebark
+tile.shrubSargentViburnum
+tile.shrubSpicebush
+tile.shrubWeepingForsythia
+tile.shrubWinterberry
+tile.shrubWolfWillow
+tile.vineFlowersBurgundy
+tile.vineFlowersRed
+tile.vineFlowersCoral
+tile.vineFlowersOrange
+tile.vineFlowersYellow
+tile.vineFlowersCyan
+tile.vineFlowersGreen
+tile.vineFlowersBlue
+tile.vineFlowersRoyal
+tile.vineFlowersPurple
+tile.vineFlowersMagenta
+tile.vineFlowersPink
+tile.vineFlowersWhite
+tile.vineJapaneseIvy
+tile.vineSilverveinCreeper
+tile.vineSpanishMoss
+tile.vineSwedishIvy
+tile.vineVariegatedPersianIvy
+tile.wetlandsCattails
+tile.wetlandsClubrush
+tile.wetlandsCommonRush
+tile.wetlandsFloweringRush
+tile.wetlandsPickerelweed
+tile.wetlandsReedMannagrass
+tile.wetlandsSwampMilkweed
+tile.wetlandsWaterHorsetail
+tile.wetlandsWhiteTurtlehead
+tile.bambooAsperPole
+tile.bambooFargesiaRobustaPole
+tile.bambooGiantTimberPole
+tile.bambooGoldenPole
+tile.bambooMosoPole
+tile.bambooShortTassledPole
+tile.bambooTimorBlackPole
+tile.bambooTropicalBluePole
+tile.bambooWetForestPole
+tile.bambooAsperBlock
+tile.bambooFargesiaRobustaBlock
+tile.bambooGiantTimberBlock
+tile.bambooGoldenBlock
+tile.bambooMosoBlock
+tile.bambooShortTassledBlock
+tile.bambooTimorBlackBlock
+tile.bambooTropicalBlueBlock
+tile.bambooWetForestBlock
+tile.bambooAsperStairs
+tile.bambooFargesiaRobustaStairs
+tile.bambooGiantTimberStairs
+tile.bambooGoldenStairs
+tile.bambooMosoStairs
+tile.bambooShortTassledStairs
+tile.bambooTimorBlackStairs
+tile.bambooTropicalBlueStairs
+tile.bambooWetForestStairs
+tile.bambooAsperSlab
+tile.bambooAsperSlabDouble
+tile.bambooFargesiaRobustaSlab
+tile.bambooFargesiaRobustaSlabDouble
+tile.bambooGiantTimberSlab
+tile.bambooGiantTimberSlabDouble
+tile.bambooGoldenSlab
+tile.bambooGoldenSlabDouble
+tile.bambooMosoSlab
+tile.bambooMosoSlabDouble
+tile.bambooShortTassledSlab
+tile.bambooShortTassledSlabDouble
+tile.bambooTimorBlackSlab
+tile.bambooTimorBlackSlabDouble
+tile.bambooTropicalBlueSlab
+tile.bambooTropicalBlueSlabDouble
+tile.bambooWetForestSlab
+tile.bambooWetForestSlabDouble
+tile.bambooAsperDoor
+tile.bambooFargesiaRobustaDoor
+tile.bambooGiantTimberDoor
+tile.bambooGoldenDoor
+tile.bambooMosoDoor
+tile.bambooShortTassledDoor
+tile.bambooTimorBlackDoor
+tile.bambooTropicalBlueDoor
+tile.bambooWetForestDoor
+tile.bambooAsperFence
+tile.bambooFargesiaRobustaFence
+tile.bambooGiantTimberFence
+tile.bambooGoldenFence
+tile.bambooMosoFence
+tile.bambooShortTassledFence
+tile.bambooTimorBlackFence
+tile.bambooTropicalBlueFence
+tile.bambooWetForestFence
+tile.bambooAsperGate
+tile.bambooFargesiaRobustaGate
+tile.bambooGiantTimberGate
+tile.bambooGoldenGate
+tile.bambooMosoGate
+tile.bambooShortTassledGate
+tile.bambooTimorBlackGate
+tile.bambooTropicalBlueGate
+tile.bambooWetForestGate
+tile.bambooAsperLadder
+tile.bambooFargesiaRobustaLadder
+tile.bambooGiantTimberLadder
+tile.bambooGoldenLadder
+tile.bambooMosoLadder
+tile.bambooShortTassledLadder
+tile.bambooTimorBlackLadder
+tile.bambooTropicalBlueLadder
+tile.bambooWetForestLadder
+tile.wallBracketBambooAsper
+tile.wallBracketBambooFargesiaRobusta
+tile.wallBracketBambooGiantTimber
+tile.wallBracketBambooGolden
+tile.wallBracketBambooMoso
+tile.wallBracketBambooShortTassled
+tile.wallBracketBambooTimorBlack
+tile.wallBracketBambooTropicalBlue
+tile.wallBracketBambooWetForest
+tile.wallBracketStone
+tile.wallBracketWoodAcacia
+tile.wallBracketWoodBirch
+tile.wallBracketWoodDarkOak
+tile.wallBracketWoodJungle
+tile.wallBracketWoodOak
+tile.wallBracketWoodSpruce
+tile.wallBracketIronCurl
+tile.wallBracketGoldCurl
+tile.sfm.BlockMachineManager
+tile.sfm.BlockCable
+tile.null
+tile.sfm.BlockCableOutput
+tile.sfm.BlockCableInput
+tile.sfm.BlockCableCreative
+tile.null
+tile.sfm.BlockCableBUD
+tile.sfm.BlockCableBreaker
+tile.null
+tile.null
+tile.sfm.BlockCableSign
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.FreshWaterStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.LavaStationary
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ice
+tile.ElectricForge
+tile.InductionForge
+tile.Fridge
+tile.DeepFreezer
+tile.thermaldynamics.duct
+tile.thermaldynamics.duct
+tile.thermaldynamics.duct
+tile.thermaldynamics.duct
+tile.thermaldynamics.duct
+tile.tikiTorch
+tile.ygcStatue
+tile.treasurePile
+tile.grandfatherClock
+tile.weaponRack
+tile.grindstone
+tile.gong
+tile.pedestal
+tile.ygcItemShelf
+tile.ygcSnowGlobe
+tile.ygcSawBench
+tile.tablePress
+tile.ygcFlaxPlant
+tile.ygcMicroBlock
+tile.ygcLootChest
+tile.rope
+tile.ropebridge
+tile.clothsheet
+tile.leather
+tile.relocation.blockmovingrow
+tile.mcframes.motor
+tile.mcframes.frame
+tile.Melon
+tile.BellowsDriver
+tile.SteamBoiler
+tile.PotteryKiln
+tile.PotteryKilnChamber
+tile.WaterFilter
+tile.CellarWall
+tile.IceBunker
+tile.CellarShelf
+tile.CellarDoor
+tile.Ice
+tile.animalcrate:blockcrate
+tile.thermalexpansion.machine
+tile.thermalexpansion.device
+tile.thermalexpansion.dynamo
+tile.thermalexpansion.cell
+tile.thermalexpansion.tank
+tile.thermalexpansion.strongbox
+tile.thermalexpansion.cache
+tile.thermalexpansion.workbench
+tile.thermalexpansion.ender
+tile.thermalexpansion.plate
+tile.thermalexpansion.light
+tile.thermalexpansion.frame
+tile.thermalexpansion.glass
+tile.thermalexpansion.rockwool
+tile.thermalexpansion.sponge
+tile.null
+tile.null
+tile.null
+tile.null
+tile.enderchest
+tile.baseTierWood
+tile.baseTierOneBlock
+tile.baseTierTwoBlock
+tile.baseTierThreeBlock
+tile.baseTierFourBlock
+tile.expanderPowerTierOne
+tile.expanderPowerTierTwo
+tile.expanderPowerTierThree
+tile.expanderPowerTierFour
+tile.expanderPowerTierFive
+tile.expanderInvTierOne
+tile.expanderInvTierTwo
+tile.expanderInvTierThree
+tile.expanderInvTierFour
+tile.expanderInvTierFive
+tile.hardWallTierOne
+tile.hardWallTierTwo
+tile.hardWallTierThree
+tile.hardWallTierFour
+tile.hardWallTierFive
+tile.fenceTierOne
+tile.fenceTierTwo
+tile.fenceTierThree
+tile.fenceTierFour
+tile.fenceTierFive
+tile.disposeItemTurret
+tile.potatoCannonTurret
+tile.machineGunTurret
+tile.incendiaryTurret
+tile.grenadeTurret
+tile.relativisticTurret
+tile.rocketTurret
+tile.teleporterTurret
+tile.laserTurret
+tile.railGunTurret
+tile.leverBlock
+tile.PortalMod
+tile.PortalMultiBlock
+tile.projectred.integration.icblock
+tile.projectred.illumination.lamp
+tile.projectred.illumination.airousLight
+tile.projectred.expansion.machine1
+tile.projectred.expansion.machine2
+tile.cuchaz.ships.blockShip
+tile.cuchaz.ships.airWall
+tile.cuchaz.ships.helm
+tile.cuchaz.ships.berth
+tile.cuchaz.ships.airRoof
+tile.cuchaz.ships.shipProjector

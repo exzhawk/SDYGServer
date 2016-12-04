@@ -1,0 +1,113 @@
+# Script arguments
+
+## @dim
+Player dimension
+
+## @exp
+Returns the expLevel of the command sender
+
+## @gm
+Player gamemode
+
+## @group
+Get name of the zone the player is in
+
+## @health
+Player health
+
+## @healthcolor
+Insert color code based on player health
+
+## @hunger
+Player hunger level
+
+## @hungercolor
+Insert color code based on player hunger level
+
+## @lastlogin
+Get the time a player logged in last time
+
+## @lastlogout
+Get the time a player logged out last time
+
+## @onlineplayers
+Number of players that are online right now
+
+## @p
+Player name
+
+## @player
+Player name
+
+## @random
+Returns a random integer between -16777216 and 16777215 inclusive. (Deprecated, may be removed in a later update.  Use expression functions instead.) 
+
+## @realdate
+Current real date
+
+## @realtime
+Current real time
+
+## @saturation
+Player (food) saturation level
+
+## @saturationcolor
+Insert color code based on player saturation level
+
+## @sender
+Command sender name
+
+## @serveruptime
+Time since server start
+
+## @sincelastlogin
+Get the time since a player logged in last time
+
+## @sincelastlogout
+Get the time since a player logged out last time
+
+## @timeplayed
+Get total time a player played on the server
+
+## @totalworldtime
+MC time passed since map creation
+
+## @tps
+Ticks per second
+
+## @uniqueplayers
+Number of unique players on the server at all time
+
+## @uuid
+Player UUID
+
+## @worldtime
+Current MC world time
+
+## @worldtimeclock
+Current MC world time formatted as H:MM
+
+## @x
+Player X position (as integer)
+
+## @xd
+Player X position (as floating point number)
+
+## @y
+Player Y position (as integer)
+
+## @yd
+Player Y position (as floating point number)
+
+## @z
+Player Z position (as integer)
+
+## @zd
+Player Z position (as floating point number)
+
+## @zone
+Get name of the zone the player is in
+
+## @zoneid
+Get ID of the zone the player is in
+

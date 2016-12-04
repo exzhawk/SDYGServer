@@ -1,0 +1,808 @@
+#// ------------ PERMISSIONS LIST ---------- \\#
+#// --------------- 27.11 03:10 ------------ \\#
+#// ----------- Total amount: 15079 --------- \\#
+#// ---------------------------------------- \\#
+command./calc                                                                            # (default: true) 
+command./searchitem                                                                      # (default: true) 
+command./sel                                                                             # (default: true) 
+command./toggleplace                                                                     # (default: true) 
+command.achievement                                                                      # (OP only: true) 
+command.aroma1997                                                                        # (OP only: true) 
+command.backup                                                                           # (OP only: true) 
+command.ban                                                                              # (OP only: true) 
+command.ban-ip                                                                           # (OP only: true) 
+command.banlist                                                                          # (OP only: true) 
+command.bodytemp                                                                         # (default: true) 
+command.brush                                                                            # (default: true) 
+command.bs                                                                               # (OP only: true) 
+command.clear                                                                            # (OP only: true) 
+command.clearchunk                                                                       # (OP only: true) 
+command.cofh                                                                             # (default: false) 
+command.debug                                                                            # (OP only: true) 
+command.debugmode                                                                        # (OP only: true) 
+command.defaultgamemode                                                                  # (OP only: true) 
+command.deop                                                                             # (OP only: true) 
+command.difficulty                                                                       # (OP only: true) 
+command.dmap                                                                             # (OP only: true) 
+command.dmarker                                                                          # (OP only: true) 
+command.dumphandlers                                                                     # (OP only: true) 
+command.dynmap                                                                           # (OP only: true) 
+command.dynmapexp                                                                        # (OP only: true) 
+command.effect                                                                           # (OP only: true) 
+command.enderstorage                                                                     # (OP only: true) 
+command.feclass                                                                          # (OP only: true) 
+command.flimflam                                                                         # (OP only: true) 
+command.forge                                                                            # (OP only: true) 
+command.freq                                                                             # (OP only: true) 
+command.gamerule                                                                         # (OP only: true) 
+command.gbt                                                                              # (OP only: true) 
+command.gen                                                                              # (OP only: true) 
+command.give                                                                             # (OP only: true) 
+command.giveskill                                                                        # (OP only: true) 
+command.god                                                                              # (default: true) 
+command.gr                                                                               # (OP only: true) 
+command.gsp                                                                              # (OP only: true) 
+command.gt                                                                               # (OP only: true) 
+command.ie                                                                               # (OP only: true) 
+command.iis                                                                              # (OP only: true) 
+command.kick                                                                             # (OP only: true) 
+command.kill                                                                             # (default: true) 
+command.list                                                                             # (default: true) 
+command.luck                                                                             # (OP only: true) 
+command.me                                                                               # (default: true) 
+command.minetweaker                                                                      # (OP only: true) 
+command.mk                                                                               # (OP only: true) 
+command.morpheus                                                                         # (OP only: true) 
+command.netstat                                                                          # (default: true) 
+command.nmsot                                                                            # (OP only: true) 
+command.none                                                                             # (default: true) 
+command.ob_inventory                                                                     # (OP only: true) 
+command.oc_debugNanomachines                                                             # (OP only: true) 
+command.oc_nanomachines                                                                  # (OP only: true) 
+command.oc_preventDisassembling                                                          # (OP only: true) 
+command.oc_profileNetwork                                                                # (OP only: true) 
+command.oc_renderWirelessNetwork                                                         # (OP only: true) 
+command.oc_spawnComputer                                                                 # (OP only: true) 
+command.om_config_s                                                                      # (OP only: true) 
+command.om_source_s                                                                      # (OP only: true) 
+command.omtchangeowner                                                                   # (OP only: true) 
+command.op                                                                               # (OP only: true) 
+command.op_dump                                                                          # (OP only: true) 
+command.pardon                                                                           # (OP only: true) 
+command.pardon-ip                                                                        # (OP only: true) 
+command.pg                                                                               # (OP only: true) 
+command.playsound                                                                        # (OP only: true) 
+command.printimage                                                                       # (OP only: true) 
+command.railcraft                                                                        # (default: true) 
+command.reloadServerConfigs                                                              # (OP only: true) 
+command.removearea                                                                       # (OP only: true) 
+command.removechunk                                                                      # (OP only: true) 
+command.save-all                                                                         # (OP only: true) 
+command.save-off                                                                         # (OP only: true) 
+command.save-on                                                                          # (OP only: true) 
+command.say                                                                              # (OP only: true) 
+command.schematic                                                                        # (default: true) 
+command.scoreboard                                                                       # (OP only: true) 
+command.scoreboardinfo                                                                   # (default: true) 
+command.seed                                                                             # (OP only: true) 
+command.setblock                                                                         # (OP only: true) 
+command.setidletimeout                                                                   # (OP only: true) 
+command.setworldspawn                                                                    # (OP only: true) 
+command.ships                                                                            # (OP only: true) 
+command.sleep                                                                            # (OP only: true) 
+command.snapshot                                                                         # (default: true) 
+command.spawninfernal                                                                    # (OP only: true) 
+command.spawnpoint                                                                       # (OP only: true) 
+command.spreadplayers                                                                    # (OP only: true) 
+command.sps                                                                              # (OP only: true) 
+command.stop                                                                             # (OP only: true) 
+command.stripchunk                                                                       # (OP only: true) 
+command.summon                                                                           # (OP only: true) 
+command.superpickaxe                                                                     # (default: true) 
+command.tell                                                                             # (default: true) 
+command.tellraw                                                                          # (OP only: true) 
+command.testfor                                                                          # (OP only: true) 
+command.testforblock                                                                     # (OP only: true) 
+command.toggledownfall                                                                   # (OP only: true) 
+command.tool                                                                             # (default: true) 
+command.transferTamed                                                                    # (default: true) 
+command.vgsp                                                                             # (OP only: true) 
+command.whitelist                                                                        # (OP only: true) 
+command.worldedit                                                                        # (default: true) 
+command.xp                                                                               # (OP only: true) 
+command.xu_killitems                                                                     # (OP only: true) 
+command.xu_killliving                                                                    # (OP only: true) 
+command.xu_killmobs                                                                      # (OP only: true) 
+command.xu_killxp                                                                        # (OP only: true) 
+commandblock                                                                             # (OP only: true) 
+fe.afterlife                                                                             # Permissions for afterlife configuration
+fe.afterlife.deathchest                                                                  # (default: false) Allow creation of deathchests
+fe.afterlife.deathchest.block                                                            # (default: ) If set, use this block ID for graves
+fe.afterlife.deathchest.bypass                                                           # (OP only: true) Bypass grave protection
+fe.afterlife.deathchest.fence                                                            # (default: false) Put the skull on a spike
+fe.afterlife.deathchest.safetime                                                         # (default: 300) Time in seconds a grave is protected. After this time anyone can take all stuff
+fe.afterlife.deathchest.xp                                                               # (default: 0.25) Ratio of XP that you want to allow someone to keep in a grave. 1 keeps all XP, 0 disables XP recovery.
+fe.afterlife.debuffs                                                                     # Potion effects to apply on respawn (comma separated list of id:duration:amplifier)
+fe.afterlife.food                                                                        # Respawn food
+fe.afterlife.hp                                                                          # Respawn HP
+fe.backup.command                                                                        # (OP only: true) 
+fe.backup.notify                                                                         # (OP only: true) Backup notification permission
+fe.chat                                                                                  # Chat permissions
+fe.chat.chat                                                                             # (default: true) Allow players to use the public chat
+fe.chat.groupmessage                                                                     # (default: true) 
+fe.chat.irc                                                                              # (default: true) 
+fe.chat.ircbot                                                                           # (OP only: true) 
+fe.chat.ircpm                                                                            # (default: true) 
+fe.chat.mail                                                                             # (default: true) 
+fe.chat.mute                                                                             # (OP only: true) 
+fe.chat.nickname                                                                         # (default: true) 
+fe.chat.nickname.others                                                                  # (OP only: true) 
+fe.chat.playerformat                                                                     # (default: ) Text to show in front of the player name in chat messages
+fe.chat.pm                                                                               # (default: true) 
+fe.chat.range                                                                            # (default: ) Send chat messages only to players in this range of the sender
+fe.chat.reply                                                                            # (default: true) 
+fe.chat.textformat                                                                       # (default: ) Textformat colors. USE ONLY THE COLOR CHARACTERS AND NO &
+fe.chat.timedmessage                                                                     # (OP only: true) 
+fe.chat.urls                                                                             # (default: true) Allow players to post clickable links in public chat.
+fe.chat.usecolor                                                                         # (default: true) Allow players to use colors in the public chat
+fe.commands                                                                              # Permission nodes for FE commands module
+fe.commands.admin                                                                        # (OP only: true) 
+fe.commands.afk                                                                          # (default: true) 
+fe.commands.afk.announce                                                                 # (default: true) 
+fe.commands.afk.autokick                                                                 # (default: false) Automatically kick a player, when he is AFK
+fe.commands.afk.autotime                                                                 # (default: 120) Auto afk time in seconds. Set to 0 to disable.
+fe.commands.afk.warmup                                                                   # (default: 10) Time a player needs to wait before he can go afk with /afk
+fe.commands.bind                                                                         # (OP only: true) 
+fe.commands.biome                                                                        # (OP only: true) 
+fe.commands.bubble                                                                       # (OP only: true) 
+fe.commands.burn                                                                         # (OP only: true) 
+fe.commands.burn.others                                                                  # (OP only: true) 
+fe.commands.capabilities                                                                 # (OP only: true) 
+fe.commands.capabilities.others                                                          # (OP only: true) 
+fe.commands.craft                                                                        # (OP only: true) 
+fe.commands.dechant                                                                      # (OP only: true) 
+fe.commands.doas                                                                         # (OP only: true) 
+fe.commands.doas.console                                                                 # (OP only: true) 
+fe.commands.drop                                                                         # (OP only: true) 
+fe.commands.duplicate                                                                    # (OP only: true) 
+fe.commands.enchant                                                                      # (OP only: true) 
+fe.commands.enderchest                                                                   # (OP only: true) 
+fe.commands.febutcher                                                                    # (OP only: true) 
+fe.commands.fekill                                                                       # (OP only: true) 
+fe.commands.fekill.others                                                                # (OP only: true) 
+fe.commands.feworldinfo                                                                  # (OP only: true) 
+fe.commands.findblock                                                                    # (OP only: true) 
+fe.commands.fly                                                                          # (OP only: true) 
+fe.commands.gamemode                                                                     # (OP only: true) 
+fe.commands.gamemode.others                                                              # (OP only: true) 
+fe.commands.getcommandbook                                                               # (default: true) 
+fe.commands.god                                                                          # (OP only: true) Permission for Pattern command /god
+fe.commands.heal                                                                         # (OP only: true) 
+fe.commands.heal.others                                                                  # (OP only: true) 
+fe.commands.help                                                                         # (default: true) 
+fe.commands.invsee                                                                       # (OP only: true) 
+fe.commands.kit                                                                          # (default: true) 
+fe.commands.kit.bypasscooldown                                                           # (OP only: true) 
+fe.commands.locate                                                                       # (OP only: true) 
+fe.commands.modlist                                                                      # (default: true) 
+fe.commands.noclip                                                                       # (OP only: true) 
+fe.commands.ping                                                                         # (default: true) 
+fe.commands.potion                                                                       # (OP only: true) 
+fe.commands.potion.others                                                                # (OP only: true) 
+fe.commands.pregen                                                                       # (OP only: true) 
+fe.commands.push                                                                         # (default: true) 
+fe.commands.reach                                                                        # (OP only: true) 
+fe.commands.rename                                                                       # (OP only: true) 
+fe.commands.repair                                                                       # (OP only: true) 
+fe.commands.repair.others                                                                # (OP only: true) 
+fe.commands.rules                                                                        # (default: true) 
+fe.commands.rules.edit                                                                   # (OP only: true) 
+fe.commands.seen                                                                         # (default: true) 
+fe.commands.serversettings                                                               # (OP only: true) 
+fe.commands.smite                                                                        # (OP only: true) 
+fe.commands.speed                                                                        # (OP only: true) 
+fe.commands.tempban                                                                      # (OP only: true) 
+fe.commands.time                                                                         # (OP only: true) 
+fe.commands.uuid                                                                         # (OP only: true) 
+fe.commands.vanish                                                                       # (OP only: true) 
+fe.commands.vanish.others                                                                # (OP only: true) Allow to vanish other players
+fe.commands.virtualchest                                                                 # (OP only: true) 
+fe.commands.weather                                                                      # (OP only: true) 
+fe.core.info                                                                             # (OP only: true) 
+fe.core.pos.wand                                                                         # (default: true) 
+fe.core.reload                                                                           # (OP only: true) 
+fe.core.versioninfo                                                                      # (OP only: true) Shows notification to the player if FE version is outdated
+fe.economy.bounty                                                                        # Bounty for killing entities (ex.: fe.economy.bounty.Skeleton = 5)
+fe.economy.bounty.Basalz                                                                 # (default: 0) 
+fe.economy.bounty.Bat                                                                    # (default: 0) 
+fe.economy.bounty.Blaze                                                                  # (default: 0) 
+fe.economy.bounty.Blitz                                                                  # (default: 0) 
+fe.economy.bounty.Blizz                                                                  # (default: 0) 
+fe.economy.bounty.CaveSpider                                                             # (default: 0) 
+fe.economy.bounty.Chicken                                                                # (default: 0) 
+fe.economy.bounty.Cow                                                                    # (default: 0) 
+fe.economy.bounty.Creeper                                                                # (default: 0) 
+fe.economy.bounty.EnderDragon                                                            # (default: 0) 
+fe.economy.bounty.Enderman                                                               # (default: 0) 
+fe.economy.bounty.EntityHorse                                                            # (default: 0) 
+fe.economy.bounty.Ghast                                                                  # (default: 0) 
+fe.economy.bounty.Giant                                                                  # (default: 0) 
+fe.economy.bounty.LavaSlime                                                              # (default: 0) 
+fe.economy.bounty.Mekanism.BabySkeleton                                                  # (default: 0) 
+fe.economy.bounty.Mekanism.Robit                                                         # (default: 0) 
+fe.economy.bounty.Mob                                                                    # (default: 0) 
+fe.economy.bounty.Monster                                                                # (default: 0) 
+fe.economy.bounty.MushroomCow                                                            # (default: 0) 
+fe.economy.bounty.OpenBlocks.Luggage                                                     # (default: 0) 
+fe.economy.bounty.OpenBlocks.MiniMe                                                      # (default: 0) 
+fe.economy.bounty.Ozelot                                                                 # (default: 0) 
+fe.economy.bounty.Pig                                                                    # (default: 0) 
+fe.economy.bounty.PigZombie                                                              # (default: 0) 
+fe.economy.bounty.Sheep                                                                  # (default: 0) 
+fe.economy.bounty.Silverfish                                                             # (default: 0) 
+fe.economy.bounty.Skeleton                                                               # (default: 0) 
+fe.economy.bounty.Slime                                                                  # (default: 0) 
+fe.economy.bounty.SnowMan                                                                # (default: 0) 
+fe.economy.bounty.Spider                                                                 # (default: 0) 
+fe.economy.bounty.Squid                                                                  # (default: 0) 
+fe.economy.bounty.Villager                                                               # (default: 0) 
+fe.economy.bounty.VillagerGolem                                                          # (default: 0) 
+fe.economy.bounty.Witch                                                                  # (default: 0) 
+fe.economy.bounty.WitherBoss                                                             # (default: 0) 
+fe.economy.bounty.Wolf                                                                   # (default: 0) 
+fe.economy.bounty.Zombie                                                                 # (default: 0) 
+fe.economy.bounty.bearTFC                                                                # (default: 0) 
+fe.economy.bounty.betterstorage.Cluckington                                              # (default: 0) 
+fe.economy.bounty.betterstorage.Frienderman                                              # (default: 0) 
+fe.economy.bounty.blazeTFC                                                               # (default: 0) 
+fe.economy.bounty.caveSpiderTFC                                                          # (default: 0) 
+fe.economy.bounty.chickenTFC                                                             # (default: 0) 
+fe.economy.bounty.cowTFC                                                                 # (default: 0) 
+fe.economy.bounty.creeperTFC                                                             # (default: 0) 
+fe.economy.bounty.deerTFC                                                                # (default: 0) 
+fe.economy.bounty.endermanTFC                                                            # (default: 0) 
+fe.economy.bounty.fishTFC                                                                # (default: 0) 
+fe.economy.bounty.ghastTFC                                                               # (default: 0) 
+fe.economy.bounty.horseTFC                                                               # (default: 0) 
+fe.economy.bounty.irongolemTFC                                                           # (default: 0) 
+fe.economy.bounty.message                                                                # (default: true) Whether to show a message if a bounty is given
+fe.economy.bounty.pheasantTFC                                                            # (default: 0) 
+fe.economy.bounty.pigTFC                                                                 # (default: 0) 
+fe.economy.bounty.pigZombieTFC                                                           # (default: 0) 
+fe.economy.bounty.sheepTFC                                                               # (default: 0) 
+fe.economy.bounty.silverfishTFC                                                          # (default: 0) 
+fe.economy.bounty.skeletonTFC                                                            # (default: 0) 
+fe.economy.bounty.slimeTFC                                                               # (default: 0) 
+fe.economy.bounty.spiderTFC                                                              # (default: 0) 
+fe.economy.bounty.squidTFC                                                               # (default: 0) 
+fe.economy.bounty.standTFC                                                               # (default: 0) 
+fe.economy.bounty.wolfTFC                                                                # (default: 0) 
+fe.economy.bounty.yegamolchattels.fakePlayer                                             # (default: 0) 
+fe.economy.bounty.ygcGhost                                                               # (default: 0) 
+fe.economy.bounty.zombieTFC                                                              # (default: 0) 
+fe.economy.command.paidcommand                                                           # (default: false) 
+fe.economy.command.pay                                                                   # (default: true) 
+fe.economy.command.sell                                                                  # (default: true) 
+fe.economy.command.sell.noconfirm                                                        # (default: false) Do not confirm selling items to the server.
+fe.economy.command.sellcommand                                                           # (OP only: true) 
+fe.economy.command.sellprice                                                             # (OP only: true) 
+fe.economy.command.trade                                                                 # (default: true) 
+fe.economy.command.wallet                                                                # (default: true) 
+fe.economy.command.wallet.modify                                                         # (OP only: true) Allows modifying wallets
+fe.economy.command.wallet.others                                                         # (OP only: true) Allows viewing other player's wallets
+fe.economy.currency                                                                      # (default: coins) Name of currency (plural)
+fe.economy.currency.singular                                                             # (default: coin) Name of currency (singular)
+fe.economy.deathtoll                                                                     # (default: ) Penalty for players to pay when they die. If set to lesser than 1, value is taken as a factor of the player's wallet balance.
+fe.economy.plot                                                                          # Plot permissions
+fe.economy.plot.column                                                                   # (default: true) If true, all plots will always extend from bottom to top of the world. Price will only depend on X and Z dimensions.
+fe.economy.plot.command                                                                  # (default: true) Plot management command
+fe.economy.plot.command.buy                                                              # (default: true) Allows buying plots
+fe.economy.plot.command.claim                                                            # (default: true) Allows to claim plots in exchange for money
+fe.economy.plot.command.define                                                           # (OP only: true) Allows to define plots without paying
+fe.economy.plot.command.delete                                                           # (OP only: true) Allows a player to delete any plots, including plots not owned by him.
+fe.economy.plot.command.list                                                             # (default: true) Allows listing plots
+fe.economy.plot.command.list.all                                                         # (OP only: true) List all plots
+fe.economy.plot.command.list.own                                                         # (default: true) List own plots
+fe.economy.plot.command.list.sale                                                        # (default: true) List plots open for sale
+fe.economy.plot.command.mods                                                             # (OP only: true) Allows managing plot administrators
+fe.economy.plot.command.perms                                                            # (OP only: true) Control plot settings
+fe.economy.plot.command.sell                                                             # (OP only: true) Allows selling plots
+fe.economy.plot.command.set.*                                                            # (OP only: true) Control plot settings
+fe.economy.plot.command.set.build                                                        # (OP only: true) Control build permissions
+fe.economy.plot.command.set.chest                                                        # (OP only: true) Control chest permissions
+fe.economy.plot.command.set.interact                                                     # (OP only: true) Control interaction permissions
+fe.economy.plot.command.set.use                                                          # (OP only: true) Control item usage permissions
+fe.economy.plot.data                                                                     # Individual settings for plots
+fe.economy.plot.data.fee                                                                 # Price players have to pay in order to enter this plot
+fe.economy.plot.data.fee.timeout                                                         # Duration that a player can access the plot after paying the fee
+fe.economy.plot.data.name                                                                # (default: @p's plot) Name of the plot (@p inserts owner name)
+fe.economy.plot.data.price                                                               # Price that the plot can be bought for by other players (sell offer)
+fe.economy.plot.limit.count                                                              # (default: 20) Maximum number of plots a player can claim
+fe.economy.plot.limit.size                                                               # Maximum total size of all plots a player can claim
+fe.economy.plot.price                                                                    # (default: 1) Price multiplier for plots (plot size will be multiplied with this value)
+fe.economy.plot.size.max                                                                 # Maximum size of one plot axis
+fe.economy.plot.size.min                                                                 # (default: 3) Minimum size of one plot axis
+fe.economy.price                                                                         # Default prices for items in economy
+fe.economy.shop                                                                          # Shop permissions
+fe.economy.shop.create                                                                   # (OP only: true) Allow creating shops
+fe.economy.shop.destroy                                                                  # (OP only: true) Allow destroying shops
+fe.economy.shop.use                                                                      # (default: true) Allow usage of shops
+fe.economy.startbudget                                                                   # (default: 100) Starting amount of money for players
+fe.economy.xpmultiplier                                                                  # (default: 0) XP to currency conversion rate (integer, a zombie drops around 5 XP, 0 to disable)
+fe.faction                                                                               # (default: true) Faction permissions
+fe.faction.ally                                                                          # (OP only: true) Allows controlling faction allies
+fe.faction.bonus                                                                         # (OP only: true) Allows controlling faction bonuses
+fe.faction.create                                                                        # (default: true) Allows creating factions
+fe.faction.data.locked                                                                   # (default: false) Locks a faction so players can only join on invitation
+fe.faction.data.name                                                                     # Faction name (if this permission is set and the group name starts with "faction_", a group is considered a faction)
+fe.faction.delete                                                                        # (OP only: true) Allows to delete a faction
+fe.faction.friendlyfire                                                                  # (OP only: true) Allows controlling friendly fire setting
+fe.faction.invite                                                                        # (default: true) Allows inviting other players to a faction
+fe.faction.join                                                                          # (default: true) Allows joining factions
+fe.faction.join.any                                                                      # (OP only: true) Allows joining even locked factions
+fe.faction.leave                                                                         # (default: true) Allows to leave factions
+fe.faction.list                                                                          # (default: true) List existing factions
+fe.faction.members.*                                                                     # (OP only: true) Control members
+fe.internal                                                                              # Internal permissions - DO NOT TOUCH THESE UNLESS YOU KNOW WHAT YOU DO (WHICH YOU DON'T!)
+fe.internal.group                                                                        # (optional) Permission to keep groups saved, even if they have no permissions set.
+fe.internal.group.includes                                                               # Groups that are included using the included group's priority
+fe.internal.group.name                                                                   # Group name for display purposes
+fe.internal.group.parents                                                                # Groups that are included using the including group's priority
+fe.internal.group.priority                                                               # Group priority
+fe.internal.group.promotion                                                              # (default: false) Unlock this group for promotion with /promote
+fe.internal.player                                                                       # Player information
+fe.internal.player.groups                                                                # Comma separated list of player groups
+fe.internal.player.name                                                                  # Player name
+fe.internal.player.uuid                                                                  # Player UUID
+fe.internal.plot.owner                                                                   # UUID of the owner of this plot (DO NOT MODIFY!)
+fe.internal.prefix                                                                       # Prefix property node
+fe.internal.spawn.bed                                                                    # (default: true) Player spawn at bed if available
+fe.internal.spawn.location                                                               # Player spawn location property
+fe.internal.suffix                                                                       # Suffix property node
+fe.internal.zone.entry                                                                   # Zone entry message
+fe.internal.zone.exit                                                                    # Zone exit message
+fe.mapper.command                                                                        # (OP only: true) 
+fe.multiworld                                                                            # (OP only: true) 
+fe.multiworld.delete                                                                     # (OP only: true) 
+fe.multiworld.list                                                                       # (default: true) 
+fe.multiworld.manage                                                                     # (OP only: true) 
+fe.multiworld.teleport                                                                   # (OP only: true) 
+fe.perm                                                                                  # (default: true) Basic usage of permission-management command
+fe.perm.*                                                                                # (OP only: true) 
+fe.perm.autoPromote                                                                      # (OP only: true) 
+fe.perm.debug                                                                            # (default: true) Allow using permission-debug command
+fe.perm.group                                                                            # (OP only: true) Allow basic access to groups (displays infos)
+fe.perm.group.fix                                                                        # (OP only: true) Allow setting group prefix / suffix
+fe.perm.group.perms                                                                      # (OP only: true) Allow modifying group permissions
+fe.perm.group.spawn                                                                      # (OP only: true) Allow setting group spawn
+fe.perm.list.groups                                                                      # (OP only: true) Allow listing groups
+fe.perm.list.perms                                                                       # (default: true) Allow listing all permissions affecting current user
+fe.perm.list.users                                                                       # (OP only: true) Allow listing users
+fe.perm.list.zones                                                                       # (OP only: true) Allow listing zones
+fe.perm.permitem                                                                         # (OP only: true) 
+fe.perm.promote                                                                          # (OP only: true) 
+fe.perm.reload                                                                           # (OP only: true) Allow reloading changed permission files
+fe.perm.save                                                                             # (OP only: true) Allow force-saving permission files
+fe.perm.setspawn                                                                         # (OP only: true) 
+fe.perm.test                                                                             # (default: true) Allow testing permission nodes
+fe.perm.user                                                                             # (OP only: true) Allow basic access to users (displays infos)
+fe.perm.user.fix                                                                         # (OP only: true) Allow setting user prefix / suffix
+fe.perm.user.perms                                                                       # (OP only: true) Allow modifying user permissions
+fe.perm.user.spawn                                                                       # (OP only: true) Allow setting user spawn
+fe.perm.zone                                                                             # (OP only: true) Permission nodes for area-management command
+fe.perm.zone.*                                                                           # (OP only: true) 
+fe.perm.zone.info                                                                        # (default: true) 
+fe.perm.zone.list                                                                        # (default: true) 
+fe.pl                                                                                    # (OP only: true) Player logger permisssions
+fe.pl.cmd.pl                                                                             # (OP only: true) 
+fe.pl.cmd.rollback                                                                       # (OP only: true) 
+fe.pl.wand                                                                               # (OP only: true) Allow usage of player loggger wand (clock)
+fe.protection.cmd.itemperm                                                               # (default: true) 
+fe.protection.cmd.protectdebug                                                           # (default: true) 
+fe.protection.damageby.*                                                                 # (default: true) Allow getting hurt by entities
+fe.protection.damageby.EntityBlaze                                                       # (default: true) 
+fe.protection.damageby.EntityChicken                                                     # (default: true) 
+fe.protection.damageby.EntityCow                                                         # (default: true) 
+fe.protection.damageby.EntityCreeper                                                     # (default: true) 
+fe.protection.damageby.EntityEnderman                                                    # (default: true) 
+fe.protection.damageby.EntityGiantZombie                                                 # (default: true) 
+fe.protection.damageby.EntityHorse                                                       # (default: true) 
+fe.protection.damageby.EntityIronGolem                                                   # (default: true) 
+fe.protection.damageby.EntityMooshroom                                                   # (default: true) 
+fe.protection.damageby.EntityOcelot                                                      # (default: true) 
+fe.protection.damageby.EntityPig                                                         # (default: true) 
+fe.protection.damageby.EntityPigZombie                                                   # (default: true) 
+fe.protection.damageby.EntitySilverfish                                                  # (default: true) 
+fe.protection.damageby.EntitySkeleton                                                    # (default: true) 
+fe.protection.damageby.EntitySnowman                                                     # (default: true) 
+fe.protection.damageby.EntitySpider                                                      # (default: true) 
+fe.protection.damageby.EntitySquid                                                       # (default: true) 
+fe.protection.damageby.EntityVillager                                                    # (default: true) 
+fe.protection.damageby.EntityWitch                                                       # (default: true) 
+fe.protection.damageby.EntityWither                                                      # (default: true) 
+fe.protection.damageby.EntityWolf                                                        # (default: true) 
+fe.protection.damageby.EntityZombie                                                      # (default: true) 
+fe.protection.damageby.anvil                                                             # (default: true) 
+fe.protection.damageby.boss                                                              # (default: true) 
+fe.protection.damageby.cactus                                                            # (default: true) 
+fe.protection.damageby.drown                                                             # (default: true) 
+fe.protection.damageby.fall                                                              # (default: true) 
+fe.protection.damageby.fallingBlock                                                      # (default: true) 
+fe.protection.damageby.generic                                                           # (default: true) 
+fe.protection.damageby.golem                                                             # (default: true) 
+fe.protection.damageby.hostile                                                           # (default: true) 
+fe.protection.damageby.inFire                                                            # (default: true) 
+fe.protection.damageby.inWall                                                            # (default: true) 
+fe.protection.damageby.lava                                                              # (default: true) 
+fe.protection.damageby.magic                                                             # (default: true) 
+fe.protection.damageby.onFire                                                            # (default: true) 
+fe.protection.damageby.outOfWorld                                                        # (default: true) 
+fe.protection.damageby.passive                                                           # (default: true) 
+fe.protection.damageby.starve                                                            # (default: true) 
+fe.protection.damageby.tamable                                                           # (default: true) 
+fe.protection.damageby.tamed                                                             # (default: true) 
+fe.protection.damageby.unknown                                                           # (default: true) 
+fe.protection.damageby.villager                                                          # (default: true) 
+fe.protection.damageby.wither                                                            # (default: true) 
+fe.protection.damageto.*                                                                 # (default: true) Allow damaging entities
+fe.protection.damageto.EntityBlaze                                                       # (default: true) 
+fe.protection.damageto.EntityChicken                                                     # (default: true) 
+fe.protection.damageto.EntityCow                                                         # (default: true) 
+fe.protection.damageto.EntityCreeper                                                     # (default: true) 
+fe.protection.damageto.EntityEnderman                                                    # (default: true) 
+fe.protection.damageto.EntityGiantZombie                                                 # (default: true) 
+fe.protection.damageto.EntityHorse                                                       # (default: true) 
+fe.protection.damageto.EntityIronGolem                                                   # (default: true) 
+fe.protection.damageto.EntityMooshroom                                                   # (default: true) 
+fe.protection.damageto.EntityOcelot                                                      # (default: true) 
+fe.protection.damageto.EntityPig                                                         # (default: true) 
+fe.protection.damageto.EntityPigZombie                                                   # (default: true) 
+fe.protection.damageto.EntitySilverfish                                                  # (default: true) 
+fe.protection.damageto.EntitySkeleton                                                    # (default: true) 
+fe.protection.damageto.EntitySnowman                                                     # (default: true) 
+fe.protection.damageto.EntitySpider                                                      # (default: true) 
+fe.protection.damageto.EntitySquid                                                       # (default: true) 
+fe.protection.damageto.EntityVillager                                                    # (default: true) 
+fe.protection.damageto.EntityWitch                                                       # (default: true) 
+fe.protection.damageto.EntityWither                                                      # (default: true) 
+fe.protection.damageto.EntityWolf                                                        # (default: true) 
+fe.protection.damageto.EntityZombie                                                      # (default: true) 
+fe.protection.damageto.boss                                                              # (default: true) 
+fe.protection.damageto.golem                                                             # (default: true) 
+fe.protection.damageto.hostile                                                           # (default: true) 
+fe.protection.damageto.passive                                                           # (default: true) 
+fe.protection.damageto.tamable                                                           # (default: true) 
+fe.protection.damageto.tamed                                                             # (default: true) 
+fe.protection.damageto.unknown                                                           # (default: true) 
+fe.protection.damageto.villager                                                          # (default: true) 
+fe.protection.explosion                                                                  # (default: true) Allows explosions to occur
+fe.protection.fire.destroy                                                               # (default: true) Allow fire to destroy blocks
+fe.protection.fire.spread                                                                # (default: true) Allow fire to spread
+fe.protection.gamemode                                                                   # (default: -1) Force gamemode (-1 = none / default, 0 = survival, 1 = creative, 2 = adventure)
+fe.protection.mobspawn.*                                                                 # (default: true) (global) Allow spawning of mobs
+fe.protection.mobspawn.forced.*                                                          # (default: true) (global) Allow forced spawning of mobs (mob-spawners)
+fe.protection.mobspawn.forced.Basalz                                                     # (default: true) 
+fe.protection.mobspawn.forced.Bat                                                        # (default: true) 
+fe.protection.mobspawn.forced.Blaze                                                      # (default: true) 
+fe.protection.mobspawn.forced.Blitz                                                      # (default: true) 
+fe.protection.mobspawn.forced.Blizz                                                      # (default: true) 
+fe.protection.mobspawn.forced.CaveSpider                                                 # (default: true) 
+fe.protection.mobspawn.forced.Chicken                                                    # (default: true) 
+fe.protection.mobspawn.forced.Cow                                                        # (default: true) 
+fe.protection.mobspawn.forced.Creeper                                                    # (default: true) 
+fe.protection.mobspawn.forced.EnderDragon                                                # (default: true) 
+fe.protection.mobspawn.forced.Enderman                                                   # (default: true) 
+fe.protection.mobspawn.forced.EntityHorse                                                # (default: true) 
+fe.protection.mobspawn.forced.Ghast                                                      # (default: true) 
+fe.protection.mobspawn.forced.Giant                                                      # (default: true) 
+fe.protection.mobspawn.forced.LavaSlime                                                  # (default: true) 
+fe.protection.mobspawn.forced.Mekanism.BabySkeleton                                      # (default: true) 
+fe.protection.mobspawn.forced.Mekanism.Robit                                             # (default: true) 
+fe.protection.mobspawn.forced.Mob                                                        # (default: true) 
+fe.protection.mobspawn.forced.Monster                                                    # (default: true) 
+fe.protection.mobspawn.forced.MushroomCow                                                # (default: true) 
+fe.protection.mobspawn.forced.OpenBlocks.Luggage                                         # (default: true) 
+fe.protection.mobspawn.forced.OpenBlocks.MiniMe                                          # (default: true) 
+fe.protection.mobspawn.forced.Ozelot                                                     # (default: true) 
+fe.protection.mobspawn.forced.Pig                                                        # (default: true) 
+fe.protection.mobspawn.forced.PigZombie                                                  # (default: true) 
+fe.protection.mobspawn.forced.Sheep                                                      # (default: true) 
+fe.protection.mobspawn.forced.Silverfish                                                 # (default: true) 
+fe.protection.mobspawn.forced.Skeleton                                                   # (default: true) 
+fe.protection.mobspawn.forced.Slime                                                      # (default: true) 
+fe.protection.mobspawn.forced.SnowMan                                                    # (default: true) 
+fe.protection.mobspawn.forced.Spider                                                     # (default: true) 
+fe.protection.mobspawn.forced.Squid                                                      # (default: true) 
+fe.protection.mobspawn.forced.Villager                                                   # (default: true) 
+fe.protection.mobspawn.forced.VillagerGolem                                              # (default: true) 
+fe.protection.mobspawn.forced.Witch                                                      # (default: true) 
+fe.protection.mobspawn.forced.WitherBoss                                                 # (default: true) 
+fe.protection.mobspawn.forced.Wolf                                                       # (default: true) 
+fe.protection.mobspawn.forced.Zombie                                                     # (default: true) 
+fe.protection.mobspawn.forced.bearTFC                                                    # (default: true) 
+fe.protection.mobspawn.forced.betterstorage.Cluckington                                  # (default: true) 
+fe.protection.mobspawn.forced.betterstorage.Frienderman                                  # (default: true) 
+fe.protection.mobspawn.forced.blazeTFC                                                   # (default: true) 
+fe.protection.mobspawn.forced.caveSpiderTFC                                              # (default: true) 
+fe.protection.mobspawn.forced.chickenTFC                                                 # (default: true) 
+fe.protection.mobspawn.forced.cowTFC                                                     # (default: true) 
+fe.protection.mobspawn.forced.creeperTFC                                                 # (default: true) 
+fe.protection.mobspawn.forced.deerTFC                                                    # (default: true) 
+fe.protection.mobspawn.forced.endermanTFC                                                # (default: true) 
+fe.protection.mobspawn.forced.fishTFC                                                    # (default: true) 
+fe.protection.mobspawn.forced.ghastTFC                                                   # (default: true) 
+fe.protection.mobspawn.forced.horseTFC                                                   # (default: true) 
+fe.protection.mobspawn.forced.irongolemTFC                                               # (default: true) 
+fe.protection.mobspawn.forced.pheasantTFC                                                # (default: true) 
+fe.protection.mobspawn.forced.pigTFC                                                     # (default: true) 
+fe.protection.mobspawn.forced.pigZombieTFC                                               # (default: true) 
+fe.protection.mobspawn.forced.sheepTFC                                                   # (default: true) 
+fe.protection.mobspawn.forced.silverfishTFC                                              # (default: true) 
+fe.protection.mobspawn.forced.skeletonTFC                                                # (default: true) 
+fe.protection.mobspawn.forced.slimeTFC                                                   # (default: true) 
+fe.protection.mobspawn.forced.spiderTFC                                                  # (default: true) 
+fe.protection.mobspawn.forced.squidTFC                                                   # (default: true) 
+fe.protection.mobspawn.forced.standTFC                                                   # (default: true) 
+fe.protection.mobspawn.forced.type.boss                                                  # (default: true) 
+fe.protection.mobspawn.forced.type.golem                                                 # (default: true) 
+fe.protection.mobspawn.forced.type.hostile                                               # (default: true) 
+fe.protection.mobspawn.forced.type.passive                                               # (default: true) 
+fe.protection.mobspawn.forced.type.tamable                                               # (default: true) 
+fe.protection.mobspawn.forced.type.tamed                                                 # (default: true) 
+fe.protection.mobspawn.forced.type.unknown                                               # (default: true) 
+fe.protection.mobspawn.forced.type.villager                                              # (default: true) 
+fe.protection.mobspawn.forced.wolfTFC                                                    # (default: true) 
+fe.protection.mobspawn.forced.yegamolchattels.fakePlayer                                 # (default: true) 
+fe.protection.mobspawn.forced.ygcGhost                                                   # (default: true) 
+fe.protection.mobspawn.forced.zombieTFC                                                  # (default: true) 
+fe.protection.mobspawn.natural.*                                                         # (default: true) (global) Allow natural spawning of mobs (random spawn)
+fe.protection.mobspawn.natural.Basalz                                                    # (default: true) 
+fe.protection.mobspawn.natural.Bat                                                       # (default: true) 
+fe.protection.mobspawn.natural.Blaze                                                     # (default: true) 
+fe.protection.mobspawn.natural.Blitz                                                     # (default: true) 
+fe.protection.mobspawn.natural.Blizz                                                     # (default: true) 
+fe.protection.mobspawn.natural.CaveSpider                                                # (default: true) 
+fe.protection.mobspawn.natural.Chicken                                                   # (default: true) 
+fe.protection.mobspawn.natural.Cow                                                       # (default: true) 
+fe.protection.mobspawn.natural.Creeper                                                   # (default: true) 
+fe.protection.mobspawn.natural.EnderDragon                                               # (default: true) 
+fe.protection.mobspawn.natural.Enderman                                                  # (default: true) 
+fe.protection.mobspawn.natural.EntityHorse                                               # (default: true) 
+fe.protection.mobspawn.natural.Ghast                                                     # (default: true) 
+fe.protection.mobspawn.natural.Giant                                                     # (default: true) 
+fe.protection.mobspawn.natural.LavaSlime                                                 # (default: true) 
+fe.protection.mobspawn.natural.Mekanism.BabySkeleton                                     # (default: true) 
+fe.protection.mobspawn.natural.Mekanism.Robit                                            # (default: true) 
+fe.protection.mobspawn.natural.Mob                                                       # (default: true) 
+fe.protection.mobspawn.natural.Monster                                                   # (default: true) 
+fe.protection.mobspawn.natural.MushroomCow                                               # (default: true) 
+fe.protection.mobspawn.natural.OpenBlocks.Luggage                                        # (default: true) 
+fe.protection.mobspawn.natural.OpenBlocks.MiniMe                                         # (default: true) 
+fe.protection.mobspawn.natural.Ozelot                                                    # (default: true) 
+fe.protection.mobspawn.natural.Pig                                                       # (default: true) 
+fe.protection.mobspawn.natural.PigZombie                                                 # (default: true) 
+fe.protection.mobspawn.natural.Sheep                                                     # (default: true) 
+fe.protection.mobspawn.natural.Silverfish                                                # (default: true) 
+fe.protection.mobspawn.natural.Skeleton                                                  # (default: true) 
+fe.protection.mobspawn.natural.Slime                                                     # (default: true) 
+fe.protection.mobspawn.natural.SnowMan                                                   # (default: true) 
+fe.protection.mobspawn.natural.Spider                                                    # (default: true) 
+fe.protection.mobspawn.natural.Squid                                                     # (default: true) 
+fe.protection.mobspawn.natural.Villager                                                  # (default: true) 
+fe.protection.mobspawn.natural.VillagerGolem                                             # (default: true) 
+fe.protection.mobspawn.natural.Witch                                                     # (default: true) 
+fe.protection.mobspawn.natural.WitherBoss                                                # (default: true) 
+fe.protection.mobspawn.natural.Wolf                                                      # (default: true) 
+fe.protection.mobspawn.natural.Zombie                                                    # (default: true) 
+fe.protection.mobspawn.natural.bearTFC                                                   # (default: true) 
+fe.protection.mobspawn.natural.betterstorage.Cluckington                                 # (default: true) 
+fe.protection.mobspawn.natural.betterstorage.Frienderman                                 # (default: true) 
+fe.protection.mobspawn.natural.blazeTFC                                                  # (default: true) 
+fe.protection.mobspawn.natural.caveSpiderTFC                                             # (default: true) 
+fe.protection.mobspawn.natural.chickenTFC                                                # (default: true) 
+fe.protection.mobspawn.natural.cowTFC                                                    # (default: true) 
+fe.protection.mobspawn.natural.creeperTFC                                                # (default: true) 
+fe.protection.mobspawn.natural.deerTFC                                                   # (default: true) 
+fe.protection.mobspawn.natural.endermanTFC                                               # (default: true) 
+fe.protection.mobspawn.natural.fishTFC                                                   # (default: true) 
+fe.protection.mobspawn.natural.ghastTFC                                                  # (default: true) 
+fe.protection.mobspawn.natural.horseTFC                                                  # (default: true) 
+fe.protection.mobspawn.natural.irongolemTFC                                              # (default: true) 
+fe.protection.mobspawn.natural.pheasantTFC                                               # (default: true) 
+fe.protection.mobspawn.natural.pigTFC                                                    # (default: true) 
+fe.protection.mobspawn.natural.pigZombieTFC                                              # (default: true) 
+fe.protection.mobspawn.natural.sheepTFC                                                  # (default: true) 
+fe.protection.mobspawn.natural.silverfishTFC                                             # (default: true) 
+fe.protection.mobspawn.natural.skeletonTFC                                               # (default: true) 
+fe.protection.mobspawn.natural.slimeTFC                                                  # (default: true) 
+fe.protection.mobspawn.natural.spiderTFC                                                 # (default: true) 
+fe.protection.mobspawn.natural.squidTFC                                                  # (default: true) 
+fe.protection.mobspawn.natural.standTFC                                                  # (default: true) 
+fe.protection.mobspawn.natural.type.boss                                                 # (default: true) 
+fe.protection.mobspawn.natural.type.golem                                                # (default: true) 
+fe.protection.mobspawn.natural.type.hostile                                              # (default: true) 
+fe.protection.mobspawn.natural.type.passive                                              # (default: true) 
+fe.protection.mobspawn.natural.type.tamable                                              # (default: true) 
+fe.protection.mobspawn.natural.type.tamed                                                # (default: true) 
+fe.protection.mobspawn.natural.type.unknown                                              # (default: true) 
+fe.protection.mobspawn.natural.type.villager                                             # (default: true) 
+fe.protection.mobspawn.natural.wolfTFC                                                   # (default: true) 
+fe.protection.mobspawn.natural.yegamolchattels.fakePlayer                                # (default: true) 
+fe.protection.mobspawn.natural.ygcGhost                                                  # (default: true) 
+fe.protection.mobspawn.natural.zombieTFC                                                 # (default: true) 
+fe.protection.needsfood                                                                  # (default: true) If denied to a player, their hunger bar will not deplete.
+fe.protection.pressureplate                                                              # (default: true) Prevent players from triggering pressure plates
+fe.protection.pvp                                                                        # (default: true) If denied for at least one of two fighting players, PvP will be disabled
+fe.protection.sleep                                                                      # (default: true) Allow players to sleep in beds
+fe.protection.zone                                                                       # Worldborder permissions
+fe.protection.zone.command                                                               # Execute this command if a player enters the area
+fe.protection.zone.command.interval                                                      # (default: 0) Time interval in milliseconds for executing command. Zero = once only.
+fe.protection.zone.damage                                                                # Apply this amount of damage to players, if they are in this area
+fe.protection.zone.damage.interval                                                       # (default: 1000) Time interval in milliseconds for applying damage-effect. Zero = once only.
+fe.protection.zone.knockback                                                             # (default: false) Deny players from entering this area
+fe.protection.zone.potion                                                                # Apply potion effects to players who enter this area. Comma separated list of "ID:duration:amplifier" pairs. See http://www.minecraftwiki.net/wiki/Potion_effects#Parameters
+fe.protection.zone.potion.interval                                                       # (default: 2000) Time interval in milliseconds for applying potion-effects. Zero = once only.
+fe.questioner                                                                            # (default: true) 
+fe.reimm.compat                                                                          # Rei's minimap permissions
+fe.reimm.compat.cavemap                                                                  # (default: true) 
+fe.reimm.compat.radar.animal                                                             # (default: true) 
+fe.reimm.compat.radar.mod                                                                # (default: true) 
+fe.reimm.compat.radar.other                                                              # (default: true) 
+fe.reimm.compat.radar.player                                                             # (default: true) 
+fe.reimm.compat.radar.slime                                                              # (default: true) 
+fe.remote                                                                                # (OP only: true) Allows login to remote module
+fe.remote.chat.push                                                                      # (default: true) Allows requesting chat push messages
+fe.remote.chat.query                                                                     # (default: true) Allows querying chat messages
+fe.remote.chat.send                                                                      # (OP only: true) Allows to send chat messages
+fe.remote.command                                                                        # (OP only: true) Allows to run commands remotely
+fe.remote.control                                                                        # (OP only: true) Allows to start / stop remote server and control users (regen passkeys, kick, block)
+fe.remote.mapper.query.region                                                            # (default: true) Allows querying region tiles
+fe.remote.permission.set                                                                 # (OP only: true) Allows to change permissions
+fe.remote.player.query                                                                   # (OP only: true) Allows querying player data
+fe.remote.player.query.detail                                                            # (OP only: true) View details (health, armor, etc.)
+fe.remote.player.query.location                                                          # (OP only: true) View location
+fe.remote.server.log                                                                     # (OP only: true) Allows querying server log
+fe.remote.stats                                                                          # (OP only: true) Allows querying server stats
+fe.settings                                                                              # (OP only: true) 
+fe.signs.colorize                                                                        # (default: true) 
+fe.teleport.back                                                                         # (default: true) 
+fe.teleport.back.ondeath                                                                 # (default: true) Allow returning to the last death location with back-command
+fe.teleport.back.ontp                                                                    # (default: true) Allow returning to the last location before teleport with back-command
+fe.teleport.bed                                                                          # (default: true) 
+fe.teleport.bed.others                                                                   # (OP only: true) Allow teleporting to other player's bed location
+fe.teleport.cooldown                                                                     # (OP only: 0) Allow bypassing teleport cooldown
+fe.teleport.crossdim                                                                     # (default: true) Allow teleporting across dimensions
+fe.teleport.from                                                                         # (default: true) Allow being teleported from a certain location / dimension
+fe.teleport.home                                                                         # (default: true) Allow usage of /home
+fe.teleport.home.other                                                                   # (OP only: true) Allow setting other players home location
+fe.teleport.home.set                                                                     # (default: true) Allow setting of home location
+fe.teleport.jump                                                                         # (OP only: true) 
+fe.teleport.jump.tool                                                                    # (OP only: true) Allow jumping with a tool (default compass)
+fe.teleport.personalwarp                                                                 # (OP only: true) 
+fe.teleport.personalwarp.delete                                                          # (OP only: true) Allow deleting personal warps
+fe.teleport.personalwarp.max                                                             # (OP only: false) Maximal personal warp count
+fe.teleport.personalwarp.set                                                             # (OP only: true) Allow setting personal warps
+fe.teleport.portal                                                                       # (OP only: true) 
+fe.teleport.spawn                                                                        # (default: true) 
+fe.teleport.spawn.others                                                                 # (OP only: true) Allow setting other player's spawn
+fe.teleport.to                                                                           # (default: true) Allow being teleported to a certain location / dimension
+fe.teleport.top                                                                          # (default: true) 
+fe.teleport.top.others                                                                   # (OP only: true) 
+fe.teleport.tp                                                                           # (OP only: true) 
+fe.teleport.tpa                                                                          # (default: true) 
+fe.teleport.tpa.here                                                                     # (default: true) Allow teleporting other players to your own location (inversed TPA)
+fe.teleport.tpa.loc                                                                      # (OP only: true) Allow teleporting other players to any location
+fe.teleport.tpa.sendrequest                                                              # (default: true) Allow sending teleport-to requests
+fe.teleport.tpa.timeout                                                                  # (default: 20) Amount of sec a user has to accept a TPA request
+fe.teleport.tpahere.sendrequest                                                          # (default: true) Allow sending teleport-here requests
+fe.teleport.tppos                                                                        # (default: true) 
+fe.teleport.warmup                                                                       # (OP only: 0) Allow bypassing teleport warmup
+fe.teleport.warp                                                                         # (OP only: true) 
+fe.teleport.warp.admin                                                                   # (OP only: true) 
+fe.teleport.warp.delete                                                                  # (OP only: true) Allow deleting warps
+fe.teleport.warp.max                                                                     # (OP only: false) Maximal warp count
+fe.teleport.warp.set                                                                     # (OP only: true) Allow setting warps
+fe.tickets.admin                                                                         # (OP only: true) 
+fe.tickets.command                                                                       # (default: true) 
+fe.tickets.new                                                                           # (default: true) 
+fe.tickets.tp                                                                            # (default: true) 
+fe.tickets.view                                                                          # (default: true) 
+fe.worldborder                                                                           # Worldborder permissions
+fe.worldborder.admin                                                                     # (OP only: true) 
+fe.worldborder.bypass                                                                    # (default: false) Ignore worldborders if granted
+mc.help                                                                                  # (default: true) Help command
+worldedit.*                                                                              # (OP only: true) 
+worldedit.analysis.count                                                                 # (OP only: true) 
+worldedit.analysis.distr                                                                 # (OP only: true) 
+worldedit.biome.info                                                                     # (OP only: true) 
+worldedit.biome.list                                                                     # (OP only: true) 
+worldedit.biome.set                                                                      # (OP only: true) 
+worldedit.brush.options.mask                                                             # (OP only: true) 
+worldedit.brush.options.material                                                         # (OP only: true) 
+worldedit.brush.options.range                                                            # (OP only: true) 
+worldedit.brush.options.size                                                             # (OP only: true) 
+worldedit.butcher                                                                        # (OP only: true) 
+worldedit.chunkinfo                                                                      # (OP only: true) 
+worldedit.clipboard.clear                                                                # (OP only: true) 
+worldedit.clipboard.copy                                                                 # (OP only: true) 
+worldedit.clipboard.cut                                                                  # (OP only: true) 
+worldedit.clipboard.flip                                                                 # (OP only: true) 
+worldedit.clipboard.load                                                                 # (OP only: true) 
+worldedit.clipboard.paste                                                                # (OP only: true) 
+worldedit.clipboard.rotate                                                               # (OP only: true) 
+worldedit.clipboard.save                                                                 # (OP only: true) 
+worldedit.delchunks                                                                      # (OP only: true) 
+worldedit.drain                                                                          # (OP only: true) 
+worldedit.extinguish                                                                     # (OP only: true) 
+worldedit.fast                                                                           # (OP only: true) 
+worldedit.fill                                                                           # (OP only: true) 
+worldedit.fill.recursive                                                                 # (OP only: true) 
+worldedit.fixlava                                                                        # (OP only: true) 
+worldedit.fixwater                                                                       # (OP only: true) 
+worldedit.generation.cylinder                                                            # (OP only: true) 
+worldedit.generation.forest                                                              # (OP only: true) 
+worldedit.generation.pumpkins                                                            # (OP only: true) 
+worldedit.generation.pyramid                                                             # (OP only: true) 
+worldedit.generation.shape                                                               # (OP only: true) 
+worldedit.generation.sphere                                                              # (OP only: true) 
+worldedit.global-mask                                                                    # (OP only: true) 
+worldedit.green                                                                          # (OP only: true) 
+worldedit.help                                                                           # (OP only: true) 
+worldedit.history.clear                                                                  # (OP only: true) 
+worldedit.history.redo                                                                   # (OP only: true) 
+worldedit.history.undo                                                                   # (OP only: true) 
+worldedit.limit                                                                          # (OP only: true) 
+worldedit.listchunks                                                                     # (OP only: true) 
+worldedit.navigation.ascend                                                              # (OP only: true) 
+worldedit.navigation.ceiling                                                             # (OP only: true) 
+worldedit.navigation.descend                                                             # (OP only: true) 
+worldedit.navigation.jumpto.command                                                      # (OP only: true) 
+worldedit.navigation.thru.command                                                        # (OP only: true) 
+worldedit.navigation.unstuck                                                             # (OP only: true) 
+worldedit.navigation.up                                                                  # (OP only: true) 
+worldedit.regen                                                                          # (OP only: true) 
+worldedit.region.center                                                                  # (OP only: true) 
+worldedit.region.curve                                                                   # (OP only: true) 
+worldedit.region.deform                                                                  # (OP only: true) 
+worldedit.region.faces                                                                   # (OP only: true) 
+worldedit.region.flora                                                                   # (OP only: true) 
+worldedit.region.forest                                                                  # (OP only: true) 
+worldedit.region.hollow                                                                  # (OP only: true) 
+worldedit.region.line                                                                    # (OP only: true) 
+worldedit.region.move                                                                    # (OP only: true) 
+worldedit.region.naturalize                                                              # (OP only: true) 
+worldedit.region.overlay                                                                 # (OP only: true) 
+worldedit.region.replace                                                                 # (OP only: true) 
+worldedit.region.set                                                                     # (OP only: true) 
+worldedit.region.smooth                                                                  # (OP only: true) 
+worldedit.region.stack                                                                   # (OP only: true) 
+worldedit.region.walls                                                                   # (OP only: true) 
+worldedit.remove                                                                         # (OP only: true) 
+worldedit.removeabove                                                                    # (OP only: true) 
+worldedit.removebelow                                                                    # (OP only: true) 
+worldedit.removenear                                                                     # (OP only: true) 
+worldedit.replacenear                                                                    # (OP only: true) 
+worldedit.scripting.execute                                                              # (OP only: true) 
+worldedit.selection.chunk                                                                # (default: true) 
+worldedit.selection.contract                                                             # (default: true) 
+worldedit.selection.expand                                                               # (default: true) 
+worldedit.selection.hpos                                                                 # (default: true) 
+worldedit.selection.inset                                                                # (default: true) 
+worldedit.selection.outset                                                               # (default: true) 
+worldedit.selection.pos                                                                  # (default: true) 
+worldedit.selection.shift                                                                # (default: true) 
+worldedit.selection.size                                                                 # (default: true) 
+worldedit.snapshots.restore                                                              # (OP only: true) 
+worldedit.snow                                                                           # (OP only: true) 
+worldedit.superpickaxe                                                                   # (OP only: true) 
+worldedit.thaw                                                                           # (OP only: true) 
+worldedit.tool.data-cycler                                                               # (OP only: true) 
+worldedit.tool.deltree                                                                   # (OP only: true) 
+worldedit.tool.farwand                                                                   # (OP only: true) 
+worldedit.tool.flood-fill                                                                # (OP only: true) 
+worldedit.tool.info                                                                      # (OP only: true) 
+worldedit.tool.lrbuild                                                                   # (OP only: true) 
+worldedit.tool.replacer                                                                  # (OP only: true) 
+worldedit.tool.tree                                                                      # (OP only: true) 
+worldedit.wand                                                                           # (OP only: true) 
+worldedit.wand.toggle                                                                    # (OP only: true) 

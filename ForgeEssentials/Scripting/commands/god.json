@@ -1,0 +1,35 @@
+{
+  "name": "god",
+  "usage": "/god on|off [player]",
+  "extraPermissions": {
+    "fe.commands.god": "OP"
+  },
+  "permissionLevel": "TRUE",
+  "patterns": {
+    "": [
+      "echo Usage: /god on|off [player]"
+    ],
+    "off @p": [
+      "permcheck fe.commands.god.others",
+      "permset user @0 clear fe.protection.damageby.*",
+      "echo God mode turned OFF for @0"
+    ],
+    "off": [
+      "permset user @player clear fe.protection.damageby.*",
+      "echo God mode OFF"
+    ],
+    "on @p": [
+      "permcheck fe.commands.god.others",
+      "permset user @0 deny fe.protection.damageby.*",
+      "$*/heal @0",
+      "echo God mode turned ON for @0"
+    ],
+    "on": [
+      "permcheck fe.commands.god",
+      "permset user @player deny fe.protection.damageby.*",
+      "$*/heal @player",
+      "echo God mode ON"
+    ]
+  },
+  "aliases": []
+}
