@@ -1,0 +1,464 @@
+
+{
+    "blocks":
+    [
+        {
+            "name": "Andesite Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log", 
+	    "maxStackSize":32,     
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleAndesite",
+                "ypos":"CircleAndesite",
+                "zneg":"PAndesiteSide",
+                "zpos":"PAndesiteSide",
+                "xneg":"PAndesiteSide",
+                "xpos":"PAndesiteSide"
+            }
+        },
+
+        {
+            "name": "Basalt Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log", 
+	    "maxStackSize":32,     
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleBasalt",
+                "ypos":"CircleBasalt",
+                "zneg":"PBasaltSide",
+                "zpos":"PBasaltSide",
+                "xneg":"PBasaltSide",
+                "xpos":"PBasaltSide"
+            }
+        },
+
+        {
+            "name": "Chalk Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log", 
+	    "maxStackSize":32,     
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleChalk",
+                "ypos":"CircleChalk",
+                "zneg":"PChalkSide",
+                "zpos":"PChalkSide",
+                "xneg":"PChalkSide",
+                "xpos":"PChalkSide"
+            }
+        },
+
+        {
+            "name": "Chert Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log", 
+	    "maxStackSize":32,     
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleChert",
+                "ypos":"CircleChert",
+                "zneg":"PChertSide",
+                "zpos":"PChertSide",
+                "xneg":"PChertSide",
+                "xpos":"PChertSide"
+            }
+        },
+
+        {
+            "name": "Claystone Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log", 
+	    "maxStackSize":32,     
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleClaystone",
+                "ypos":"CircleClaystone",
+                "zneg":"PClaystoneSide",
+                "zpos":"PClaystoneSide",
+                "xneg":"PClaystoneSide",
+                "xpos":"PClaystoneSide"
+            }
+        },
+
+        {
+            "name": "Conglomerate Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log", 
+	    "maxStackSize":32,     
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleConglomerate",
+                "ypos":"CircleConglomerate",
+                "zneg":"PConglomerateSide",
+                "zpos":"PConglomerateSide",
+                "xneg":"PConglomerateSide",
+                "xpos":"PConglomerateSide"
+            }
+        },
+
+        {
+            "name": "Dacite Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log", 
+	    "maxStackSize":32,     
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleDacite",
+                "ypos":"CircleDacite",
+                "zneg":"PDaciteSide",
+                "zpos":"PDaciteSide",
+                "xneg":"PDaciteSide",
+                "xpos":"PDaciteSide"
+            }
+        },
+
+        {
+            "name": "Diorite Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log", 
+	    "maxStackSize":32,     
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleDiorite",
+                "ypos":"CircleDiorite",
+                "zneg":"PDioriteSide",
+                "zpos":"PDioriteSide",
+                "xneg":"PDioriteSide",
+                "xpos":"PDioriteSide"
+            }
+        },
+
+        {
+            "name": "Dolomite Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log", 
+	    "maxStackSize":32,     
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleDolomite",
+                "ypos":"CircleDolomite",
+                "zneg":"PDolomiteSide",
+                "zpos":"PDolomiteSide",
+                "xneg":"PDolomiteSide",
+                "xpos":"PDolomiteSide"
+            }
+        },
+
+        {
+            "name": "Gabbro Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log", 
+	    "maxStackSize":32,     
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleGabbro",
+                "ypos":"CircleGabbro",
+                "zneg":"PGabbroSide",
+                "zpos":"PGabbroSide",
+                "xneg":"PGabbroSide",
+                "xpos":"PGabbroSide"
+            }
+        },
+
+        {
+            "name": "Gneiss Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log", 
+	    "maxStackSize":32,     
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleGneiss",
+                "ypos":"CircleGneiss",
+                "zneg":"PGneissSide",
+                "zpos":"PGneissSide",
+                "xneg":"PGneissSide",
+                "xpos":"PGneissSide"
+            }
+        },
+
+        {
+            "name": "Granite Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log", 
+	    "maxStackSize":32,     
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleGranite",
+                "ypos":"CircleGranite",
+                "zneg":"PGraniteSide",
+                "zpos":"PGraniteSide",
+                "xneg":"PGraniteSide",
+                "xpos":"PGraniteSide"
+            }
+        },
+
+        {
+            "name": "Limestone Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log", 
+	    "maxStackSize":32,     
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleLimestone",
+                "ypos":"CircleLimestone",
+                "zneg":"PLimestoneSide",
+                "zpos":"PLimestoneSide",
+                "xneg":"PLimestoneSide",
+                "xpos":"PLimestoneSide"
+            }
+        },
+
+        {
+            "name": "Marble Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log",
+            "resistance": 40, 
+	    "maxStackSize":32,     
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleMarble",
+                "ypos":"CircleMarble",
+                "zneg":"PMarbleSide",
+                "zpos":"PMarbleSide",
+                "xneg":"PMarbleSide",
+                "xpos":"PMarbleSide"
+            }
+        },
+
+        {
+            "name": "Phyllite Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log",
+            "resistance": 40, 
+	    "maxStackSize":32,     
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CirclePhyllite",
+                "ypos":"CirclePhyllite",
+                "zneg":"PPhylliteSide",
+                "zpos":"PPhylliteSide",
+                "xneg":"PPhylliteSide",
+                "xpos":"PPhylliteSide"
+            }
+        },
+
+        {
+            "name": "Rhyolite Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log",
+            "resistance": 40, 
+	    "maxStackSize":32,     
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleRhyolite",
+                "ypos":"CircleRhyolite",
+                "zneg":"PRhyoliteSide",
+                "zpos":"PRhyoliteSide",
+                "xneg":"PRhyoliteSide",
+                "xpos":"PRhyoliteSide"
+            }
+        },
+
+        {
+            "name": "Quartzite Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log",
+            "resistance": 40, 
+	    "maxStackSize":32,     
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleQuartzite",
+                "ypos":"CircleQuartzite",
+                "zneg":"PQuartziteSide",
+                "zpos":"PQuartziteSide",
+                "xneg":"PQuartziteSide",
+                "xpos":"PQuartziteSide"
+            }
+        },
+
+        {
+            "name": "Rock Salt Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log",
+            "resistance": 40, 
+	    "maxStackSize":32,     
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleSalt",
+                "ypos":"CircleSalt",
+                "zneg":"PSaltSide",
+                "zpos":"PSaltSide",
+                "xneg":"PSaltSide",
+                "xpos":"PSaltSide"
+            }
+        },
+
+        {
+            "name": "Shale Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log", 
+	    "maxStackSize":32,     
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleShale",
+                "ypos":"CircleShale",
+                "zneg":"PShaleSide",
+                "zpos":"PShaleSide",
+                "xneg":"PShaleSide",
+                "xpos":"PShaleSide"
+            }
+        },
+ {
+            "name": "Schist Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log", 
+	    "maxStackSize":32,     
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleSchist",
+                "ypos":"CircleSchist",
+                "zneg":"PSchistSide",
+                "zpos":"PSchistSide",
+                "xneg":"PSchistSide",
+                "xpos":"PSchistSide"
+            }
+        },
+
+        {
+            "name": "Slate Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log", 
+	    "maxStackSize":32,     
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleSlate",
+                "ypos":"CircleSlate",
+                "zneg":"PSlateSide",
+                "zpos":"PSlateSide",
+                "xneg":"PSlateSide",
+                "xpos":"PSlateSide"
+            }
+        },
+
+ {
+            "name": "Serpentine Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "toolClass":"pickaxe", 
+	    "maxStackSize":32,             
+            "multipleTextures":{
+                "yneg":"CircleSerpentine",
+                "ypos":"CircleSerpentine",
+                "zneg":"PSerpentineSide",
+                "zpos":"PSerpentineSide",
+                "xneg":"PSerpentineSide",
+                "xpos":"PSerpentineSide"
+            }
+        },
+
+ {
+            "name": "Jet Pillar",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+	    "type": "Log",
+            "resistance": 40,
+            "harvestLevel": 0, 
+	    "maxStackSize":32,     
+	    "toolClass":"pickaxe",              
+            "multipleTextures":{
+                "yneg":"CircleJet",
+                "ypos":"CircleJet",
+                "zneg":"PJetSide",
+                "zpos":"PJetSide",
+                "xneg":"PJetSide",
+                "xpos":"PJetSide"
+            }
+        }
+    ]
+}

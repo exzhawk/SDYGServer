@@ -1,0 +1,89 @@
+
+{
+    "blocks":
+    [
+        {
+            "name": "Serpentine Cobblestone",              
+            "material": "rock", 
+		"type":"Falling",
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Serpentine_Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+
+{
+            "name": "Smooth Serpentine",              
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Serpentine_Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+
+{
+            "name": "Serpentine Bricks",              
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Serpentine_Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+
+
+
+
+{
+            "name": "Jet Cobblestone",              
+            "material": "rock", 
+		"type":"Falling",
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Jet_Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+
+{
+            "name": "Smooth Jet",              
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Jet_Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+
+{
+            "name": "Jet Bricks",              
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Jet_Brick",
+	    "toolClass":"pickaxe"            
+
+        }
+       
+    ]
+}

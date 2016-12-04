@@ -1,0 +1,15 @@
+{
+    "items":
+    [
+        {
+            "name":"Jet Brick",
+            "textureName":"JetBrick",
+            "creativeTab":"Therighthon's TFC addon"
+        },
+        {
+            "name":"Serpentine Brick",
+            "textureName":"SerpentineBrick",
+            "creativeTab":"Therighthon's TFC addon"
+        }
+    ]
+}
