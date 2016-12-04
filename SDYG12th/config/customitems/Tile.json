@@ -1,0 +1,287 @@
+
+{
+    "blocks":
+    [
+        {
+            "name": "Andesite Tile",              
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "AndesiteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+
+        {
+            "name": "Basalt Tile",              
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BasaltTile",
+	    "toolClass":"pickaxe"            
+
+        },
+
+        {
+            "name": "Chalk Tile",              
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "ChalkTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chert Tile",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "ChertTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Claystone Tile",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "ClaystoneTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Conglomerate Tile",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0, 
+	    "maxStackSize":32,     
+	    "textureName": "ConglomerateTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dacite Tile",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "DaciteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Diorite Tile",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "DioriteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dolomite Tile",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "DolomiteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gabbro Tile",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "GabbroTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gneiss Tile",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "GneissTile",
+	    "toolClass":"pickaxe"            
+
+        },
+
+        {
+            "name": "Granite Tile",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "GraniteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Limestone Tile",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "LimestoneTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Marble Tile",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "MarbleTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Phyllite Tile",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "PhylliteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Quartzite Tile",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "QuartziteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rhyolite Tile",              
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "RhyoliteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+
+        {
+            "name": "Rock Salt Tile",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SaltTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Schist Tile",              
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SchistTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Shale Tile",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "ShaleTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Slate Tile",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SlateTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Jet Tile",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "JetTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Serpentine Tile",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SerpentineTile",
+	    "toolClass":"pickaxe"            
+
+        }
+       
+    ]
+}

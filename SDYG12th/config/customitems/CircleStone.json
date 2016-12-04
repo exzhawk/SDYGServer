@@ -1,0 +1,287 @@
+
+{
+    "blocks":
+    [
+        {
+            "name": "Circle Andesite",              
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleAndesite",
+	    "toolClass":"pickaxe"            
+
+        },
+
+        {
+            "name": "Circle Basalt",              
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleBasalt",
+	    "toolClass":"pickaxe"            
+
+        },
+
+        {
+            "name": "Circle Chalk",              
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleChalk",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Chert",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleChert",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Claystone",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleClaystone",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Conglomerate",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0, 
+	    "maxStackSize":32,     
+	    "textureName": "CircleConglomerate",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Dacite",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleDacite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Diorite",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleDiorite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Dolomite",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleDolomite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Gabbro",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleGabbro",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Gneiss",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleGneiss",
+	    "toolClass":"pickaxe"            
+
+        },
+
+        {
+            "name": "Circle Granite",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleGranite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Limestone",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleLimestone",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Marble",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleMarble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Phyllite",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CirclePhyllite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Quartzite",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleQuartzite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Rhyolite",              
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleRhyolite",
+	    "toolClass":"pickaxe"            
+
+        },
+
+        {
+            "name": "Circle Rock Salt",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleSalt",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Schist",              
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleSchist",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Shale",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleShale",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Slate",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleSlate",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Jet",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleJet",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Serpentine",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleSerpentine",
+	    "toolClass":"pickaxe"            
+
+        }
+       
+    ]
+}
