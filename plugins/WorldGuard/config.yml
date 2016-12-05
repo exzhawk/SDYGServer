@@ -112,7 +112,7 @@ mobs:
     block-above-ground-slimes: false
     block-other-explosions: false
     block-zombie-door-destruction: false
-    block-creature-spawn: ["mod_ecru_MapleTree.ecru_EntityMomiji"]
+    block-creature-spawn: [mod_ecru_MapleTree.ecru_EntityMomiji,ecru_EntityMomiji,ECRU_ENTITYMOMIJI]
 player-damage:
     disable-fall-damage: false
     disable-lava-damage: false
