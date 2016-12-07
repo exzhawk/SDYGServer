@@ -229,6 +229,29 @@
 			-34
         ]	
 	
+	},
+	"am2": {
+        "template": "uniform",
+        "block": {"name": "arsmagica2:liquidEssense", "metadata": 0},
+		"material": "minecraft:stone",		
+        "clusterSize": 16,
+        "numClusters": 64,
+        "minHeight": 1,
+        "maxHeight": 255,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -30,
+            -31,
+			-32,
+			-33,
+			-34
+        ]	
+	
 	}
 	
 }
