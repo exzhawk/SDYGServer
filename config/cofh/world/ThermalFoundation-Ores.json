@@ -232,7 +232,7 @@
 	},
 	"am2": {
         "template": "uniform",
-        "block": {"name": "arsmagica2:liquidEssense", "metadata": 0},
+        "block": {"name": "arsmagica2:liquidEssence", "metadata": 0},
 		"material": "minecraft:stone",		
         "clusterSize": 16,
         "numClusters": 64,
