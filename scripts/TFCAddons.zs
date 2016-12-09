@@ -61,7 +61,7 @@ recipes.removeShaped(<minecraft:chest>);
 
 recipes.addShapeless(<ThermalFoundation:material>,[<tfcm:item.IronDust>,<tfcm:item.IronDust>,<tfcm:item.IronDust>,<tfcm:item.IronDust>,<tfcm:item.IronDust>,<tfcm:item.IronDust>,<tfcm:item.IronDust>,<tfcm:item.IronDust>,<tfcm:item.IronDust>]);
 recipes.addShapeless(<minecraft:blaze_rod>,[<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>]);
-recipes.addShapeless(<minecraft:glass_bottle>,[<ore:blockGlass>,<ore:itemChisel>]);
+recipes.addShapeless(<minecraft:glass_bottle>,[<ore:blockGlass>,<ore:itemChisel>.transformDamage(0)]);
 recipes.addShapeless(<ImmersiveEngineering:storage:7>,[<ore:blockSteel>]);
 
 
