@@ -237,6 +237,7 @@
 	"material": "minecraft:stone",		
         "clusterSize": 16,
         "numClusters": 1,
+	"chunkChance": 16,
         "minHeight": 1,
         "maxHeight": 255,
         "retrogen": "true",
