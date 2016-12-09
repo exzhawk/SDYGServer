@@ -231,11 +231,12 @@
 	
 	},
 	"am2": {
-        "template": "uniform",
+        "template": {"type":"uniform",
+		    "generator":"lake"},
         "block": {"name": "arsmagica2:liquidEssence", "metadata": 0},
-		"material": "minecraft:stone",		
+	"material": "minecraft:stone",		
         "clusterSize": 16,
-        "numClusters": 64,
+        "numClusters": 1,
         "minHeight": 1,
         "maxHeight": 255,
         "retrogen": "true",
