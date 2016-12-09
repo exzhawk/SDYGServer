@@ -75,3 +75,39 @@ for i, logs in TFCLogs {
 	var planks = TFCPlanks[i];
 	mods.thermalexpansion.Sawmill.addRecipe(1600, logs, planks * 16, <ThermalExpansion:material:512>, 100);
 }
+
+
+
+//Phytogenic Insolator
+//InputRF, InputStack1, InputStack2, OutputStack1, OutputStack2, Chance
+mods.thermalexpansion.Insolator.addRecipe(7200, <ThermalExpansion:material:516>, <terrafirmacraft:Flowers:0>, <terrafirmacraft:Flowers:0> * 2, <terrafirmacraft:Flowers:0>, 50);
+mods.thermalexpansion.Insolator.addRecipe(9600, <ThermalExpansion:material:517>, <terrafirmacraft:Flowers:0>, <terrafirmacraft:Flowers:0> * 5, <terrafirmacraft:Flowers:0> * 2, 50);
+mods.thermalexpansion.Insolator.addRecipe(7200, <ThermalExpansion:material:516>, <terrafirmacraft:Flowers:1>, <terrafirmacraft:Flowers:1> * 2, <terrafirmacraft:Flowers:1>, 50);
+mods.thermalexpansion.Insolator.addRecipe(9600, <ThermalExpansion:material:517>, <terrafirmacraft:Flowers:1>, <terrafirmacraft:Flowers:1> * 5, <terrafirmacraft:Flowers:1> * 2, 50);
+mods.thermalexpansion.Insolator.addRecipe(7200, <ThermalExpansion:material:516>, <terrafirmacraft:Flowers:2>, <terrafirmacraft:Flowers:2> * 2, <terrafirmacraft:Flowers:2>, 50);
+mods.thermalexpansion.Insolator.addRecipe(9600, <ThermalExpansion:material:517>, <terrafirmacraft:Flowers:2>, <terrafirmacraft:Flowers:2> * 5, <terrafirmacraft:Flowers:2> * 2, 50);
+mods.thermalexpansion.Insolator.addRecipe(7200, <ThermalExpansion:material:516>, <terrafirmacraft:Flowers:3>, <terrafirmacraft:Flowers:3> * 2, <terrafirmacraft:Flowers:3>, 50);
+mods.thermalexpansion.Insolator.addRecipe(9600, <ThermalExpansion:material:517>, <terrafirmacraft:Flowers:3>, <terrafirmacraft:Flowers:3> * 5, <terrafirmacraft:Flowers:3> * 2, 50);
+mods.thermalexpansion.Insolator.addRecipe(7200, <ThermalExpansion:material:516>, <terrafirmacraft:Flowers:4>, <terrafirmacraft:Flowers:4> * 2, <terrafirmacraft:Flowers:4>, 50);
+mods.thermalexpansion.Insolator.addRecipe(9600, <ThermalExpansion:material:517>, <terrafirmacraft:Flowers:4>, <terrafirmacraft:Flowers:4> * 5, <terrafirmacraft:Flowers:4> * 2, 50);
+mods.thermalexpansion.Insolator.addRecipe(7200, <ThermalExpansion:material:516>, <terrafirmacraft:Flowers:5>, <terrafirmacraft:Flowers:5> * 2, <terrafirmacraft:Flowers:5>, 50);
+mods.thermalexpansion.Insolator.addRecipe(9600, <ThermalExpansion:material:517>, <terrafirmacraft:Flowers:5>, <terrafirmacraft:Flowers:5> * 5, <terrafirmacraft:Flowers:5> * 2, 50);
+
+mods.thermalexpansion.Insolator.addRecipe(7200, <ThermalExpansion:material:516>, <terrafirmacraft:Flowers2:0>, <terrafirmacraft:Flowers2:0> * 2, <terrafirmacraft:Flowers2:0>, 50);
+mods.thermalexpansion.Insolator.addRecipe(9600, <ThermalExpansion:material:517>, <terrafirmacraft:Flowers2:0>, <terrafirmacraft:Flowers2:0> * 5, <terrafirmacraft:Flowers2:0> * 2, 50);
+mods.thermalexpansion.Insolator.addRecipe(7200, <ThermalExpansion:material:516>, <terrafirmacraft:Flowers2:1>, <terrafirmacraft:Flowers2:1> * 2, <terrafirmacraft:Flowers2:1>, 50);
+mods.thermalexpansion.Insolator.addRecipe(9600, <ThermalExpansion:material:517>, <terrafirmacraft:Flowers2:1>, <terrafirmacraft:Flowers2:1> * 5, <terrafirmacraft:Flowers2:1> * 2, 50);
+mods.thermalexpansion.Insolator.addRecipe(7200, <ThermalExpansion:material:516>, <terrafirmacraft:Flowers2:2>, <terrafirmacraft:Flowers2:2> * 2, <terrafirmacraft:Flowers2:2>, 50);
+mods.thermalexpansion.Insolator.addRecipe(9600, <ThermalExpansion:material:517>, <terrafirmacraft:Flowers2:2>, <terrafirmacraft:Flowers2:2> * 5, <terrafirmacraft:Flowers2:2> * 2, 50);
+mods.thermalexpansion.Insolator.addRecipe(7200, <ThermalExpansion:material:516>, <terrafirmacraft:Flowers2:3>, <terrafirmacraft:Flowers2:3> * 2, <terrafirmacraft:Flowers2:3>, 50);
+mods.thermalexpansion.Insolator.addRecipe(9600, <ThermalExpansion:material:517>, <terrafirmacraft:Flowers2:3>, <terrafirmacraft:Flowers2:3> * 5, <terrafirmacraft:Flowers2:3> * 2, 50);
+mods.thermalexpansion.Insolator.addRecipe(7200, <ThermalExpansion:material:516>, <terrafirmacraft:Flowers2:4>, <terrafirmacraft:Flowers2:4> * 2, <terrafirmacraft:Flowers2:4>, 50);
+mods.thermalexpansion.Insolator.addRecipe(9600, <ThermalExpansion:material:517>, <terrafirmacraft:Flowers2:4>, <terrafirmacraft:Flowers2:4> * 5, <terrafirmacraft:Flowers2:4> * 2, 50);
+mods.thermalexpansion.Insolator.addRecipe(7200, <ThermalExpansion:material:516>, <terrafirmacraft:Flowers2:5>, <terrafirmacraft:Flowers2:5> * 2, <terrafirmacraft:Flowers2:5>, 50);
+mods.thermalexpansion.Insolator.addRecipe(9600, <ThermalExpansion:material:517>, <terrafirmacraft:Flowers2:5>, <terrafirmacraft:Flowers2:5> * 5, <terrafirmacraft:Flowers2:5> * 2, 50);
+mods.thermalexpansion.Insolator.addRecipe(7200, <ThermalExpansion:material:516>, <terrafirmacraft:Flowers2:6>, <terrafirmacraft:Flowers2:6> * 2, <terrafirmacraft:Flowers2:6>, 50);
+mods.thermalexpansion.Insolator.addRecipe(9600, <ThermalExpansion:material:517>, <terrafirmacraft:Flowers2:6>, <terrafirmacraft:Flowers2:6> * 5, <terrafirmacraft:Flowers2:6> * 2, 50);
+mods.thermalexpansion.Insolator.addRecipe(7200, <ThermalExpansion:material:516>, <terrafirmacraft:Flowers2:7>, <terrafirmacraft:Flowers2:7> * 2, <terrafirmacraft:Flowers2:7>, 50);
+mods.thermalexpansion.Insolator.addRecipe(9600, <ThermalExpansion:material:517>, <terrafirmacraft:Flowers2:7>, <terrafirmacraft:Flowers2:7> * 5, <terrafirmacraft:Flowers2:7> * 2, 50);
+mods.thermalexpansion.Insolator.addRecipe(7200, <ThermalExpansion:material:516>, <terrafirmacraft:Flowers2:8>, <terrafirmacraft:Flowers2:8> * 2, <terrafirmacraft:Flowers2:8>, 50);
+mods.thermalexpansion.Insolator.addRecipe(9600, <ThermalExpansion:material:517>, <terrafirmacraft:Flowers2:8>, <terrafirmacraft:Flowers2:8> * 5, <terrafirmacraft:Flowers2:8> * 2, 50);

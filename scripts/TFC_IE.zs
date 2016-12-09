@@ -4,7 +4,7 @@ import mods.immersiveengineering.Crusher;
 import mods.immersiveengineering.Squeezer;
 import mods.immersiveengineering.Fermenter;
 import mods.immersiveengineering.BottlingMachine;
-
+import mods.immersiveengineering.Refinery;
 
 recipes.addShaped(<ImmersiveEngineering:graphiteElectrode>,[[null,<tfcudarymod:item.Carbon Rod>,<tfcudarymod:item.Carbon Rod>],
 										[<tfcudarymod:item.Carbon Rod>,<ore:dustGraphite>,<tfcudarymod:item.Carbon Rod>],
@@ -67,3 +67,14 @@ mods.immersiveengineering.BlastFurnace.removeRecipe(<ImmersiveEngineering:storag
 mods.immersiveengineering.BlastFurnace.removeRecipe(<ImmersiveEngineering:metal:7>);
 
 mods.immersiveengineering.BlastFurnace.addRecipe(<terrafirmacraft:item.Steel Ingot>, <terrafirmacraft:item.Pig Iron Ingot>, 600, <ImmersiveEngineering:material:13>);
+
+
+
+//Bottling Machine
+//OutputStack, InputStack, InputFluid
+mods.immersiveengineering.BottlingMachine.addRecipe(<Railcraft:part.tie>, <ore:woodLumber>, <liquid:creosote> * 1000);
+
+
+//Refinery
+//OutputFluid, InputFluid1, InputFluid2
+mods.immersiveengineering.Refinery.addRecipe(<liquid:saltwater> * 200, <liquid:saltwater> * 160, <liquid:brine> * 40);

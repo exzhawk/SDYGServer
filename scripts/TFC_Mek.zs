@@ -1,6 +1,8 @@
 import minetweaker.item.IItemStack;
 import mods.mekanism.Crusher;
 import mods.mekanism.Infuser;
+//import mods.mekanism.SolarEvaporation;
+
 
 val salt = <ore:oreSalt>;
 var rockSalt = [<customitems:rock_salt_tile>,<customitems:rock_salt_pillar>,<customitems:rock_salt_fancy_tile>,<customitems:circle_rock_salt>,<terrafirmacraft:StoneSed:2>,<terrafirmacraft:StoneSedCobble:2>,<terrafirmacraft:StoneSedSmooth:2>,<terrafirmacraft:StoneSedBrick:2>,<terrafirmacraft:Dirt:5>,<terrafirmacraft:Sand:5>,<terrafirmacraft:Clay:5>,<terrafirmacraft:Gravel:5>,<tfcm:blockRoadSed:2>] as IItemStack[];
@@ -138,3 +140,9 @@ mods.mekanism.Crusher.addRecipe(<terrafirmacraft:item.Ore:23>,<minecraft:blaze_p
 //OutputStack, InputStack, InfusionString
 
 mods.mekanism.Infuser.removeRecipe(<Mekanism:OtherDust:1>);
+
+
+//Solar Evaporation
+//InputFluid, OutputFluid
+//mods.mekanism.SolarEvaporation.addRecipe(<liquid:saltwater>, <liquid:brine>);
+
