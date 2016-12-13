@@ -36,3 +36,10 @@ recipes.remove(<arsmagica2:Summoner>);
 mods.thaumcraft.Infusion.addRecipe("INFUSION", <arsmagica2:vinteumOre:6>, [<minecraft:gold_block>,<minecraft:gold_block>,<minecraft:gold_block>,<minecraft:gold_block>, <minecraft:obsidian>, <minecraft:obsidian>, <minecraft:obsidian>, <minecraft:obsidian>], "spiritus 16, limus 6, fames 8, tofu 32", <arsmagica2:Summoner>, 3);
 
 
+//Essentials
+mods.thaumcraft.Infusion.addRecipe("INFUSION", <minecraft:stone>, [<Magneticraft:item.dustdiamond>,<arsmagica2:itemOre:5>,<Magneticraft:item.dustdiamond>,<arsmagica2:itemOre:5>,<Magneticraft:item.dustdiamond>,<arsmagica2:itemOre:5>], "perfodio 16, praecantatio 16, permutatio 6, tofu 8", <arsmagica2:vinteumOre:3>, 5);
+mods.thaumcraft.Infusion.addRecipe("INFUSION", <Botania:flower:9>, [<arsmagica2:itemOre>,<arsmagica2:itemOre:5>,<arsmagica2:itemOre>,<arsmagica2:itemOre:5>,<arsmagica2:itemOre>,<arsmagica2:itemOre:5>], "aqua 16, tofu 8", <arsmagica2:blueOrchid>, 0);
+mods.thaumcraft.Infusion.addRecipe("INFUSION", <Botania:flower:14>, [<arsmagica2:itemOre>,<arsmagica2:itemOre:6>,<arsmagica2:itemOre>,<arsmagica2:itemOre:6>,<arsmagica2:itemOre>,<arsmagica2:itemOre:6>], "ignis 16, tofu 8", <arsmagica2:desertNova>, 0);
+mods.thaumcraft.Infusion.addRecipe("INFUSION", <Botania:flower:13>, [<arsmagica2:itemOre>,<arsmagica2:itemOre:4>,<arsmagica2:itemOre>,<arsmagica2:itemOre:4>,<arsmagica2:itemOre>,<arsmagica2:itemOre:4>], "terra 16, tofu 8", <arsmagica2:Aum>, 0);
+mods.thaumcraft.Infusion.addRecipe("INFUSION", <Botania:flower:12>, [<arsmagica2:itemOre>,<arsmagica2:itemOre:7>,<arsmagica2:itemOre>,<arsmagica2:itemOre:7>,<arsmagica2:itemOre>,<arsmagica2:itemOre:7>], "aer 16, tofu 8", <arsmagica2:TarmaRoot>, 0);
+
