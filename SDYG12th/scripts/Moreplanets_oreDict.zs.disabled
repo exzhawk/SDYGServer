@@ -1,0 +1,18 @@
+#================================================Quontonium================================================
+val Quontonium_Ore = <ore:oreQuontonium>;
+val Quontonium_Ingot = <ore:ingotQuontonium>;
+val Quontonium_Block = <ore:blockQuontonium>;
+val Quontonium_Stick = <ore:stickQuontonium>;
+val Compressed_Quontonium = <ore:compressedQuontonium>;
+#
+Quontonium_Ore.add(<MorePlanet:diona_block:4>);
+Quontonium_Ingot.add(<MorePlanet:diona_item:0>);
+Quontonium_Block.add(<MorePlanet:diona_block:10>);
+Quontonium_Stick.add(<MorePlanet:diona_item:10>);
+Compressed_Quontonium.add(<MorePlanet:diona_item:2>);
+#
+#================================================Ilmenite================================================
+val Ilmenite_Ore = <ore:oreIlmenite>;
+#
+Ilmenite_Ore.add(<GalacticraftMars:tile.asteroidsBlock:4>);
+#
