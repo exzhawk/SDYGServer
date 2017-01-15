@@ -10,6 +10,9 @@ recipes.addShaped(<ImmersiveEngineering:graphiteElectrode>,[[null,<tfcudarymod:i
 										[<tfcudarymod:item.Carbon Rod>,<ore:dustGraphite>,<tfcudarymod:item.Carbon Rod>],
 										[<tfcudarymod:item.Carbon Rod>,<tfcudarymod:item.Carbon Rod>,null]]);
 
+recipes.addShaped(<ImmersiveEngineering:material:4>,[[null,<terrafirmacraft:item.Jute Fibre>,null],
+										[<terrafirmacraft:item.Jute Fibre>,<ore:stickWood>,<terrafirmacraft:item.Jute Fibre>],
+										[null,<terrafirmacraft:item.Jute Fibre>,null]]);										
 
 ///Alloying
 //OutputStack, InputStack, SlagOutput, Time in Ticks, Energy per Tick, !AdditiveArray!, !RecipeTypeString! //Either create your own NEI pages with custom strings or use original ones
