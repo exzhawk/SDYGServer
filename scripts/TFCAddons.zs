@@ -76,8 +76,8 @@ recipes.addShapeless(<minecraft:crafting_table>,[<ore:craftingTableWood>]);
 recipes.addShapeless(<minecraft:snowball>,[<ore:itemSnowball>]);
 recipes.addShapeless(<minecraft:clay_ball>,[<terrafirmacraft:item.Clay>]);
 recipes.addShapeless(<terrafirmacraft:item.Clay>,[<minecraft:clay_ball>]);
-
-
+recipes.addShapeless(<minecraft:hardened_clay>,[<terrafirmastuff:clayStained2>]);
+recipes.addShapeless(<terrafirmastuff:clayStained2>,[<minecraft:hardened_clay>]);
 
 
 recipes.addShaped(<minecraft:redstone_lamp>, [[<ore:plateBismuth>, <ore:dustRedstone>, <ore:plateBismuth>], [<ore:dustRedstone>, <terrafirmacraft:item.Garnet:*>, <ore:dustRedstone>], [<ore:plateBismuth>, <ore:dustRedstone>, <ore:plateBismuth>]]);
