@@ -78,7 +78,8 @@ recipes.addShapeless(<minecraft:clay_ball>,[<terrafirmacraft:item.Clay>]);
 recipes.addShapeless(<terrafirmacraft:item.Clay>,[<minecraft:clay_ball>]);
 recipes.addShapeless(<minecraft:hardened_clay>,[<terrafirmastuff:clayStained2>]);
 recipes.addShapeless(<terrafirmastuff:clayStained2>,[<minecraft:hardened_clay>]);
-
+recipes.addShapeless(<minecraft:leather>,[<terrafirmacraft:item.TFC Leather>]);
+recipes.addShapeless(<terrafirmacraft:item.TFC Leather>,[<minecraft:leather>]);
 
 recipes.addShaped(<minecraft:redstone_lamp>, [[<ore:plateBismuth>, <ore:dustRedstone>, <ore:plateBismuth>], [<ore:dustRedstone>, <terrafirmacraft:item.Garnet:*>, <ore:dustRedstone>], [<ore:plateBismuth>, <ore:dustRedstone>, <ore:plateBismuth>]]);
 recipes.addShaped(<minecraft:redstone_lamp>, [[<ore:plateLead>, <ore:dustRedstone>, <ore:plateLead>], [<ore:dustRedstone>, <terrafirmacraft:item.Ruby:*>, <ore:dustRedstone>], [<ore:plateLead>, <ore:dustRedstone>, <ore:plateLead>]]);
