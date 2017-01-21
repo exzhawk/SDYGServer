@@ -1,6 +1,7 @@
 import minetweaker.item.IItemStack;
 import mods.mekanism.Crusher;
 import mods.mekanism.Infuser;
+import mods.mekanism.Enrichment;
 //import mods.mekanism.SolarEvaporation;
 
 
@@ -146,3 +147,8 @@ mods.mekanism.Infuser.removeRecipe(<Mekanism:OtherDust:1>);
 //InputFluid, OutputFluid
 //mods.mekanism.SolarEvaporation.addRecipe(<liquid:saltwater>, <liquid:brine>);
 
+
+//Enrichment Chamber
+//InputStack, OutputStack
+mods.mekanism.Enrichment.addRecipe(<terrafirmacraft:item.dyePowder:15>, <terrafirmacraft:item.Fertilizer>*2);
+mods.mekanism.Enrichment.addRecipe(<minecraft:dye:15>, <terrafirmacraft:item.Fertilizer>*2);
