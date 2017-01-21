@@ -14,6 +14,9 @@ bluestoneOre.add(<terrafirmacraft:item.Ore:28>);
 
 
 //ORE DICT
+val leather = <ore:itemLeather>;
+leather.add(<terrafirmacraft:item.TFC Leather>);
+
 val snowball = <ore:itemSnowball>;
 snowball.add(<minecraft:snowball>);
 
@@ -80,6 +83,8 @@ recipes.addShapeless(<minecraft:hardened_clay>,[<terrafirmastuff:clayStained2>])
 recipes.addShapeless(<terrafirmastuff:clayStained2>,[<minecraft:hardened_clay>]);
 recipes.addShapeless(<minecraft:leather>,[<terrafirmacraft:item.TFC Leather>]);
 recipes.addShapeless(<terrafirmacraft:item.TFC Leather>,[<minecraft:leather>]);
+recipes.addShapeless(<minecraft:leather>*2,[<ore:itemLeather>,<ore:itemLeather>]);
+
 
 recipes.addShaped(<minecraft:redstone_lamp>, [[<ore:plateBismuth>, <ore:dustRedstone>, <ore:plateBismuth>], [<ore:dustRedstone>, <terrafirmacraft:item.Garnet:*>, <ore:dustRedstone>], [<ore:plateBismuth>, <ore:dustRedstone>, <ore:plateBismuth>]]);
 recipes.addShaped(<minecraft:redstone_lamp>, [[<ore:plateLead>, <ore:dustRedstone>, <ore:plateLead>], [<ore:dustRedstone>, <terrafirmacraft:item.Ruby:*>, <ore:dustRedstone>], [<ore:plateLead>, <ore:dustRedstone>, <ore:plateLead>]]);
@@ -113,7 +118,7 @@ recipes.addShaped(<JABBA:barrel>,[[<ore:logWood>,<ore:woodLumber>,<ore:logWood>]
 
 //QUERN PROCESSING
 mods.Terrafirmacraft.Quern.addRecipe(<Railcraft:dust> * 2, <terrafirmacraft:item.Ore:24>);
-mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.Powder:8> * 2, <terrafirmacraft:item.Ore:30>);
+mods.Terrafirmacraft.Quern.addRecipe(<ProjRed|Core:projectred.core.part:12> * 2, <terrafirmacraft:item.Ore:30>);
 mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.Powder:8> * 2, <terrafirmacraft:item.Ore:33>);
 mods.Terrafirmacraft.Quern.addRecipe(<minecraft:quartz>, <terrafirmacraft:StoneMM>);
 mods.Terrafirmacraft.Quern.addRecipe(<minecraft:quartz>, <terrafirmacraft:StoneMMCobble>);

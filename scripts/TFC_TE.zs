@@ -50,7 +50,7 @@ mods.thermalexpansion.Smelter.removeRecipe(<ore:dustIron>, <ore:dustCoal>);
 //InputRF, InputStack, OutputStack1, OutputStack2, Chance
 
 mods.thermalexpansion.Pulverizer.addRecipe(10000, <terrafirmacraft:item.Ore:33>, <terrafirmacraft:item.Powder:8> * 4, <PortalGun:EnderPearlDust>, 20);
-mods.thermalexpansion.Pulverizer.addRecipe(10000, <terrafirmacraft:item.Ore:30>, <terrafirmacraft:item.Powder:8> * 4, <PortalGun:EnderPearlDust>, 40);
+mods.thermalexpansion.Pulverizer.addRecipe(10000, <terrafirmacraft:item.Ore:30>, <ProjRed|Core:projectred.core.part:12> * 4, <PortalGun:EnderPearlDust>, 40);
 mods.thermalexpansion.Pulverizer.addRecipe(10000, <terrafirmacraft:item.Ore:31>, <ThermalExpansion:material:516> * 4, <ThermalExpansion:material:517>, 50);
 mods.thermalexpansion.Pulverizer.addRecipe(12000, <terrafirmacraft:item.Ore:17>, <DecorationsTFC:item.Powders.Gypsum> * 8, <terrafirmacraft:item.Powder> * 4, 60);
 mods.thermalexpansion.Pulverizer.addRecipe(12000, <terrafirmacraft:item.Ore:18>, <DecorationsTFC:item.Powders.Gypsum> * 8, <minecraft:dye:15> * 4, 60);

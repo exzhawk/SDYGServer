@@ -61,6 +61,7 @@ recipes.remove(<ProjRed|Core:projectred.core.drawplate>);
 mods.immersiveengineering.MetalPress.addRecipe(<ProjRed|Core:projectred.core.part> * 8, <ore:platePlastic>, <ImmersiveEngineering:mold>, 1000, 1);
 mods.immersiveengineering.MetalPress.addRecipe(<ProjRed|Core:projectred.core.part> * 32, <tfcm:item.Circuit>, <ImmersiveEngineering:mold>, 100, 1);
 mods.immersiveengineering.MetalPress.addRecipe(<ProjRed|Core:projectred.core.drawplate> * 3, <ore:blockDiamond>, <ImmersiveEngineering:mold>, 10000, 1);
+mods.immersiveengineering.MetalPress.addRecipe(<ProjRed|Core:projectred.core.part:12> * 8, <ProjRed|Core:projectred.core.part:11>, <ImmersiveEngineering:mold>, 10000, 1);
 
 
 //Blast Furnace
