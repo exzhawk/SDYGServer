@@ -61,11 +61,14 @@ charcoall.add(<terrafirmacraft:item.coal:1>);
 
 ///RECIPES
 recipes.removeShaped(<minecraft:chest>);
+recipes.removeShaped(<minecraft:iron_bars>);
 
 recipes.addShapeless(<ThermalFoundation:material>,[<tfcm:item.IronDust>,<tfcm:item.IronDust>,<tfcm:item.IronDust>,<tfcm:item.IronDust>,<tfcm:item.IronDust>,<tfcm:item.IronDust>,<tfcm:item.IronDust>,<tfcm:item.IronDust>,<tfcm:item.IronDust>]);
 recipes.addShapeless(<minecraft:blaze_rod>,[<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>]);
 recipes.addShapeless(<minecraft:glass_bottle>,[<ore:blockGlass>,<ore:itemChisel>.transformDamage(0)]);
 recipes.addShapeless(<ImmersiveEngineering:storage:7>,[<ore:blockSteel>]);
+
+recipes.addShaped(<minecraft:iron_bars>*64,[[<ore:stickIron>,null,<ore:stickIron>],[<ore:stickIron>,<ore:stickIron>,<ore:stickIron>],[<ore:stickIron>,null,<ore:stickIron>]]);
 
 
 //vanilla conversion
