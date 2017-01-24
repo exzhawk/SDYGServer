@@ -2,6 +2,7 @@ import minetweaker.item.IItemStack;
 import mods.thermalexpansion.Smelter;
 import mods.thermalexpansion.Pulverizer;
 import mods.thermalexpansion.Sawmill;
+import mods.thermalexpansion.Transposer;
 
 //lists
 var TFCLogs = [<terrafirmacraft:item.Log:0>,<terrafirmacraft:item.Log:1>,<terrafirmacraft:item.Log:2>,<terrafirmacraft:item.Log:3>,<terrafirmacraft:item.Log:4>,<terrafirmacraft:item.Log:5>,<terrafirmacraft:item.Log:6>,<terrafirmacraft:item.Log:7>,<terrafirmacraft:item.Log:8>,<terrafirmacraft:item.Log:9>,<terrafirmacraft:item.Log:10>,<terrafirmacraft:item.Log:11>,<terrafirmacraft:item.Log:12>,<terrafirmacraft:item.Log:13>,<terrafirmacraft:item.Log:14>,<terrafirmacraft:item.Log:15>,<terrafirmacraft:item.Log:16>] as IItemStack[];
@@ -111,3 +112,10 @@ mods.thermalexpansion.Insolator.addRecipe(7200, <ThermalExpansion:material:516>,
 mods.thermalexpansion.Insolator.addRecipe(9600, <ThermalExpansion:material:517>, <terrafirmacraft:Flowers2:7>, <terrafirmacraft:Flowers2:7> * 5, <terrafirmacraft:Flowers2:7> * 2, 50);
 mods.thermalexpansion.Insolator.addRecipe(7200, <ThermalExpansion:material:516>, <terrafirmacraft:Flowers2:8>, <terrafirmacraft:Flowers2:8> * 2, <terrafirmacraft:Flowers2:8>, 50);
 mods.thermalexpansion.Insolator.addRecipe(9600, <ThermalExpansion:material:517>, <terrafirmacraft:Flowers2:8>, <terrafirmacraft:Flowers2:8> * 5, <terrafirmacraft:Flowers2:8> * 2, 50);
+
+//Fluid Transposer
+//InputRF, InputStack, OutputStack, InputFluid
+mods.thermalexpansion.Transposer.addFillRecipe(20000, <appliedenergistics2:item.ItemMultiMaterial:1>, <appliedenergistics2:item.ItemMultiMaterial>, <liquid:redstone> * 100);
+mods.thermalexpansion.Transposer.addFillRecipe(10000000, <ExtraUtilities:decorativeBlock1:1>, <appliedenergistics2:tile.BlockSkyStone>, <liquid:ender> * 1000);
+//InputRF, InputStack, InputFluid, OutputStack, Chance
+//mods.thermalexpansion.Transposer.addExtractRecipe(20000, <minecraft:leaves>, <liquid:water> * 50, <minecraft:stick>, 100);

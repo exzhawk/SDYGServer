@@ -6,6 +6,12 @@ import mods.immersiveengineering.Fermenter;
 import mods.immersiveengineering.BottlingMachine;
 import mods.immersiveengineering.Refinery;
 
+val qCertus = <ore:dustCertusQuartz>;
+qCertus.add(<ImmersiveEngineering:metal:18>);
+val qNether = <ore:dustNetherQuartz>;
+qNether.add(<ImmersiveEngineering:metal:18>);
+
+
 recipes.addShaped(<ImmersiveEngineering:graphiteElectrode>,[[null,<tfcudarymod:item.Carbon Rod>,<tfcudarymod:item.Carbon Rod>],
 										[<tfcudarymod:item.Carbon Rod>,<ore:dustGraphite>,<tfcudarymod:item.Carbon Rod>],
 										[<tfcudarymod:item.Carbon Rod>,<tfcudarymod:item.Carbon Rod>,null]]);
@@ -62,6 +68,8 @@ mods.immersiveengineering.MetalPress.addRecipe(<ProjRed|Core:projectred.core.par
 mods.immersiveengineering.MetalPress.addRecipe(<ProjRed|Core:projectred.core.part> * 32, <tfcm:item.Circuit>, <ImmersiveEngineering:mold>, 100, 1);
 mods.immersiveengineering.MetalPress.addRecipe(<ProjRed|Core:projectred.core.drawplate> * 3, <ore:blockDiamond>, <ImmersiveEngineering:mold>, 10000, 1);
 mods.immersiveengineering.MetalPress.addRecipe(<ProjRed|Core:projectred.core.part:12> * 8, <ProjRed|Core:projectred.core.part:11>, <ImmersiveEngineering:mold>, 10000, 1);
+
+mods.immersiveengineering.MetalPress.addRecipe(<appliedenergistics2:item.ItemMultiMaterial:13>, <ore:blockIron>, <ImmersiveEngineering:mold>, 10000, 1);
 
 
 //Blast Furnace
