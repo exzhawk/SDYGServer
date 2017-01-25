@@ -115,7 +115,7 @@ mods.thermalexpansion.Insolator.addRecipe(9600, <ThermalExpansion:material:517>,
 
 //Fluid Transposer
 //InputRF, InputStack, OutputStack, InputFluid
-mods.thermalexpansion.Transposer.addFillRecipe(20000, <appliedenergistics2:item.ItemMultiMaterial:1>, <appliedenergistics2:item.ItemMultiMaterial>, <liquid:redstone> * 100);
+mods.thermalexpansion.Transposer.addFillRecipe(20000, <appliedenergistics2:item.ItemMultiMaterial>, <appliedenergistics2:item.ItemMultiMaterial:1>, <liquid:redstone> * 100);
 mods.thermalexpansion.Transposer.addFillRecipe(10000000, <ExtraUtilities:decorativeBlock1:1>, <appliedenergistics2:tile.BlockSkyStone>, <liquid:ender> * 1000);
 //InputRF, InputStack, InputFluid, OutputStack, Chance
 //mods.thermalexpansion.Transposer.addExtractRecipe(20000, <minecraft:leaves>, <liquid:water> * 50, <minecraft:stick>, 100);
